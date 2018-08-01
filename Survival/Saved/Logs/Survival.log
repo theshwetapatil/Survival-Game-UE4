@@ -1221,3 +1221,845 @@ Exception rethrown at [0]:
 [2018.08.01-12.57.47:808][ 58]LogSavePackage: Save=552.07ms
 [2018.08.01-12.57.47:808][ 58]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltData403A09B449A82C6E2EB8E0966B7C56E7.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
 [2018.08.01-12.57.47:813][ 58]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset
+[2018.08.01-13.06.04:139][148]LogSavePackage: Save=192.29ms
+[2018.08.01-13.06.04:139][148]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/M_SimpleLandscape3325EC7C44A2DEFB73C75CAF6BB61313.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/M_SimpleLandscape.uasset'
+[2018.08.01-13.06.04:144][148]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/M_SimpleLandscape.uasset
+[2018.08.01-13.06.06:494][164]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.06.19:359][164]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.06.19:455][164]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.06.19:480][164]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.06.19:480][164]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.06.20:409][164]LogSlate: Took 0.243503 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.01-13.06.31:140][172]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.06.31:140][172]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.06.31:501][173]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.06.31:502][173]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.06.31:823][174]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.06.31:823][174]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.06.31:823][174]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.06.32:181][175]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.06.32:674][175]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.06.32:674][175]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.06.32:675][175]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.01-13.06.34:531][177]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.06.34:531][177]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.01-13.06.35:405][219]LogSlate: Window 'M_SimpleLandscape' being destroyed
+[2018.08.01-13.06.35:550][219]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.01-13.06.35:588][219]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.01-13.06.35:588][219]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.08.01-13.06.35:588][219]MaterialEditorStats: Texture samplers: 2/16
+[2018.08.01-13.07.16:874][527]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.07.17:115][528]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.07.17:115][528]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.07.17:115][528]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.07.18:741][602]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.07.18:751][603]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.07.18:856][615]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.07.19:282][663]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.07.19:299][665]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.07.19:461][678]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.07.20:508][725]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.07.22:308][803]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.07.22:422][808]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.07.22:678][823]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.07.22:734][823]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.07.22:763][823]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.07.23:442][851]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.07.24:935][906]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.07.24:935][906]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.07.24:935][906]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.07.25:198][919]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.07.25:414][928]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.07.25:590][936]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.07.26:883][998]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.07.27:347][ 13]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.07.27:347][ 13]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.07.28:697][ 72]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.07.29:071][ 88]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.07.30:162][135]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.07.31:206][176]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.07.31:215][176]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.07.31:215][176]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.07.31:231][176]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.07.31:458][186]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.07.32:884][247]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.07.33:234][262]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.07.33:307][265]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.07.34:269][293]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.07.34:269][293]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.07.34:269][293]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.07.34:269][293]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.07.34:269][293]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.07.34:269][293]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.07.34:610][294]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.07.34:931][295]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.07.34:932][295]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.07.34:932][295]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.01-13.07.35:403][296]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.07.35:705][297]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.01-13.07.36:371][298]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.01-13.07.36:371][298]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.01-13.07.36:371][298]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.08.01-13.07.36:371][298]MaterialEditorStats: Texture samplers: 2/16
+[2018.08.01-13.07.44:720][323]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.07.44:766][325]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.07.44:766][325]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.07.44:766][325]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.07.48:627][503]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.07.48:671][505]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.07.49:065][522]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.07.50:510][579]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.07.51:647][625]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.07.51:836][633]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.07.52:279][635]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.07.52:569][636]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.07.52:569][636]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.07.52:569][636]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.07.53:235][638]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.01-13.07.53:235][638]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.07.53:235][638]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.01-13.07.53:884][639]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.01-13.07.53:884][639]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.01-13.07.53:884][639]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.08.01-13.07.53:884][639]MaterialEditorStats: Texture samplers: 2/16
+[2018.08.01-13.07.54:291][640]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.07.54:378][640]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.07.54:413][641]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.07.54:413][641]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.07.54:413][641]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.07.55:757][695]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.07.56:003][706]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.07.56:429][725]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.07.57:498][772]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.07.57:917][790]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.07.58:510][816]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.07.58:688][827]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.07.58:723][827]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.07.58:732][827]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.08.00:779][906]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.08.00:779][906]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.08.00:779][906]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.08.01:864][961]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.08.01:943][969]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.08.01:954][970]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.08.03:599][ 63]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.08.03:625][ 64]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.08.03:670][ 66]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.08.05:635][160]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.08.07:207][236]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.08.07:360][243]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.08.10:127][372]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.01-13.08.10:385][382]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.08.10:498][382]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.08.10:510][382]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.08.11:537][428]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.08.13:106][496]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.08.13:153][498]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.08.13:410][506]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.08.13:442][507]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.08.13:800][544]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.08.13:927][557]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.08.14:572][590]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.08.15:738][641]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.08.16:012][653]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.08.16:267][661]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.08.16:752][685]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.08.16:753][685]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.08.16:753][685]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.08.18:417][749]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.08.18:417][749]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.08.18:417][749]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.08.18:463][749]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.08.18:736][749]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.08.18:736][749]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.08.18:736][749]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.08.01-13.08.19:026][750]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.08.19:026][750]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.08.19:026][750]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.08.19:087][750]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.08.19:087][750]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.08.19:087][750]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.08.19:087][750]LogSlate: Took 0.053623 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.01-13.08.20:975][834]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.08.21:164][842]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.08.23:305][936]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.08.23:603][949]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.08.25:509][ 32]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.08.27:323][141]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.08.27:341][143]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.08.27:535][164]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.01-13.08.29:373][263]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.08.29:418][263]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.01-13.08.31:378][442]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.01-13.08.31:378][442]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.01-13.08.31:378][442]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.08.01-13.08.31:378][442]MaterialEditorStats: Texture samplers: 2/16
+[2018.08.01-13.08.38:479][840]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.08.38:513][840]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.08.38:513][840]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.08.38:513][840]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.08.38:542][840]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.08.01-13.08.38:558][840]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.08.01-13.08.41:600][973]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.01-13.08.41:654][975]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.08.41:763][980]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.08.44:042][ 78]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.08.44:064][ 79]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.08.44:087][ 80]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.08.45:797][173]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.08.46:980][267]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.08.47:099][274]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.08.47:109][275]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.08.48:240][374]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.08.49:122][447]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.08.49:636][472]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.08.51:057][511]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.08.51:057][511]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.01-13.08.51:057][511]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.08.51:057][511]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.01-13.08.51:241][512]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.01-13.08.51:241][512]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.01-13.08.51:241][512]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.08.01-13.08.51:241][512]MaterialEditorStats: Texture samplers: 2/16
+[2018.08.01-13.09.00:163][337]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.09.00:198][337]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.09.00:198][337]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.09.00:198][337]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.09.00:223][337]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.08.01-13.09.00:280][337]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.08.01-13.09.02:138][432]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.01-13.09.02:148][433]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.09.02:175][435]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.09.02:917][503]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.09.02:939][505]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.09.03:002][511]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.09.03:609][568]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.09.04:606][657]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.09.04:709][666]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.09.04:837][678]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.09.05:718][759]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.09.06:248][810]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.09.06:507][834]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.09.07:003][880]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.09.07:174][896]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.01-13.09.07:700][945]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.09.08:028][974]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.01-13.09.12:382][469]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.09.12:408][469]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.09.12:408][469]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.09.12:408][469]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.09.12:453][469]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.08.01-13.09.13:530][517]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.09.13:550][517]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.01-13.09.13:568][517]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.08.01-13.09.13:584][517]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.09.13:596][517]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.01-13.09.13:596][517]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.01-13.09.16:335][651]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.09.16:355][653]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.09.16:377][655]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.09.17:074][725]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.09.17:084][726]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.09.17:317][751]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.09.17:803][801]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.09.17:814][802]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.09.19:196][915]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.09.19:243][920]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.09.20:544][  0]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.09.21:374][ 83]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.09.22:132][128]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.09.22:246][132]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.01-13.09.24:419][245]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.09.24:627][264]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.01-13.09.29:631][817]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.09.29:645][817]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.09.29:645][817]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.09.29:645][817]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.09.29:701][817]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.08.01-13.09.31:411][905]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.09.31:424][906]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.09.31:424][906]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.09.32:159][971]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.09.32:181][973]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.09.32:312][985]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.09.32:974][ 43]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.09.33:850][120]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.09.33:984][132]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.09.34:315][163]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.09.35:198][242]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.09.35:612][279]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.09.35:890][304]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.01-13.09.36:577][364]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.09.36:744][380]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.01-13.09.38:194][510]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.09.38:230][510]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.09.38:230][510]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.09.38:230][510]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.09.38:265][510]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.08.01-13.09.40:186][605]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.09.40:210][607]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.09.40:340][619]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.09.41:001][679]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.09.41:025][681]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.09.41:060][684]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.09.41:715][744]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.09.42:642][827]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.09.42:750][837]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.09.42:904][852]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.09.43:795][934]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.09.44:307][982]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.09.44:578][999]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.09.44:578][999]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.09.44:655][999]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.09.44:655][999]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.08.01-13.09.46:403][ 72]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.01-13.09.46:557][ 85]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.09.46:581][ 87]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.09.47:661][182]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.09.47:684][184]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.09.47:684][184]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.09.48:424][249]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.09.48:438][250]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.09.48:519][257]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.09.49:657][357]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.09.50:167][403]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.09.50:289][414]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.09.51:096][484]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.09.51:265][500]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.09.51:783][542]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.09.51:817][542]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.01-13.09.51:852][542]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.08.01-13.09.52:962][593]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.01-13.09.53:074][602]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.01-13.09.53:578][646]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.09.54:017][686]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.09.54:065][690]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.09.54:610][740]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.09.54:881][764]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.09.54:897][765]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.09.55:349][803]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.09.55:749][839]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.09.56:235][881]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.09.56:342][881]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.09.56:342][881]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.08.01-13.09.56:392][881]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.01-13.09.57:769][945]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.09.58:054][969]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.09.58:211][983]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.09.58:688][ 26]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.09.58:941][ 48]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.09.59:141][ 66]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.09.59:543][103]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.09.59:570][105]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.10.00:622][200]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.10.01:105][245]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.10.01:389][267]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.10.02:284][348]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.10.02:462][364]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.10.02:896][405]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.01-13.10.03:773][481]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.10.03:784][482]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.01-13.10.04:987][588]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.10.05:023][588]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.10.05:023][588]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.10.05:023][588]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.10.05:042][588]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.08.01-13.10.06:428][643]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.10.06:476][643]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.08.01-13.10.06:511][643]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.01-13.10.06:586][646]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.01-13.10.06:634][648]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.10.08:786][756]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.10.08:842][761]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.10.08:853][762]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.10.09:488][820]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.10.09:606][831]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.10.09:617][832]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.10.10:351][901]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.10.11:123][971]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.10.11:390][996]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.10.11:545][ 10]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.10.12:343][ 79]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.10.12:532][ 97]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.10.13:186][158]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.01-13.10.14:173][248]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.10.14:278][254]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.10.14:309][254]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.01-13.10.14:320][254]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.08.01-13.10.14:362][255]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.01-13.10.18:202][483]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.10.18:235][483]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.08.01-13.10.22:192][737]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.10.22:238][737]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.10.22:238][737]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.08.01-13.10.22:282][738]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.01-13.10.22:424][744]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.10.24:106][822]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.10.24:159][822]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.08.01-13.10.24:187][822]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.01-13.10.29:856][137]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.01-13.10.29:951][144]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.01-13.10.29:960][145]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.10.32:575][329]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.10.32:626][329]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.08.01-13.10.32:901][340]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.01-13.10.33:508][367]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.01-13.10.33:667][378]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.01-13.10.35:604][482]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.01-13.10.36:459][518]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.10.37:466][560]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.10.38:789][620]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.10.38:790][620]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.10.38:827][620]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.01-13.10.38:827][620]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.08.01-13.10.38:855][620]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.01-13.10.39:332][642]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.01-13.10.42:046][794]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.01-13.10.42:318][804]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.10.42:464][810]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.10.44:563][938]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.10.44:634][946]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.10.44:751][958]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.10.45:015][979]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.10.45:042][979]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.08.01-13.10.45:465][996]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.01-13.10.46:178][ 28]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.01-13.10.46:373][ 36]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.10.47:514][ 46]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.10.47:514][ 46]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.10.47:514][ 46]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.10.47:514][ 46]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.10.47:885][ 47]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.10.47:885][ 47]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.10.47:885][ 47]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.10.48:642][ 49]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.10.48:642][ 49]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.10.48:642][ 49]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.10.48:955][ 50]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.10.49:318][ 51]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.10.49:318][ 51]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.01-13.10.49:663][ 52]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.10.49:663][ 52]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.01-13.10.49:987][ 52]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.01-13.10.49:987][ 52]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.01-13.10.49:987][ 52]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.08.01-13.10.49:988][ 52]MaterialEditorStats: Texture samplers: 2/16
+[2018.08.01-13.11.06:289][329]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.11.06:299][329]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.11.06:299][329]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.11.06:299][329]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.11.07:902][399]LogMaterialEditor: Applying material M_SimpleLandscape
+[2018.08.01-13.11.43:413][399]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.11.43:413][399]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.11.43:413][399]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.11.43:414][399]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.11.43:414][399]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.11.43:414][399]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.11.43:414][399]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.11.43:414][399]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.11.43:414][399]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.11.43:414][399]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.11.43:414][399]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.01-13.11.43:414][399]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.11.43:442][399]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.01-13.11.43:565][399]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.11.43:783][399]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.11.43:784][399]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.11.43:784][399]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.11.44:222][399]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.11.44:311][399]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.11.44:311][399]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.11.44:376][399]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.08.01-13.11.44:417][399]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.08.01-13.11.44:544][399]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.08.01-13.11.44:544][399]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SimpleLandscape, compiling. 
+[2018.08.01-13.11.46:175][399]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.08.01-13.11.46:175][399]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.01-13.11.46:175][399]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.01-13.11.46:175][399]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.08.01-13.11.46:175][399]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.08.01-13.11.46:175][399]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.08.01-13.11.46:175][399]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.08.01-13.11.46:175][399]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.08.01-13.11.46:175][399]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.01-13.11.46:175][399]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.01-13.11.46:175][399]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.01-13.11.46:175][399]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.11.46:175][399]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.11.46:207][399]TextureStreamingBuild: Display: Compiling optional shaders took 1.760 seconds.
+[2018.08.01-13.11.54:799][721]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.11.54:808][721]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.11.54:826][721]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.11.57:135][787]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.11.57:135][787]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.11.57:135][787]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.11.57:135][787]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.11.57:389][788]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.11.57:712][789]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.11.57:712][789]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.11.57:712][789]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.11.58:055][790]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.11.58:420][791]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.11.58:420][791]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.11.58:421][791]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.11.58:421][791]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.11.58:788][792]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.01-13.11.58:788][792]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.11.59:109][793]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.01-13.12.00:469][796]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.08.01-13.12.00:469][796]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.08.01-13.12.00:469][796]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.08.01-13.12.00:469][796]MaterialEditorStats: Texture samplers: 2/16
+[2018.08.01-13.12.01:914][800]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Survival_Map' took 0.028
+[2018.08.01-13.12.01:989][800]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LandscapeAssets/M_SimpleLandscape] ([1] browsable assets)...
+[2018.08.01-13.12.02:114][800]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LandscapeAssets/M_SimpleLandscape.M_SimpleLandscape]
+[2018.08.01-13.12.02:115][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/LandscapeAssets/M_SimpleLandscape]
+[2018.08.01-13.12.02:139][800]LogSavePackage: Save=14.96ms
+[2018.08.01-13.12.02:139][800]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/M_SimpleLandscape_Auto5E2A0AC2D47D18C5BE9EE318FF1E46605.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/LandscapeAssets/M_SimpleLandscape_Auto5.uasset'
+[2018.08.01-13.12.02:140][800]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/LandscapeAssets/M_SimpleLandscape_Auto5.uasset
+[2018.08.01-13.12.02:140][800]LogFileHelpers: Auto-saving content packages took 0.224
+[2018.08.01-13.13.22:150][ 36]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.13.22:246][ 37]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.13.22:246][ 37]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.13.22:246][ 37]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.13.24:656][130]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.01-13.13.24:656][130]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.13.24:656][130]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.01-13.13.25:004][131]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.13.25:004][131]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.01-13.13.25:004][131]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.01-13.13.25:004][131]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.13.25:338][132]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.01-13.13.25:338][132]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.13.25:338][132]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.01-13.13.25:667][133]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.01-13.13.25:667][133]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.13.26:042][134]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.01-13.13.27:006][136]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.08.01-13.13.27:006][136]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.08.01-13.13.27:006][136]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.08.01-13.13.27:006][136]MaterialEditorStats: Texture samplers: 2/16
+[2018.08.01-13.13.39:349][269]LogMaterialEditor: Applying material M_SimpleLandscape
+[2018.08.01-13.13.40:064][269]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.13.40:099][269]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.13.40:099][269]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.13.40:099][269]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.01-13.13.40:157][269]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.13.40:220][269]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.13.40:270][269]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SimpleLandscape, compiling. 
+[2018.08.01-13.13.41:734][269]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.08.01-13.13.41:734][269]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.08.01-13.13.41:734][269]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.08.01-13.13.41:734][269]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.08.01-13.13.41:734][269]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.08.01-13.13.41:734][269]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.08.01-13.13.41:734][269]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.01-13.13.41:734][269]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.08.01-13.13.41:734][269]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.08.01-13.13.41:734][269]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.08.01-13.13.41:734][269]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.08.01-13.13.41:734][269]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.08.01-13.13.41:734][269]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.01-13.13.41:734][269]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.01-13.13.41:734][269]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.01-13.13.41:734][269]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.01-13.13.41:735][269]TextureStreamingBuild: Display: Compiling optional shaders took 1.481 seconds.
+[2018.08.01-13.13.41:803][271]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.13.42:930][324]LogMaterialEditor: Saving and Compiling material M_SimpleLandscape
+[2018.08.01-13.13.45:150][324]LogSavePackage: Save=19.00ms
+[2018.08.01-13.13.45:150][324]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/M_SimpleLandscape232734C045E5A319D2A895A2B35E44B2.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/M_SimpleLandscape.uasset'
+[2018.08.01-13.13.45:153][324]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/M_SimpleLandscape.uasset
+[2018.08.01-13.13.45:158][324]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.08.01-13.13.45:159][324]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.08.01-13.13.45:159][324]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.08.01-13.13.45:159][324]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.01-13.16.22:106][896]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.16.22:182][896]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.08.01-13.16.22:182][896]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.08.01-13.16.22:182][896]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.01-13.16.22:182][896]LogMaterial: Warning: Material /Game/LandscapeAssets/M_SimpleLandscape.M_SimpleLandscape needed to have new flag set bUsedWithStaticLighting !
+[2018.08.01-13.16.22:212][896]LogMaterial: Warning: Material /Engine/Transient.M_SimpleLandscape needed to have new flag set bUsedWithStaticLighting !
+[2018.08.01-13.16.22:245][896]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.16.22:305][896]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.16.22:421][896]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.16.22:525][896]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.16.22:560][896]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.16.22:663][896]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.16.27:684][ 10]LogShaderCompilers: Display: Shaders left to compile 145
+[2018.08.01-13.16.27:684][ 10]LogShaderCompilers: Display: Shaders left to compile 144
+[2018.08.01-13.16.28:028][ 11]LogShaderCompilers: Display: Shaders left to compile 143
+[2018.08.01-13.16.28:028][ 11]LogShaderCompilers: Display: Shaders left to compile 142
+[2018.08.01-13.16.28:361][ 12]LogShaderCompilers: Display: Shaders left to compile 141
+[2018.08.01-13.16.28:361][ 12]LogShaderCompilers: Display: Shaders left to compile 140
+[2018.08.01-13.16.28:758][ 13]LogShaderCompilers: Display: Shaders left to compile 139
+[2018.08.01-13.16.28:758][ 13]LogShaderCompilers: Display: Shaders left to compile 138
+[2018.08.01-13.16.28:758][ 13]LogShaderCompilers: Display: Shaders left to compile 137
+[2018.08.01-13.16.29:093][ 14]LogShaderCompilers: Display: Shaders left to compile 136
+[2018.08.01-13.16.29:435][ 15]LogShaderCompilers: Display: Shaders left to compile 135
+[2018.08.01-13.16.29:435][ 15]LogShaderCompilers: Display: Shaders left to compile 134
+[2018.08.01-13.16.29:788][ 16]LogShaderCompilers: Display: Shaders left to compile 133
+[2018.08.01-13.16.29:788][ 16]LogShaderCompilers: Display: Shaders left to compile 132
+[2018.08.01-13.16.29:788][ 16]LogShaderCompilers: Display: Shaders left to compile 131
+[2018.08.01-13.16.30:129][ 17]LogShaderCompilers: Display: Shaders left to compile 130
+[2018.08.01-13.16.30:129][ 17]LogShaderCompilers: Display: Shaders left to compile 129
+[2018.08.01-13.16.30:129][ 17]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.08.01-13.16.30:490][ 18]LogShaderCompilers: Display: Shaders left to compile 127
+[2018.08.01-13.16.30:490][ 18]LogShaderCompilers: Display: Shaders left to compile 117
+[2018.08.01-13.16.30:490][ 18]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.08.01-13.16.33:225][ 26]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.08.01-13.16.34:226][ 29]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.08.01-13.16.34:947][ 31]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.08.01-13.16.36:629][ 36]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.08.01-13.16.37:021][ 36]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.08.01-13.16.37:319][ 37]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.08.01-13.16.37:320][ 37]MaterialEditorStats: Base pass shader with Surface Lightmap: 118 instructions
+[2018.08.01-13.16.37:320][ 37]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.08.01-13.16.37:320][ 37]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.08.01-13.16.37:320][ 37]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.01-13.16.38:977][ 40]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.08.01-13.16.40:184][ 43]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.08.01-13.16.41:045][ 44]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.08.01-13.16.42:747][ 47]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.01-13.16.43:980][ 51]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.01-13.16.58:047][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.01-13.17.11:090][875]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2018.08.01-13.17.11:247][875]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 128X128)
+[2018.08.01-13.17.11:403][875]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.17.11:463][875]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.01-13.17.11:463][875]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.01-13.17.11:463][875]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.01-13.17.11:518][875]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 128X128)
+[2018.08.01-13.17.11:604][875]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 128X128)
+[2018.08.01-13.17.11:651][875]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 128X128)
+[2018.08.01-13.17.19:224][974]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.01-13.17.20:289][977]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.01-13.17.20:626][978]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.17.37:073][357]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2018.08.01-13.18.08:703][115]MapCheck: New page: Map Check
+[2018.08.01-13.18.08:716][115]LightingResults: New page: Lighting Build - Aug 2, 2018, 12:18:08 AM
+[2018.08.01-13.18.08:823][115]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.01-13.18.08:847][115]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.01-13.18.08:847][115]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.01-13.18.08:848][115]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.01-13.18.08:848][115]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13440
+[2018.08.01-13.18.13:372][115]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.01-13.18.13:372][115]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.01-13.18.13:372][115]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.01-13.18.13:372][115]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.01-13.18.13:372][115]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.01-13.18.14:047][115]LogEditorBuildUtils: Build time 0:05
+[2018.08.01-13.18.14:095][115]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2018.08.01-13.18.14:162][115]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.18.14:163][115]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2018.08.01-13.18.14:254][116]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.01-13.18.20:856][226]LogMaterialEditor: Saving and Compiling material M_SimpleLandscape
+[2018.08.01-13.18.20:885][226]LogSavePackage: Save=6.08ms
+[2018.08.01-13.18.20:885][226]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/M_SimpleLandscapeE9F50BCE4406ADBFBAC2F1ABE4C24ACF.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/M_SimpleLandscape.uasset'
+[2018.08.01-13.18.20:889][226]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/M_SimpleLandscape.uasset
+[2018.08.01-13.18.37:709][737]LogSavePackage: Save=7.92ms
+[2018.08.01-13.18.37:709][737]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Dirt_LayerInfoB944D56949E4197E4AFC188A3722F9A8.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/Dirt_LayerInfo.uasset'
+[2018.08.01-13.18.37:714][737]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/Dirt_LayerInfo.uasset
+[2018.08.01-13.18.46:923][291]LogSavePackage: Save=6.57ms
+[2018.08.01-13.18.46:923][291]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Grass_LayerInfoAAC3F16E4221F1B29C0FEBB21DC1E927.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/Grass_LayerInfo.uasset'
+[2018.08.01-13.18.46:927][291]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/Grass_LayerInfo.uasset
+[2018.08.01-13.19.00:959][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.01-13.22.11:491][218]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 128X128)
+[2018.08.01-13.22.11:678][218]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 128X128)
+[2018.08.01-13.22.11:776][218]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 128X128)
+[2018.08.01-13.22.11:859][218]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 128X128)
+[2018.08.01-13.22.12:189][218]LogSavePackage: Save=899.53ms
+[2018.08.01-13.22.12:189][218]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_Auto6EE1A864A484D74C80B5167B794499600.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Survival_Map_Auto6.umap'
+[2018.08.01-13.22.12:191][218]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Survival_Map_Auto6.umap
+[2018.08.01-13.22.12:216][218]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Survival_Map' took 1.922
+[2018.08.01-13.22.12:216][218]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.922
+[2018.08.01-13.25.06:731][576]Job is a success!
+[2018.08.01-13.25.16:350][577]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 1.582s
+[2018.08.01-13.25.16:350][577]LogVolumetricLightmapImport:      Indirection Texture 80x80x80 = 2.0Mb
+[2018.08.01-13.25.16:350][577]LogVolumetricLightmapImport:      BrickData 1280x90x5 = 20.3Mb (trimmed 8.8Mb due to 0.010000 MinBrickError)
+[2018.08.01-13.25.16:350][577]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.01-13.25.16:350][577]LogVolumetricLightmapImport:          0: 2.7% covering 100.0% of volume
+[2018.08.01-13.25.16:350][577]LogVolumetricLightmapImport:          1: 9.0% covering 5.2% of volume
+[2018.08.01-13.25.16:350][577]LogVolumetricLightmapImport:          2: 88.3% covering 0.8% of volume
+[2018.08.01-13.25.22:006][577]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.08.01-13.25.22:006][577]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.08.01-13.25.22:006][577]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2018.08.01-13.25.22:006][577]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2018.08.01-13.25.22:006][577]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2018.08.01-13.25.22:006][577]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2018.08.01-13.25.22:006][577]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2018.08.01-13.25.22:006][577]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2018.08.01-13.25.22:007][577]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2018.08.01-13.25.22:007][577]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2018.08.01-13.25.22:007][577]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2018.08.01-13.25.22:007][577]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2018.08.01-13.25.22:007][577]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2018.08.01-13.25.22:007][577]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2018.08.01-13.25.22:007][577]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2018.08.01-13.25.22:007][577]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2018.08.01-13.25.22:007][577]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2018.08.01-13.25.22:007][577]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 256X256)
+[2018.08.01-13.25.22:007][577]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2018.08.01-13.25.22:007][577]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2018.08.01-13.25.22:008][577]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2018.08.01-13.25.22:008][577]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2018.08.01-13.25.22:008][577]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2018.08.01-13.25.22:008][577]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2018.08.01-13.25.22:008][577]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2018.08.01-13.25.22:008][577]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2018.08.01-13.25.22:008][577]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2018.08.01-13.25.22:008][577]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2018.08.01-13.25.22:008][577]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2018.08.01-13.25.22:008][577]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2018.08.01-13.25.22:008][577]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2018.08.01-13.25.22:008][577]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2018.08.01-13.25.22:008][577]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 64X64)
+[2018.08.01-13.25.22:008][577]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 64X64)
+[2018.08.01-13.25.29:182][577]LogTexture: Display: Building textures: ShadowMapTexture2D_104 (G8, 128X128)
+[2018.08.01-13.25.29:182][577]LogTexture: Display: Building textures: ShadowMapTexture2D_105 (G8, 128X128)
+[2018.08.01-13.25.29:182][577]LogTexture: Display: Building textures: ShadowMapTexture2D_107 (G8, 128X128)
+[2018.08.01-13.25.29:182][577]LogTexture: Display: Building textures: ShadowMapTexture2D_106 (G8, 128X128)
+[2018.08.01-13.25.29:182][577]LogTexture: Display: Building textures: ShadowMapTexture2D_109 (G8, 128X128)
+[2018.08.01-13.25.29:182][577]LogTexture: Display: Building textures: ShadowMapTexture2D_110 (G8, 128X128)
+[2018.08.01-13.25.29:183][577]LogTexture: Display: Building textures: ShadowMapTexture2D_108 (G8, 128X128)
+[2018.08.01-13.25.29:183][577]LogTexture: Display: Building textures: ShadowMapTexture2D_111 (G8, 128X128)
+[2018.08.01-13.25.29:183][577]LogTexture: Display: Building textures: ShadowMapTexture2D_112 (G8, 128X128)
+[2018.08.01-13.25.29:183][577]LogTexture: Display: Building textures: ShadowMapTexture2D_113 (G8, 128X128)
+[2018.08.01-13.25.29:183][577]LogTexture: Display: Building textures: ShadowMapTexture2D_115 (G8, 128X128)
+[2018.08.01-13.25.29:183][577]LogTexture: Display: Building textures: ShadowMapTexture2D_116 (G8, 128X128)
+[2018.08.01-13.25.29:183][577]LogTexture: Display: Building textures: ShadowMapTexture2D_114 (G8, 128X128)
+[2018.08.01-13.25.29:183][577]LogTexture: Display: Building textures: ShadowMapTexture2D_118 (G8, 128X128)
+[2018.08.01-13.25.29:183][577]LogTexture: Display: Building textures: ShadowMapTexture2D_117 (G8, 128X128)
+[2018.08.01-13.25.29:183][577]LogTexture: Display: Building textures: ShadowMapTexture2D_120 (G8, 32X32)
+[2018.08.01-13.25.29:184][577]LogTexture: Display: Building textures: ShadowMapTexture2D_119 (G8, 128X128)
+[2018.08.01-13.25.36:550][577]Lightmass on LAPTOP-SNI5BBA7: 7:09 min total, 2.40 sec importing, 676 ms setup, 30.7 sec photons, 6:34 min processing, 0 ms extra exporting [17/17 mappings]. Threads: 26:19 min total, 1:22 min processing.
+[2018.08.01-13.25.36:558][577]LogStaticLightingSystem: Illumination: 7:27 min (5.15 sec encoding lightmaps, 7.17 sec encoding shadowmaps)
+[2018.08.01-13.25.36:558][577]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 34 textures
+[2018.08.01-13.25.36:559][577]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 17 textures
+[2018.08.01-13.25.39:681][577]DumpUnbuiltLightIteractions
+[2018.08.01-13.25.39:681][577]Lights with unbuilt interactions: 0
+[2018.08.01-13.25.39:681][577]
+[2018.08.01-13.25.39:681][577]Primitives with unbuilt interactions: 0
+[2018.08.01-13.25.40:355][578]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.01-13.25.40:355][578]MapCheck: New page: Survival_Map - Aug 2, 2018, 12:25:40 AM
+[2018.08.01-13.25.40:902][578]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 547.184ms to complete.
+[2018.08.01-13.32.46:852][911]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Survival_Map' took 0.081
+[2018.08.01-13.32.46:858][911]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Survival_Map_BuiltData] ([1] browsable assets)...
+[2018.08.01-13.32.46:858][911]OBJ SavePackage: Finished generating thumbnails for package [/Game/Survival_Map_BuiltData]
+[2018.08.01-13.32.47:465][911]LogSavePackage: Save=261.85ms
+[2018.08.01-13.32.47:467][911]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltData_Auto72BC9BDA646D31160AC2202A05BFD6AE8.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Survival_Map_BuiltData_Auto7.uasset'
+[2018.08.01-13.32.47:472][911]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Survival_Map_BuiltData_Auto7.uasset
+[2018.08.01-13.32.47:473][911]LogFileHelpers: Auto-saving content packages took 0.618
+[2018.08.01-13.37.30:126][843]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 128X128)
+[2018.08.01-13.37.30:201][843]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.37.30:225][843]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.01-13.37.30:225][843]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.01-13.37.30:225][843]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.01-13.37.43:206][245]Cmd: SELECT NONE
+[2018.08.01-13.37.43:846][264]Cmd: SELECT NONE
+[2018.08.01-13.37.45:840][323]Cmd: TRANSACTION UNDO
+[2018.08.01-13.37.45:859][323]LogEditorTransaction: Undo Select None
+[2018.08.01-13.37.46:099][323]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.37.48:399][393]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.08.01-13.37.50:241][450]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.08.01-13.37.52:561][514]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.08.01-13.37.53:383][520]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.08.01-13.37.53:383][520]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.08.01-13.37.53:733][521]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.08.01-13.37.53:733][521]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.08.01-13.37.53:733][521]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.08.01-13.37.54:133][522]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.01-13.37.54:133][522]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.08.01-13.37.54:410][523]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.08.01-13.37.54:410][523]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.08.01-13.37.54:773][524]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.08.01-13.37.54:773][524]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.08.01-13.37.55:107][525]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.08.01-13.37.55:107][525]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.08.01-13.37.55:107][525]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.08.01-13.37.55:453][526]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.08.01-13.37.55:453][526]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.01-13.37.55:453][526]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.01-13.37.55:844][527]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.01-13.37.56:176][527]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.08.01-13.37.56:176][527]MaterialEditorStats: Base pass shader with Surface Lightmap: 118 instructions
+[2018.08.01-13.37.56:176][527]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.08.01-13.37.56:177][527]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.08.01-13.37.56:177][527]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.01-13.38.23:283][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.01-13.38.46:259][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.01-13.38.46:526][183]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 128X128)
+[2018.08.01-13.38.46:580][183]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 128X128)
+[2018.08.01-13.38.46:621][183]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 128X128)
+[2018.08.01-13.38.46:789][183]LogSavePackage: Save=308.17ms
+[2018.08.01-13.38.46:789][183]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_MapA15725FE427037D87B1EE79109324EB6.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2018.08.01-13.38.46:793][183]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap
+[2018.08.01-13.38.47:122][183]LogSavePackage: Save=278.05ms
+[2018.08.01-13.38.47:122][183]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltData4D17F87C4102BCB3C7A1CA93198CB9ED.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2018.08.01-13.38.47:128][183]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset
+[2018.08.01-13.38.53:985][333]LogSlate: Window 'Message' being destroyed
+[2018.08.01-13.38.57:896][333]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.38.57:993][333]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.01-13.38.57:993][333]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.01-13.38.57:993][333]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.01-13.38.58:004][333]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.38.58:048][333]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.38.58:091][333]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.38.58:131][333]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.38.58:170][333]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.38.58:203][333]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.38.58:245][333]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.38.58:370][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SimpleLandscape, compiling. 
+[2018.08.01-13.39.00:340][333]LogShaderCompilers: Display: Shaders left to compile 243
+[2018.08.01-13.39.00:340][333]LogShaderCompilers: Display: Shaders left to compile 242
+[2018.08.01-13.39.00:340][333]LogShaderCompilers: Display: Shaders left to compile 241
+[2018.08.01-13.39.00:407][333]LogShaderCompilers: Display: Shaders left to compile 240
+[2018.08.01-13.39.00:407][333]LogShaderCompilers: Display: Shaders left to compile 239
+[2018.08.01-13.39.00:407][333]LogShaderCompilers: Display: Shaders left to compile 238
+[2018.08.01-13.39.00:407][333]LogShaderCompilers: Display: Shaders left to compile 237
+[2018.08.01-13.39.00:407][333]LogShaderCompilers: Display: Shaders left to compile 236
+[2018.08.01-13.39.00:407][333]LogShaderCompilers: Display: Shaders left to compile 235
+[2018.08.01-13.39.00:407][333]LogShaderCompilers: Display: Shaders left to compile 234
+[2018.08.01-13.39.00:407][333]LogShaderCompilers: Display: Shaders left to compile 233
+[2018.08.01-13.39.00:407][333]LogShaderCompilers: Display: Shaders left to compile 232
+[2018.08.01-13.39.00:407][333]LogShaderCompilers: Display: Shaders left to compile 231
+[2018.08.01-13.39.00:407][333]LogShaderCompilers: Display: Shaders left to compile 230
+[2018.08.01-13.39.00:407][333]LogShaderCompilers: Display: Shaders left to compile 229
+[2018.08.01-13.39.00:407][333]LogShaderCompilers: Display: Shaders left to compile 228
+[2018.08.01-13.39.00:407][333]LogShaderCompilers: Display: Shaders left to compile 227
+[2018.08.01-13.39.00:407][333]LogShaderCompilers: Display: Shaders left to compile 217
+[2018.08.01-13.39.00:410][333]TextureStreamingBuild: Display: Compiling optional shaders took 2.116 seconds.
+[2018.08.01-13.39.00:529][333]LogShaderCompilers: Display: Shaders left to compile 207
+[2018.08.01-13.39.05:734][334]LogShaderCompilers: Display: Shaders left to compile 197
+[2018.08.01-13.39.05:734][334]LogShaderCompilers: Display: Shaders left to compile 187
+[2018.08.01-13.39.05:735][334]LogShaderCompilers: Display: Shaders left to compile 177
+[2018.08.01-13.39.05:735][334]LogShaderCompilers: Display: Shaders left to compile 167
+[2018.08.01-13.39.05:786][334]LogMaterial: Missing cached shader map for material M_SimpleLandscape, compiling. 
+[2018.08.01-13.39.07:968][504]LogShaderCompilers: Display: Shaders left to compile 165
+[2018.08.01-13.39.08:769][595]LogShaderCompilers: Display: Shaders left to compile 155
+[2018.08.01-13.39.09:011][623]LogShaderCompilers: Display: Shaders left to compile 145
+[2018.08.01-13.39.12:004][704]LogSavePackage: Save=250.25ms
+[2018.08.01-13.39.12:004][704]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map9744CEE641C83737B9A97A9BAF94C618.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2018.08.01-13.39.12:006][704]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap
+[2018.08.01-13.39.12:451][704]LogSavePackage: Save=396.56ms
+[2018.08.01-13.39.12:451][704]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltData3CD3226244D25CABE65965A4B2A921E9.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2018.08.01-13.39.12:458][704]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset
+[2018.08.01-13.39.21:814][869]LogShaderCompilers: Display: Shaders left to compile 135
+[2018.08.01-13.39.22:504][871]LogShaderCompilers: Display: Shaders left to compile 125
+[2018.08.01-13.39.23:242][873]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.08.01-13.39.26:459][882]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.08.01-13.39.26:814][883]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.08.01-13.39.28:849][889]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.08.01-13.39.30:231][893]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.08.01-13.39.30:232][893]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.08.01-13.39.33:441][902]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.08.01-13.39.34:491][905]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.08.01-13.39.34:858][906]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.08.01-13.39.38:757][917]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.08.01-13.39.38:757][917]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.01-13.39.38:758][917]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.01-13.39.54:232][ 30]LogSavePackage: Save=142.82ms
+[2018.08.01-13.39.54:232][ 30]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map87D530EE440A82D45F371184AE4530D8.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2018.08.01-13.39.54:234][ 30]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap
+[2018.08.01-13.39.54:549][ 30]LogSavePackage: Save=285.68ms
+[2018.08.01-13.39.54:549][ 30]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltData2F6EBAA24C33F32119C828B28BB192B9.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2018.08.01-13.39.54:553][ 30]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset

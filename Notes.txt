@@ -35,3 +35,19 @@ Copy/Paste tool- CRL+C, drag the region selected with selection tool and drop/ p
 Click on the button- Clear the region selection, to clear up the selected region
 ---------------
 Paint selction to set up materials on the scupltured areas. 
+Weighted and non-weighted painting
+
+Create material with Landscape layer blend(Grass and Dirt layers)
+Set preview weight of Layer Blend to 1 to preview the final material color
+
+When first time anything is added to the component, it rebiulds the material. Especially when combination has not been used before.
+
+When dirt is painted, it removes the grass. So eventually it fades from Grass color to Dirt color and then exclusively dirt color.
+-----------------
+Non-weighted layer- Can be painted on to each layer, if a way is set up for them to blend. This can be done with height maps.
+Eg. Grass layer is painted on the Rock layer, as the grass layer is blended into the rock layer, cracks in the rock can be filled with grass.
+That's the real power comes from of an advanced landscape system which can be set up.
+
+
+
+
