@@ -1,0 +1,23 @@
+Landscapes
+A component is made out of sections. And a section is made out of quads.
+The amount of the landscape tessselates(the amount of extra detail that it works into it's three dimensional space) is dictated by the number of quads which is determined by the numeber of sections.
+Components are used for larger sections.
+****If none of the component is visible, the section won't be drawn.
+
+Same hot keys as photoshop for sculpting tools.
+[ - To decrease the brush size
+] - To increase the brush size
+Left-Click- To create hills
+Hold Shift+Left-Click- To create holes
+
+****Ramp tool- Very very useful
+Click/ Select two points in the environment and click Add Ramp. Creates a ramp between those two points.
+
+Erosion tool- Simulates erosion/ what would happen over time to an environment.
+Very useful to a get much more natural look to the mountains and hills.
+
+Hydro Erosion tool- Simulates erosion/ what would happen if rain was to fall on the areas. Works in a very similar way to the standard erosion.
+Can create far more substantials dips.
+Change rain amount to get more effects. Reduced rain amount gives less agressive effect.
+---------------
+How to copy and paste, how to mirror, how to select regions
