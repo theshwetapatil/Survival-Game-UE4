@@ -1,3 +1,6 @@
 Unreal Engine Documentation: Landscape Technical reference
 https://docs.unrealengine.com/en-us/Engine/Landscape/TechnicalGuide
 
+Unreal Engine Documentation: Landscape Sculpting reference
+https://docs.unrealengine.com/en-us/Engine/Landscape/Editing/SculptMode
+

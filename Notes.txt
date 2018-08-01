@@ -21,3 +21,17 @@ Can create far more substantials dips.
 Change rain amount to get more effects. Reduced rain amount gives less agressive effect.
 ---------------
 How to copy and paste, how to mirror, how to select regions
+
+Retopologize tool is extremely useful, not used that often.
+It works by remapping the UVs such that when painted, it kinda handles the projection in a slightly nicer way. Useful when there are really really strong cliffs.
+
+Mirror tool is very useful. Allows to set the mirror location and axis for the mirrored environment.
+Very useful for team-based games. Makes sure that both sides of the landscape are exactly matched.
+
+Selection tool to select the region.
+Hold Shift+Select to unselect the selected region.
+
+Copy/Paste tool- CRL+C, drag the region selected with selection tool and drop/ paste is to the desired target area.
+Click on the button- Clear the region selection, to clear up the selected region
+---------------
+Paint selction to set up materials on the scupltured areas. 
