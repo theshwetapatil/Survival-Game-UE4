@@ -47,6 +47,10 @@ When dirt is painted, it removes the grass. So eventually it fades from Grass co
 Non-weighted layer- Can be painted on to each layer, if a way is set up for them to blend. This can be done with height maps.
 Eg. Grass layer is painted on the Rock layer, as the grass layer is blended into the rock layer, cracks in the rock can be filled with grass.
 That's the real power comes from of an advanced landscape system which can be set up.
+-----------------
+To create advanced landscapes- Create two material layers first and then the landscapes
+It's the crossover between making the layers and making the landscape material.
+Create a landscpae with two sub-materials within.
 
 
 
