@@ -51,7 +51,13 @@ That's the real power comes from of an advanced landscape system which can be se
 To create advanced landscapes- Create two material layers first and then the landscapes
 It's the crossover between making the layers and making the landscape material.
 Create a landscpae with two sub-materials within.
-
+Material fuction is like a material, but there is a big difference.
+It is way to create custom material nodes.
+-----------------
+Create a mask around the material, that is relative to how far is the perspective view from the object.
+Height result calculates what a height mask would look like between two materials.
+-----------------
+How to blend those materials into an advanced landscape.
 
 
 
