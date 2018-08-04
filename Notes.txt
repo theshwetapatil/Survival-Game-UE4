@@ -61,6 +61,12 @@ How to blend those materials into an advanced landscape.
 Fuzzy shading is function built to give a bit more realistic sheen to grass at certain angles.
 -----------------
 Getting the meshes in and getting an environment up and running that works nicely.
+To add tessellation, modify world displacement within the old dirt
+It is very costly to do tesselation.
+Convert 2D to 3D, far more realistic.
+Tessellation multiplier- When close tessellate, when far away, don't tessellate that much.
+-----------------
+Foliage is automatically added by the landscape.
 
 
 
