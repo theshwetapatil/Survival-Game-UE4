@@ -67,6 +67,10 @@ Convert 2D to 3D, far more realistic.
 Tessellation multiplier- When close tessellate, when far away, don't tessellate that much.
 -----------------
 Foliage is automatically added by the landscape.
+There are quite different types of foliage within unreal. They all use instance actors. Landscapes can automatically place foliage depending on certain variables, which is very useful.
+Grass landscape added.
+-----------------
+Foliage painting
 
 
 
