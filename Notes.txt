@@ -58,6 +58,10 @@ Create a mask around the material, that is relative to how far is the perspectiv
 Height result calculates what a height mask would look like between two materials.
 -----------------
 How to blend those materials into an advanced landscape.
+Fuzzy shading is function built to give a bit more realistic sheen to grass at certain angles.
+-----------------
+Getting the meshes in and getting an environment up and running that works nicely.
+
 
 
 
