@@ -71,6 +71,12 @@ There are quite different types of foliage within unreal. They all use instance 
 Grass landscape added.
 -----------------
 Foliage painting
+Just like grass setup, foliage tool objects can load out at a distance as well.
+If there is a load set up for the asset, they can have a specific foliage Skylinnks in it. This cuts down a lot of the overhead.
+These can be done in a persistent level as well. Certain graphical settings can be set up to remove foliage more abruptly than other machines.
+Foliage tool can be used to paint on to different meshes.
+It's a reasonably variable tool.
+
 
 
 

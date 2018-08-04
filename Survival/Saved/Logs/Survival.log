@@ -11448,3 +11448,585 @@ Exception rethrown at [0]:
 [2018.08.04-11.47.49:559][653]LogSavePackage: Save=348.13ms
 [2018.08.04-11.47.49:559][653]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Panting_Map_BuiltData464674CB40A47BCB55EAF7A045F190C5.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map_BuiltData.uasset'
 [2018.08.04-11.47.49:562][653]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map_BuiltData.uasset
+[2018.08.04-13.58.22:534][414]LogHttp: Warning: 000001CE809D0580: HTTP request timed out after 7586.51 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3FDC2DB8-48C5-F501-C3EF-38B766AB21C9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=c76cbc614dc4c6a1dc888b8aa3470b3f%7C57113a4ef07749e899daf8a54070ea17%7C6d46c3db-d58f-4b5d-93cd-6fe936b97061&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.08.04-13.58.26:217][414]LogHttp: Warning: 000001CE809D0580: request failed, libcurl error: 0 (No error)
+[2018.08.04-13.58.26:217][414]LogHttp: Warning: 000001CE809D0580: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1cdd15f3fb8 [can pipeline])
+[2018.08.04-13.58.26:217][414]LogHttp: Warning: 000001CE809D0580: libcurl info message cache 1 (Re-using existing connection! (#344) with host datarouter.ol.epicgames.com)
+[2018.08.04-13.58.26:217][414]LogHttp: Warning: 000001CE809D0580: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.200.55.200) port 443 (#344))
+[2018.08.04-13.58.26:217][414]LogHttp: Warning: 000001CE809D0580: libcurl info message cache 3 (upload completely sent off: 720 out of 720 bytes)
+[2018.08.04-13.58.26:217][414]LogHttp: Warning: 000001CE809D0580: libcurl info message cache 4 (Closing connection 344)
+[2018.08.04-13.58.26:217][414]LogHttp: Warning: 000001CE809D0580: libcurl info message cache 5 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.08.04-14.04.11:623][389]LogSavePackage: Save=60.02ms
+[2018.08.04-14.04.11:623][389]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/LandscapePlainsGrassDAD9319D4320CC7302743D88D967C602.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/LandscapePlainsGrass.uasset'
+[2018.08.04-14.04.11:641][389]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/LandscapePlainsGrass.uasset
+[2018.08.04-14.06.02:989][959]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Panting_Map' took 0.035
+[2018.08.04-14.06.02:990][959]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LandscapeAssets/LandscapePlainsGrass] ([1] browsable assets)...
+[2018.08.04-14.06.02:991][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/LandscapeAssets/LandscapePlainsGrass]
+[2018.08.04-14.06.03:006][959]LogSavePackage: Save=5.07ms
+[2018.08.04-14.06.03:006][959]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/LandscapePlainsGrass_Auto43F89FF754929DF3EE00CEC8785F32BBB.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/LandscapeAssets/LandscapePlainsGrass_Auto4.uasset'
+[2018.08.04-14.06.03:007][959]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/LandscapeAssets/LandscapePlainsGrass_Auto4.uasset
+[2018.08.04-14.06.03:007][959]LogFileHelpers: Auto-saving content packages took 0.017
+[2018.08.04-14.06.49:462][336]LogSavePackage: Save=4.77ms
+[2018.08.04-14.06.49:462][336]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/LandscapePlainsGrass9889E0574FEA17FD9796C8B04756DD34.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/LandscapePlainsGrass.uasset'
+[2018.08.04-14.06.49:465][336]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/LandscapePlainsGrass.uasset
+[2018.08.04-14.07.17:125][135]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.08.04-14.07.17:180][135]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.04-14.07.17:180][135]LogMaterial: 	Grass> Input missing
+[2018.08.04-14.07.17:225][135]MaterialEditorStats: Error: [SM5] Grass> Input missing
+[2018.08.04-14.07.45:524][698]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.08.04-14.07.45:531][698]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.04-14.07.45:531][698]LogMaterial: 	Grass> Input missing
+[2018.08.04-14.07.45:568][698]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.08.04-14.07.45:593][698]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.04-14.07.45:593][698]LogMaterial: 	Grass> Input missing
+[2018.08.04-14.08.09:657][213]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.08.04-14.08.09:685][213]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.04-14.08.09:685][213]LogMaterial: 	Grass> Input missing
+[2018.08.04-14.08.24:149][529]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.08.04-14.08.24:155][529]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.04-14.08.24:155][529]LogMaterial: 	Grass> Input missing
+[2018.08.04-14.08.24:204][529]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.08.04-14.08.24:214][529]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.04-14.08.24:214][529]LogMaterial: 	Grass> Input missing
+[2018.08.04-14.10.14:379][948]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.08.04-14.10.14:407][948]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.04-14.10.14:407][948]LogMaterial: 	Grass> Input missing
+[2018.08.04-14.10.16:922][ 75]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.08.04-14.10.17:031][ 76]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.08.04-14.10.17:031][ 76]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.04-14.10.17:031][ 76]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.08.04-14.10.18:193][139]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.08.04-14.10.18:451][154]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.08.04-14.10.18:622][164]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.08.04-14.10.18:826][176]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.08.04-14.10.18:909][181]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.08.04-14.10.19:272][202]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.08.04-14.10.19:305][204]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.08.04-14.10.19:321][205]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.08.04-14.10.19:958][238]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.04-14.10.20:801][261]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.08.04-14.10.20:801][261]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.08.04-14.10.20:801][261]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.08.04-14.10.21:110][262]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.08.04-14.10.21:110][262]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.08.04-14.10.21:110][262]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.08.04-14.10.21:476][263]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.08.04-14.10.21:476][263]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.08.04-14.10.22:006][264]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.08.04-14.10.22:006][264]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.04-14.10.22:006][264]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.08.04-14.10.22:339][265]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.08.04-14.10.22:340][265]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.08.04-14.10.22:723][266]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.08.04-14.10.22:723][266]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.08.04-14.10.23:046][267]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.04-14.10.23:046][267]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.04-14.10.23:046][267]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.04-14.10.23:409][268]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.04-14.10.23:409][268]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.04-14.10.23:409][268]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.04-14.10.23:730][269]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.04-14.10.23:730][269]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.04-14.10.23:730][269]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.04-14.10.24:072][270]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.04-14.10.24:400][271]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.04-14.10.24:400][271]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.04-14.10.24:753][272]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.04-14.10.25:110][273]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.04-14.10.25:110][273]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.04-14.10.25:446][274]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.04-14.10.25:446][274]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.04-14.10.25:757][275]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.04-14.10.25:757][275]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.04-14.10.26:111][276]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.04-14.10.26:446][277]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.04-14.10.26:446][277]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.04-14.10.26:794][278]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.04-14.10.26:794][278]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.04-14.10.28:110][281]MaterialEditorStats: Base pass shader: 187 instructions
+[2018.08.04-14.10.28:110][281]MaterialEditorStats: Base pass shader with Surface Lightmap: 204 instructions
+[2018.08.04-14.10.28:110][281]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 260 instructions
+[2018.08.04-14.10.28:110][281]MaterialEditorStats: Vertex shader: 35 instructions
+[2018.08.04-14.10.28:110][281]MaterialEditorStats: Texture samplers: 7/16
+[2018.08.04-14.10.28:110][281]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.08.04-14.11.15:068][850]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.08.04-14.11.15:111][850]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.08.04-14.11.15:167][851]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.08.04-14.11.15:167][851]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.04-14.11.15:167][851]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.08.04-14.11.17:131][941]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.08.04-14.11.17:506][963]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.08.04-14.11.17:576][967]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.08.04-14.11.17:714][975]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.08.04-14.11.17:916][987]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.08.04-14.11.18:191][  3]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.08.04-14.11.18:345][ 12]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.08.04-14.11.18:363][ 13]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.08.04-14.11.18:570][ 25]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.04-14.11.18:867][ 37]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.08.04-14.11.18:899][ 37]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.08.04-14.11.19:232][ 52]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.04-14.11.20:048][ 91]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.08.04-14.11.20:128][ 96]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.08.04-14.11.20:457][115]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.08.04-14.11.20:645][126]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.08.04-14.11.20:714][130]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.08.04-14.11.20:790][134]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.08.04-14.11.22:475][210]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.08.04-14.11.22:924][215]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.08.04-14.11.22:924][215]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.08.04-14.11.22:924][215]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.04-14.11.23:260][216]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.08.04-14.11.23:260][216]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.08.04-14.11.23:260][216]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.08.04-14.11.23:661][217]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.08.04-14.11.23:674][217]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.08.04-14.11.23:676][217]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.08.04-14.11.23:939][218]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.08.04-14.11.24:277][219]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.08.04-14.11.24:277][219]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.08.04-14.11.24:636][220]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.04-14.11.24:636][220]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.08.04-14.11.24:636][220]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.08.04-14.11.24:981][221]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.08.04-14.11.24:982][221]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.08.04-14.11.24:982][221]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.08.04-14.11.25:310][222]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.04-14.11.25:310][222]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.04-14.11.25:310][222]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.04-14.11.25:649][223]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.04-14.11.25:649][223]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.04-14.11.25:990][224]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.04-14.11.25:990][224]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.04-14.11.26:331][225]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.04-14.11.26:331][225]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.04-14.11.26:331][225]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.04-14.11.27:018][227]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.04-14.11.27:018][227]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.04-14.11.27:018][227]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.04-14.11.27:362][228]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.04-14.11.27:713][229]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.04-14.11.27:713][229]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.04-14.11.27:713][229]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.04-14.11.28:429][231]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.04-14.11.28:429][231]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.04-14.11.28:747][232]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.04-14.11.28:747][232]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.04-14.11.29:103][233]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.04-14.11.29:437][234]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.04-14.11.29:437][234]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.04-14.11.30:435][236]MaterialEditorStats: Base pass shader: 187 instructions
+[2018.08.04-14.11.30:435][236]MaterialEditorStats: Base pass shader with Surface Lightmap: 204 instructions
+[2018.08.04-14.11.30:435][236]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 260 instructions
+[2018.08.04-14.11.30:436][236]MaterialEditorStats: Vertex shader: 35 instructions
+[2018.08.04-14.11.30:436][236]MaterialEditorStats: Texture samplers: 7/16
+[2018.08.04-14.11.30:436][236]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.08.04-14.16.03:659][251]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Panting_Map' took 0.039
+[2018.08.04-14.16.03:660][251]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LandscapeAssets/LandscapePlainsGrass] ([1] browsable assets)...
+[2018.08.04-14.16.03:661][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/LandscapeAssets/LandscapePlainsGrass]
+[2018.08.04-14.16.03:695][251]LogSavePackage: Save=19.08ms
+[2018.08.04-14.16.03:695][251]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/LandscapePlainsGrass_Auto5C41555324CBECB69A2BAFFB70A734997.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/LandscapeAssets/LandscapePlainsGrass_Auto5.uasset'
+[2018.08.04-14.16.03:696][251]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/LandscapeAssets/LandscapePlainsGrass_Auto5.uasset
+[2018.08.04-14.16.03:696][251]LogFileHelpers: Auto-saving content packages took 0.036
+[2018.08.04-14.16.27:533][289]LogSavePackage: Save=6.22ms
+[2018.08.04-14.16.27:533][289]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/LandscapePlainsGrassFC0A8EF845E1EE6C924782A4DEC1E36B.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/LandscapePlainsGrass.uasset'
+[2018.08.04-14.16.27:536][289]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/LandscapePlainsGrass.uasset
+[2018.08.04-14.17.36:365][838]LogMaterialEditor: Applying material M_Landscape_01
+[2018.08.04-14.17.37:064][838]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.08.04-14.17.37:175][838]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.08.04-14.17.37:175][838]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.04-14.17.37:175][838]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.08.04-14.17.37:243][838]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.08.04-14.17.37:350][838]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.08.04-14.17.37:431][838]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.08.04-14.17.37:480][838]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.08.04-14.17.37:600][838]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.08.04-14.17.37:702][838]LogShaderCompilers: Display: Shaders left to compile 529
+[2018.08.04-14.17.37:702][838]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.08.04-14.17.37:726][838]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.08.04-14.17.37:887][838]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Landscape_01, compiling. 
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 730
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 729
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 728
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 727
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 726
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 725
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 724
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 723
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 722
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 721
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 720
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 719
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 718
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 717
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 716
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 715
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 714
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 713
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 712
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 711
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 710
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 709
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 708
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 707
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 706
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 705
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 704
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 703
+[2018.08.04-14.17.45:838][838]LogShaderCompilers: Display: Shaders left to compile 702
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 701
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 700
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 699
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 698
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 697
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 696
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 695
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 694
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 693
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 692
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 691
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 690
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 689
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 688
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 687
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 686
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 685
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 684
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 683
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 682
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 672
+[2018.08.04-14.17.45:839][838]LogShaderCompilers: Display: Shaders left to compile 662
+[2018.08.04-14.17.45:846][838]TextureStreamingBuild: Display: Compiling optional shaders took 8.009 seconds.
+[2018.08.04-14.17.48:561][838]LogShaderCompilers: Display: Shaders left to compile 652
+[2018.08.04-14.17.49:074][841]LogShaderCompilers: Display: Shaders left to compile 642
+[2018.08.04-14.17.49:489][842]LogShaderCompilers: Display: Shaders left to compile 632
+[2018.08.04-14.17.52:244][850]LogShaderCompilers: Display: Shaders left to compile 622
+[2018.08.04-14.17.52:244][850]LogShaderCompilers: Display: Shaders left to compile 612
+[2018.08.04-14.17.52:919][852]LogShaderCompilers: Display: Shaders left to compile 602
+[2018.08.04-14.17.57:366][865]LogShaderCompilers: Display: Shaders left to compile 592
+[2018.08.04-14.17.57:366][865]LogShaderCompilers: Display: Shaders left to compile 582
+[2018.08.04-14.17.58:072][867]LogShaderCompilers: Display: Shaders left to compile 572
+[2018.08.04-14.18.01:775][932]LogShaderCompilers: Display: Shaders left to compile 562
+[2018.08.04-14.18.02:171][932]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.08.04-14.18.02:449][933]LogShaderCompilers: Display: Shaders left to compile 567
+[2018.08.04-14.18.02:450][933]MaterialEditorStats: Base pass shader: 187 instructions
+[2018.08.04-14.18.02:451][933]MaterialEditorStats: Base pass shader with Surface Lightmap: 204 instructions
+[2018.08.04-14.18.02:451][933]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 260 instructions
+[2018.08.04-14.18.02:451][933]MaterialEditorStats: Vertex shader: 35 instructions
+[2018.08.04-14.18.02:451][933]MaterialEditorStats: Texture samplers: 7/16
+[2018.08.04-14.18.02:451][933]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.08.04-14.18.03:496][937]LogShaderCompilers: Display: Shaders left to compile 557
+[2018.08.04-14.18.06:248][945]LogShaderCompilers: Display: Shaders left to compile 547
+[2018.08.04-14.18.06:929][947]LogShaderCompilers: Display: Shaders left to compile 537
+[2018.08.04-14.18.06:929][947]LogShaderCompilers: Display: Shaders left to compile 527
+[2018.08.04-14.18.10:099][956]LogShaderCompilers: Display: Shaders left to compile 517
+[2018.08.04-14.18.10:800][958]LogShaderCompilers: Display: Shaders left to compile 507
+[2018.08.04-14.18.12:177][962]LogShaderCompilers: Display: Shaders left to compile 497
+[2018.08.04-14.18.14:947][970]LogShaderCompilers: Display: Shaders left to compile 487
+[2018.08.04-14.18.15:689][972]LogShaderCompilers: Display: Shaders left to compile 477
+[2018.08.04-14.18.15:690][972]LogShaderCompilers: Display: Shaders left to compile 467
+[2018.08.04-14.18.18:419][980]LogShaderCompilers: Display: Shaders left to compile 457
+[2018.08.04-14.18.19:102][982]LogShaderCompilers: Display: Shaders left to compile 447
+[2018.08.04-14.18.19:102][982]LogShaderCompilers: Display: Shaders left to compile 437
+[2018.08.04-14.18.22:650][992]LogShaderCompilers: Display: Shaders left to compile 427
+[2018.08.04-14.18.23:856][995]LogShaderCompilers: Display: Shaders left to compile 417
+[2018.08.04-14.18.25:556][  0]LogShaderCompilers: Display: Shaders left to compile 407
+[2018.08.04-14.18.28:716][  9]LogShaderCompilers: Display: Shaders left to compile 397
+[2018.08.04-14.18.29:418][ 11]LogShaderCompilers: Display: Shaders left to compile 387
+[2018.08.04-14.18.29:418][ 11]LogShaderCompilers: Display: Shaders left to compile 377
+[2018.08.04-14.18.31:405][ 16]LogShaderCompilers: Display: Shaders left to compile 367
+[2018.08.04-14.18.33:486][ 22]LogShaderCompilers: Display: Shaders left to compile 357
+[2018.08.04-14.18.33:880][ 23]LogShaderCompilers: Display: Shaders left to compile 347
+[2018.08.04-14.18.34:893][ 26]LogShaderCompilers: Display: Shaders left to compile 337
+[2018.08.04-14.18.36:593][ 31]LogShaderCompilers: Display: Shaders left to compile 327
+[2018.08.04-14.18.37:945][ 35]LogShaderCompilers: Display: Shaders left to compile 317
+[2018.08.04-14.18.39:980][ 40]LogShaderCompilers: Display: Shaders left to compile 307
+[2018.08.04-14.18.42:808][ 48]LogShaderCompilers: Display: Shaders left to compile 297
+[2018.08.04-14.18.43:142][ 49]LogShaderCompilers: Display: Shaders left to compile 287
+[2018.08.04-14.18.44:138][ 52]LogShaderCompilers: Display: Shaders left to compile 277
+[2018.08.04-14.18.46:818][ 59]LogShaderCompilers: Display: Shaders left to compile 267
+[2018.08.04-14.18.47:148][ 60]LogShaderCompilers: Display: Shaders left to compile 257
+[2018.08.04-14.18.48:941][ 65]LogShaderCompilers: Display: Shaders left to compile 247
+[2018.08.04-14.18.52:086][ 74]LogShaderCompilers: Display: Shaders left to compile 237
+[2018.08.04-14.18.53:844][ 79]LogShaderCompilers: Display: Shaders left to compile 227
+[2018.08.04-14.18.55:597][ 84]LogShaderCompilers: Display: Shaders left to compile 217
+[2018.08.04-14.18.58:406][ 92]LogShaderCompilers: Display: Shaders left to compile 207
+[2018.08.04-14.18.59:073][ 94]LogShaderCompilers: Display: Shaders left to compile 197
+[2018.08.04-14.19.00:128][ 97]LogShaderCompilers: Display: Shaders left to compile 187
+[2018.08.04-14.19.21:944][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.04-14.19.32:418][218]LogShaderCompilers: Display: Shaders left to compile 177
+[2018.08.04-14.20.01:182][336]LogShaderCompilers: Display: Shaders left to compile 167
+[2018.08.04-14.20.02:233][339]LogShaderCompilers: Display: Shaders left to compile 157
+[2018.08.04-14.20.04:330][347]LogShaderCompilers: Display: Shaders left to compile 147
+[2018.08.04-14.20.07:662][424]LogShaderCompilers: Display: Shaders left to compile 137
+[2018.08.04-14.20.08:333][426]LogShaderCompilers: Display: Shaders left to compile 127
+[2018.08.04-14.20.11:421][435]LogShaderCompilers: Display: Shaders left to compile 117
+[2018.08.04-14.20.13:114][440]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.08.04-14.20.14:183][443]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.08.04-14.20.16:564][450]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.08.04-14.20.17:261][452]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.08.04-14.20.18:278][455]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.08.04-14.20.20:999][463]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.08.04-14.20.20:999][463]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.08.04-14.20.22:783][468]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.08.04-14.20.25:513][476]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.08.04-14.20.27:292][481]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.04-14.20.28:664][485]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.04-14.20.43:651][949]LogMaterialEditor: Saving and Compiling material M_Landscape_01
+[2018.08.04-14.20.43:740][949]LogSavePackage: Save=19.77ms
+[2018.08.04-14.20.43:740][949]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/M_Landscape_016E819D0D43533AB47C44FEB488EE9BE5.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/M_Landscape_01.uasset'
+[2018.08.04-14.20.43:746][949]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/M_Landscape_01.uasset
+[2018.08.04-14.20.48:372][127]LogMaterial: Warning: Material /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Materials/M_PLains_Fern01.M_PLains_Fern01 needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.08.04-14.20.48:504][127]LogMaterial: Missing cached shader map for material M_PLains_Fern01, compiling. 
+[2018.08.04-14.20.48:590][127]LogShaderCompilers: Display: Shaders left to compile 117
+[2018.08.04-14.20.48:590][127]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.08.04-14.20.48:590][127]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.08.04-14.20.50:770][129]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.08.04-14.20.51:043][129]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.08.04-14.20.51:537][129]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.08.04-14.20.59:812][247]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.08.04-14.21.04:237][313]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.08.04-14.21.05:859][336]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.08.04-14.21.08:651][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.04-14.21.25:198][599]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.08.04-14.21.32:157][690]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.04-14.21.32:535][691]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.04-14.22.45:674][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.04-14.22.46:378][572]LogSavePackage: Save=191.93ms
+[2018.08.04-14.22.46:378][572]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Panting_MapFA3E263D4AEA115F3E6445A0B1EFCDC5.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map.umap'
+[2018.08.04-14.22.46:381][572]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map.umap
+[2018.08.04-14.22.46:410][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Panting_Map_BuiltData" FILE="../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map_BuiltData.uasset" SILENT=true
+[2018.08.04-14.22.46:755][572]LogSavePackage: Save=329.88ms
+[2018.08.04-14.22.46:756][572]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Panting_Map_BuiltDataD4EC8A38425919EE4F7D1283CA005AE0.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map_BuiltData.uasset'
+[2018.08.04-14.22.46:758][572]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map_BuiltData.uasset
+[2018.08.04-14.22.53:210][708]LogMaterialEditor: Saving and Compiling material ML_Dirt
+[2018.08.04-14.22.53:391][708]LogSavePackage: Save=39.35ms
+[2018.08.04-14.22.53:391][708]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/ML_Dirt0214255E4D773527A4F608BF60C86BB7.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/ML_Dirt.uasset'
+[2018.08.04-14.22.53:393][708]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/ML_Dirt.uasset
+[2018.08.04-14.22.55:763][814]LogMaterialEditor: Saving and Compiling material M_Landscape_01
+[2018.08.04-14.22.55:792][814]LogSavePackage: Save=10.36ms
+[2018.08.04-14.22.55:792][814]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/M_Landscape_01E29AE72340E4F8934FCE338B392B61FC.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/M_Landscape_01.uasset'
+[2018.08.04-14.22.55:793][814]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/M_Landscape_01.uasset
+[2018.08.04-14.22.57:896][907]LogMaterialEditor: Saving and Compiling material ML_Grass
+[2018.08.04-14.22.58:037][907]LogSavePackage: Save=40.13ms
+[2018.08.04-14.22.58:037][907]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/ML_Grass9E5134DB4A1F6174882DF6BA258CF5A3.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/ML_Grass.uasset'
+[2018.08.04-14.22.58:039][907]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/ML_Grass.uasset
+[2018.08.04-14.23.00:379][ 23]LogSavePackage: Save=20.78ms
+[2018.08.04-14.23.00:379][ 23]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/LandscapePlainsGrass7C6B1B0C4EF7627B37F87980B743BF32.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/LandscapePlainsGrass.uasset'
+[2018.08.04-14.23.00:384][ 23]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/LandscapePlainsGrass.uasset
+[2018.08.04-14.23.02:923][100]LogSavePackage: Save=250.29ms
+[2018.08.04-14.23.02:924][100]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Panting_MapF85B083E49981D37EB8D41AE442EB455.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map.umap'
+[2018.08.04-14.23.02:927][100]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map.umap
+[2018.08.04-14.23.02:964][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Panting_Map_BuiltData" FILE="../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map_BuiltData.uasset" SILENT=true
+[2018.08.04-14.23.03:246][100]LogSavePackage: Save=276.03ms
+[2018.08.04-14.23.03:246][100]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Panting_Map_BuiltDataC9779A2D47F1E6BE4432159A64BC32BC.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map_BuiltData.uasset'
+[2018.08.04-14.23.03:247][100]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map_BuiltData.uasset
+[2018.08.04-14.33.02:861][944]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Panting_Map' took 0.043
+[2018.08.04-14.33.02:864][944]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Materials/M_PLains_Fern01] ([1] browsable assets)...
+[2018.08.04-14.33.02:983][944]OBJ SavePackage:     Rendered thumbnail for [Material /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Materials/M_PLains_Fern01.M_PLains_Fern01]
+[2018.08.04-14.33.02:983][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Materials/M_PLains_Fern01]
+[2018.08.04-14.33.03:152][944]LogSavePackage: Save=114.47ms
+[2018.08.04-14.33.03:152][944]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/M_PLains_Fern01_Auto60160C03B4AB68068FD5010A4FA9C48E3.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Materials/M_PLains_Fern01_Auto6.uasset'
+[2018.08.04-14.33.03:153][944]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Materials/M_PLains_Fern01_Auto6.uasset
+[2018.08.04-14.33.03:153][944]LogFileHelpers: Auto-saving content packages took 0.291
+[2018.08.04-15.04.15:399][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.04-15.05.43:848][973]LogSavePackage: Save=254.59ms
+[2018.08.04-15.05.43:848][973]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Panting_Map_Auto7DAB97A334099B9DC8D71C9BC9D9B5249.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Panting_Map_Auto7.umap'
+[2018.08.04-15.05.43:849][973]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Panting_Map_Auto7.umap
+[2018.08.04-15.05.43:852][973]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Panting_Map' took 0.306
+[2018.08.04-15.05.43:852][973]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.306
+[2018.08.04-15.06.05:145][299]LogRenderer: Reallocating scene render targets to support 884x380 Format 10 NumSamples 1 (Frame:26642).
+[2018.08.04-15.06.05:234][300]LogRenderer: Reallocating scene render targets to support 884x396 Format 10 NumSamples 1 (Frame:26644).
+[2018.08.04-15.06.05:573][301]LogRenderer: Reallocating scene render targets to support 884x408 Format 10 NumSamples 1 (Frame:26646).
+[2018.08.04-15.06.05:643][302]LogRenderer: Reallocating scene render targets to support 884x424 Format 10 NumSamples 1 (Frame:26648).
+[2018.08.04-15.06.06:048][303]LogRenderer: Reallocating scene render targets to support 884x448 Format 10 NumSamples 1 (Frame:26650).
+[2018.08.04-15.06.06:136][304]LogRenderer: Reallocating scene render targets to support 884x460 Format 10 NumSamples 1 (Frame:26651).
+[2018.08.04-15.06.06:347][305]LogRenderer: Reallocating scene render targets to support 884x484 Format 10 NumSamples 1 (Frame:26653).
+[2018.08.04-15.06.06:610][306]LogRenderer: Reallocating scene render targets to support 884x500 Format 10 NumSamples 1 (Frame:26655).
+[2018.08.04-15.06.06:659][307]LogRenderer: Reallocating scene render targets to support 884x504 Format 10 NumSamples 1 (Frame:26656).
+[2018.08.04-15.09.07:826][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.04-15.15.44:536][678]LogSavePackage: Save=190.60ms
+[2018.08.04-15.15.44:536][678]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Panting_Map_Auto809DC94844CE69DDDB327BAB65C6ED127.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Panting_Map_Auto8.umap'
+[2018.08.04-15.15.44:552][678]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Panting_Map_Auto8.umap
+[2018.08.04-15.15.44:555][678]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Panting_Map' took 0.240
+[2018.08.04-15.15.44:555][678]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.240
+[2018.08.04-15.23.33:794][221]MapCheck: New page: Map Check
+[2018.08.04-15.23.33:959][221]LightingResults: New page: Lighting Build - Aug 5, 2018, 2:23:33 AM
+[2018.08.04-15.23.34:278][221]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.04-15.23.34:347][221]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.04-15.23.34:383][221]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.04-15.23.34:440][221]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.04-15.23.34:440][221]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13440
+[2018.08.04-15.23.39:025][221]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.08.04-15.23.39:029][221]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.04-15.23.39:030][221]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.04-15.23.39:030][221]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.04-15.23.39:030][221]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.04-15.23.39:030][221]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.04-15.23.40:044][221]LogEditorBuildUtils: Build time 0:06
+[2018.08.04-15.23.40:092][221]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_PLains_Fern01, compiling. 
+[2018.08.04-15.23.40:165][221]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.04-15.23.40:165][221]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_PLains_Fern01, compiling. 
+[2018.08.04-15.23.40:233][221]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.04-15.23.40:234][221]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_PLains_Fern01, compiling. 
+[2018.08.04-15.23.40:247][221]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.04-15.23.40:571][222]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2018.08.04-15.23.40:859][222]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2018.08.04-15.23.42:754][232]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.04-15.24.58:395][478]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2018.08.04-15.24.58:395][478]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2018.08.04-15.24.58:395][478]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.24.58:395][478]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.24.58:395][478]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2018.08.04-15.24.58:395][478]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.24.58:395][478]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2018.08.04-15.24.58:395][478]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.24.58:395][478]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2018.08.04-15.24.58:395][478]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.24.58:395][478]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2018.08.04-15.24.58:395][478]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.24.58:395][478]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2018.08.04-15.24.58:395][478]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.24.58:395][478]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2018.08.04-15.24.58:396][478]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.24.58:396][478]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2018.08.04-15.24.58:396][478]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.24.58:396][478]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2018.08.04-15.24.58:396][478]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.24.58:536][479]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2018.08.04-15.24.58:536][479]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.24.59:855][483]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2018.08.04-15.24.59:855][483]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.25.01:550][488]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2018.08.04-15.25.01:550][488]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.25.01:550][488]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2018.08.04-15.25.01:550][488]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.25.01:550][488]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2018.08.04-15.25.01:550][488]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.25.01:550][488]LightingResults: Warning: SM_Plains_Flowers02 Object has overlapping UVs.
+[2018.08.04-15.25.01:550][488]LightingResults: SM_Plains_Flowers02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.25.01:550][488]LightingResults: Warning: SM_Plains_Flowers02 Object has overlapping UVs.
+[2018.08.04-15.25.01:550][488]LightingResults: SM_Plains_Flowers02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.25.01:877][489]LightingResults: Warning: SM_Plains_Flowers02 Object has overlapping UVs.
+[2018.08.04-15.25.01:877][489]LightingResults: SM_Plains_Flowers02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.25.03:215][493]LightingResults: Warning: SM_Plains_Flowers02 Object has overlapping UVs.
+[2018.08.04-15.25.03:215][493]LightingResults: SM_Plains_Flowers02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.25.03:549][494]LightingResults: Warning: SM_Plains_Flowers02 Object has overlapping UVs.
+[2018.08.04-15.25.03:549][494]LightingResults: SM_Plains_Flowers02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.25.04:208][496]LightingResults: Warning: SM_Plains_Flowers02 Object has overlapping UVs.
+[2018.08.04-15.25.04:208][496]LightingResults: SM_Plains_Flowers02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.25.05:547][500]LightingResults: Warning: SM_Plains_Flowers02 Object has overlapping UVs.
+[2018.08.04-15.25.05:547][500]LightingResults: SM_Plains_Flowers02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.25.05:547][500]LightingResults: Warning: SM_Plains_Flowers02 Object has overlapping UVs.
+[2018.08.04-15.25.05:547][500]LightingResults: SM_Plains_Flowers02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.25.06:205][502]LightingResults: Warning: SM_Plains_Flowers02 Object has overlapping UVs.
+[2018.08.04-15.25.06:206][502]LightingResults: SM_Plains_Flowers02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.25.06:206][502]LightingResults: Warning: SM_Plains_Flowers02 Object has overlapping UVs.
+[2018.08.04-15.25.06:206][502]LightingResults: SM_Plains_Flowers02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.25.10:935][516]LightingResults: Warning: SM_Plains_Flowers02 Object has overlapping UVs.
+[2018.08.04-15.25.10:935][516]LightingResults: SM_Plains_Flowers02 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.08.04-15.25.12:608][522]Job is a success!
+[2018.08.04-15.25.16:663][523]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.273s
+[2018.08.04-15.25.16:663][523]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.08.04-15.25.16:663][523]LogVolumetricLightmapImport:      BrickData 1280x20x5 = 4.5Mb (trimmed 0.9Mb due to 0.010000 MinBrickError)
+[2018.08.04-15.25.16:663][523]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.04-15.25.16:663][523]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2018.08.04-15.25.16:663][523]LogVolumetricLightmapImport:          1: 8.1% covering 14.8% of volume
+[2018.08.04-15.25.16:663][523]LogVolumetricLightmapImport:          2: 91.0% covering 2.6% of volume
+[2018.08.04-15.25.20:698][523]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.08.04-15.25.20:698][523]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.08.04-15.25.20:698][523]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 256X256)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 64X64)
+[2018.08.04-15.25.20:699][523]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 64X64)
+[2018.08.04-15.25.21:898][523]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (G8, 128X128)
+[2018.08.04-15.25.21:899][523]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 128X128)
+[2018.08.04-15.25.21:899][523]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (G8, 128X128)
+[2018.08.04-15.25.22:300][523]LogTexture: Display: Building textures: ShadowMapTexture2D_58 (G8, 128X128)
+[2018.08.04-15.25.22:300][523]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 1024X256)
+[2018.08.04-15.25.22:300][523]LogTexture: Display: Building textures: ShadowMapTexture2D_57 (G8, 128X128)
+[2018.08.04-15.25.22:300][523]LogTexture: Display: Building textures: ShadowMapTexture2D_59 (G8, 128X128)
+[2018.08.04-15.25.22:300][523]LogTexture: Display: Building textures: ShadowMapTexture2D_60 (G8, 128X128)
+[2018.08.04-15.25.22:300][523]LogTexture: Display: Building textures: ShadowMapTexture2D_61 (G8, 128X128)
+[2018.08.04-15.25.22:300][523]LogTexture: Display: Building textures: ShadowMapTexture2D_62 (G8, 128X128)
+[2018.08.04-15.25.22:300][523]LogTexture: Display: Building textures: ShadowMapTexture2D_63 (G8, 128X128)
+[2018.08.04-15.25.22:300][523]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (G8, 128X128)
+[2018.08.04-15.25.22:300][523]LogTexture: Display: Building textures: ShadowMapTexture2D_64 (G8, 128X128)
+[2018.08.04-15.25.22:300][523]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (G8, 128X128)
+[2018.08.04-15.25.22:463][523]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (G8, 128X128)
+[2018.08.04-15.25.22:463][523]LogTexture: Display: Building textures: ShadowMapTexture2D_69 (G8, 128X128)
+[2018.08.04-15.25.22:463][523]LogTexture: Display: Building textures: ShadowMapTexture2D_68 (G8, 128X128)
+[2018.08.04-15.25.22:463][523]LogTexture: Display: Building textures: ShadowMapTexture2D_70 (G8, 32X32)
+[2018.08.04-15.25.22:802][523]Lightmass on LAPTOP-SNI5BBA7: 1:30 min total, 4.81 sec importing, 534 ms setup, 9.57 sec photons, 1:15 min processing, 0 ms extra exporting [113/113 mappings]. Threads: 5:01 min total, 39.7 sec processing.
+[2018.08.04-15.25.23:271][523]LogStaticLightingSystem: Illumination: 1:49 min (3.38 sec encoding lightmaps, 1.76 sec encoding shadowmaps)
+[2018.08.04-15.25.23:271][523]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (4.0 MB streaming, 0.0 MB non-streaming), 36 textures
+[2018.08.04-15.25.23:271][523]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 18 textures
+[2018.08.04-15.25.31:179][523]DumpUnbuiltLightIteractions
+[2018.08.04-15.25.31:180][523]Lights with unbuilt interactions: 0
+[2018.08.04-15.25.31:180][523]
+[2018.08.04-15.25.31:180][523]Primitives with unbuilt interactions: 0
+[2018.08.04-15.25.31:872][524]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.04-15.25.31:872][524]MapCheck: New page: Panting_Map - Aug 5, 2018, 2:25:31 AM
+[2018.08.04-15.25.32:558][524]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 686.695ms to complete.
+[2018.08.04-15.25.41:034][593]LogSlate: Window 'Message Log' being destroyed
+[2018.08.04-15.25.41:167][593]LogSlate: Window 'Message Log' being destroyed
+[2018.08.04-15.25.43:942][615]LogSavePackage: Save=138.78ms
+[2018.08.04-15.25.43:942][615]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Panting_MapB19E7E394EB67A0F72740D9C04809049.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map.umap'
+[2018.08.04-15.25.43:947][615]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map.umap
+[2018.08.04-15.25.43:978][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Panting_Map_BuiltData" FILE="../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map_BuiltData.uasset" SILENT=true
+[2018.08.04-15.25.44:584][615]LogSavePackage: Save=588.88ms
+[2018.08.04-15.25.44:584][615]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Panting_Map_BuiltData1BF97D91427FB9D66D0B3AB359060719.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map_BuiltData.uasset'
+[2018.08.04-15.25.44:587][615]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map_BuiltData.uasset
+[2018.08.04-15.25.55:830][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.04-15.25.57:334][793]LogMaterialEditor: Saving and Compiling material ML_Dirt
+[2018.08.04-15.25.57:378][793]LogSavePackage: Save=16.06ms
+[2018.08.04-15.25.57:378][793]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/ML_Dirt88553F614FE736BCD89CCD9E73C5C3CE.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/ML_Dirt.uasset'
+[2018.08.04-15.25.57:379][793]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/ML_Dirt.uasset
+[2018.08.04-15.25.59:273][878]LogMaterialEditor: Saving and Compiling material M_Landscape_01
+[2018.08.04-15.25.59:313][878]LogSavePackage: Save=10.25ms
+[2018.08.04-15.25.59:313][878]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/M_Landscape_01C7313EED486D2CBE55A6D2B74EA71482.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/M_Landscape_01.uasset'
+[2018.08.04-15.25.59:314][878]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/M_Landscape_01.uasset
+[2018.08.04-15.26.01:567][976]LogMaterialEditor: Saving and Compiling material ML_Grass
+[2018.08.04-15.26.01:617][976]LogSavePackage: Save=21.58ms
+[2018.08.04-15.26.01:617][976]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/ML_GrassBCDE80694C56FA17C0E96B9AC35760FF.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/ML_Grass.uasset'
+[2018.08.04-15.26.01:619][976]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/ML_Grass.uasset
+[2018.08.04-15.26.03:973][ 95]LogSavePackage: Save=37.27ms
+[2018.08.04-15.26.03:973][ 95]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/LandscapePlainsGrass78B19F4646755DF335FF2EA50F22D38D.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/LandscapePlainsGrass.uasset'
+[2018.08.04-15.26.03:975][ 95]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/LandscapePlainsGrass.uasset
+[2018.08.04-15.26.06:772][165]LogSavePackage: Save=133.55ms
+[2018.08.04-15.26.06:772][165]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Panting_Map837B41D14BA1847915DBAF9BA1957D4D.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map.umap'
+[2018.08.04-15.26.06:773][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map.umap
+[2018.08.04-15.26.06:802][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Panting_Map_BuiltData" FILE="../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map_BuiltData.uasset" SILENT=true
+[2018.08.04-15.26.07:284][165]LogSavePackage: Save=477.13ms
+[2018.08.04-15.26.07:284][165]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Panting_Map_BuiltDataAE4A18FF4093ADA9F57074A2C88D59C5.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map_BuiltData.uasset'
+[2018.08.04-15.26.07:286][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map_BuiltData.uasset
