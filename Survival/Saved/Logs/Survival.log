@@ -12030,3 +12030,1092 @@ Exception rethrown at [0]:
 [2018.08.04-15.26.07:284][165]LogSavePackage: Save=477.13ms
 [2018.08.04-15.26.07:284][165]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Panting_Map_BuiltDataAE4A18FF4093ADA9F57074A2C88D59C5.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map_BuiltData.uasset'
 [2018.08.04-15.26.07:286][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Panting_Map_BuiltData.uasset
+[2018.08.05-03.46.19:952][879]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.05-03.46.38:844][910]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.05-05.27.30:544][729]LogSlate: Window 'New Level' being destroyed
+[2018.08.05-05.27.32:039][729]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.05-05.27.32:680][729]LightingResults: New page: Lighting Build
+[2018.08.05-05.27.33:099][729]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.08.05-05.27.33:809][729]MapCheck: New page: Map Check
+[2018.08.05-05.27.33:810][729]LightingResults: New page: Lighting Build
+[2018.08.05-05.27.58:756][729]LogAIModule: Creating AISystem for world Untitled_4
+[2018.08.05-05.28.05:202][729]LogEditorServer: Finished looking for orphan Actors (0.012 secs)
+[2018.08.05-05.28.05:820][729]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.05-05.28.21:462][729]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 15,617.443ms to complete.
+[2018.08.05-05.28.21:473][729]LogFileHelpers: Loading map 'Template_Default' took 50.794
+[2018.08.05-05.28.56:697][431]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.08.05-05.28.57:675][431]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.08.05-05.28.57:675][431]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.08.05-05.28.57:675][431]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.08.05-05.28.57:929][431]LogAIModule: Creating AISystem for world Panting_Map
+[2018.08.05-05.29.02:906][431]LoadErrors: Error: /Game/Panting_Map : Failed import for MapBuildDataRegistry /Game/Panting_Map_BuiltData.Panting_Map_BuiltData Referenced by export Level /Game/Panting_Map.Panting_Map:PersistentLevel
+[2018.08.05-05.29.16:095][958]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.08.05-05.29.16:886][972]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.08.05-05.29.16:946][972]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.08.05-05.29.22:458][972]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.08.05-05.29.22:458][972]LogSavePackage: Save=1029.12ms
+[2018.08.05-05.29.22:458][972]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Painting_Map455B25734FCD642C560E8E9B4D32B263.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Painting_Map.umap'
+[2018.08.05-05.29.22:801][972]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Painting_Map.umap
+[2018.08.05-05.29.22:836][972]LogFileHelpers: Saving map 'Painting_Map' took 4.507
+[2018.08.05-05.29.23:268][972]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.08.05-05.29.23:268][972]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.08.05-05.29.32:710][226]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.05-05.29.37:486][372]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.05-05.29.43:644][563]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.05-05.29.54:639][907]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Panting_Map_BuiltData.Panting_Map_BuiltData'
+[2018.08.05-05.30.09:172][376]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Survival_Map_BuiltData.Survival_Map_BuiltData'
+[2018.08.05-05.30.28:424][ 73]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-05.30.28:429][ 73]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-05.30.49:583][358]LogSlate: Window 'Save Level As' being destroyed
+[2018.08.05-05.30.49:890][358]LogSavePackage: Save=50.09ms
+[2018.08.05-05.30.49:890][358]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_MapB00CBF96436FFF735DF3ADA2098D808D.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2018.08.05-05.30.49:891][358]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap
+[2018.08.05-05.30.50:049][358]LogSavePackage: Save=45.86ms
+[2018.08.05-05.30.50:049][358]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltData198662AB4FCBEA5CF298259004FADA16.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2018.08.05-05.30.50:051][358]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset
+[2018.08.05-05.30.50:056][358]LogFileHelpers: Saving map 'Survival_Map' took 0.360
+[2018.08.05-05.31.01:907][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.05-05.31.09:449][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.05-05.31.13:009][650]Cmd: DELETE
+[2018.08.05-05.31.13:010][650]Cmd: ACTOR DELETE
+[2018.08.05-05.31.14:875][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.05-05.31.14:946][650]LogEditorActor: Deleted 1 Actors (0.347 secs)
+[2018.08.05-05.31.19:699][810]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.08.05-05.31.24:501][938]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.05-05.31.55:060][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-05.31.58:203][138]LogTexture: Display: Building textures: Texture2D_4 (G8, 128X128)
+[2018.08.05-05.32.15:372][441]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.08.05-05.32.24:650][712]MapCheck: New page: Map Check
+[2018.08.05-05.32.24:811][712]LightingResults: New page: Lighting Build - Aug 5, 2018, 4:32:24 PM
+[2018.08.05-05.32.25:250][712]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.05-05.32.25:401][712]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.05-05.32.25:455][712]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.05-05.32.25:542][712]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.05-05.32.25:543][712]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13440
+[2018.08.05-05.32.30:403][712]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.08.05-05.32.30:454][712]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.05-05.32.30:454][712]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.05-05.32.30:454][712]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.05-05.32.30:454][712]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.05-05.32.30:454][712]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.05-05.32.31:323][712]LogEditorBuildUtils: Build time 0:06
+[2018.08.05-05.33.24:066][968]Job is a success!
+[2018.08.05-05.33.25:732][969]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.840s
+[2018.08.05-05.33.25:733][969]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.08.05-05.33.25:733][969]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.4Mb
+[2018.08.05-05.33.25:733][969]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.05-05.33.25:733][969]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2018.08.05-05.33.25:733][969]LogVolumetricLightmapImport:          1: 6.7% covering 9.6% of volume
+[2018.08.05-05.33.25:733][969]LogVolumetricLightmapImport:          2: 92.2% covering 2.1% of volume
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 64X64)
+[2018.08.05-05.33.29:541][969]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 64X64)
+[2018.08.05-05.33.31:141][969]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 128X128)
+[2018.08.05-05.33.31:141][969]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 128X128)
+[2018.08.05-05.33.31:141][969]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 128X128)
+[2018.08.05-05.33.31:292][969]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 128X128)
+[2018.08.05-05.33.31:292][969]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 128X128)
+[2018.08.05-05.33.31:292][969]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 128X128)
+[2018.08.05-05.33.31:292][969]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 128X128)
+[2018.08.05-05.33.31:646][969]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 128X128)
+[2018.08.05-05.33.31:646][969]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 128X128)
+[2018.08.05-05.33.31:647][969]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 128X128)
+[2018.08.05-05.33.31:647][969]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 128X128)
+[2018.08.05-05.33.31:647][969]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 128X128)
+[2018.08.05-05.33.31:647][969]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 128X128)
+[2018.08.05-05.33.31:647][969]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 128X128)
+[2018.08.05-05.33.31:647][969]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 128X128)
+[2018.08.05-05.33.31:647][969]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 32X32)
+[2018.08.05-05.33.31:647][969]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 128X128)
+[2018.08.05-05.33.32:088][969]Lightmass on LAPTOP-SNI5BBA7: 52.3 sec total, 4.00 sec importing, 775 ms setup, 6.79 sec photons, 39.6 sec processing, 0 ms extra exporting [17/17 mappings]. Threads: 2:38 min total, 28.7 sec processing.
+[2018.08.05-05.33.32:256][969]LogStaticLightingSystem: Illumination: 1:06 min (3.34 sec encoding lightmaps, 2.10 sec encoding shadowmaps)
+[2018.08.05-05.33.32:256][969]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 34 textures
+[2018.08.05-05.33.32:257][969]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 17 textures
+[2018.08.05-05.33.33:478][969]DumpUnbuiltLightIteractions
+[2018.08.05-05.33.33:478][969]Lights with unbuilt interactions: 0
+[2018.08.05-05.33.33:478][969]
+[2018.08.05-05.33.33:478][969]Primitives with unbuilt interactions: 0
+[2018.08.05-05.33.33:756][970]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.05-05.33.33:756][970]MapCheck: New page: Survival_Map - Aug 5, 2018, 4:33:33 PM
+[2018.08.05-05.33.33:968][970]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 212.037ms to complete.
+[2018.08.05-05.33.53:133][ 72]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-05.33.53:139][ 72]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-05.34.35:771][514]Cmd: TRANSACTION UNDO
+[2018.08.05-05.34.35:806][514]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.08.05-05.35.06:265][389]Cmd: TRANSACTION UNDO
+[2018.08.05-05.35.06:265][389]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.08.05-05.35.06:431][389]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.08.05-05.35.07:485][417]Cmd: TRANSACTION UNDO
+[2018.08.05-05.35.07:485][417]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.08.05-05.35.07:662][417]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.08.05-05.35.14:211][602]Cmd: TRANSACTION UNDO
+[2018.08.05-05.35.14:211][602]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.08.05-05.35.37:572][306]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-05.35.38:776][376]MapCheck: New page: Map Check
+[2018.08.05-05.35.38:789][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-05.35.38:793][376]LightingResults: New page: Lighting Build - Aug 5, 2018, 4:35:38 PM
+[2018.08.05-05.35.38:911][376]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.05-05.35.38:914][376]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.05-05.35.38:915][376]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.05-05.35.38:918][376]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.05-05.35.38:918][376]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13440
+[2018.08.05-05.35.43:435][376]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.08.05-05.35.43:437][376]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.05-05.35.43:437][376]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.05-05.35.43:437][376]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.05-05.35.43:437][376]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.05-05.35.43:437][376]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.05-05.35.43:852][376]LogEditorBuildUtils: Build time 0:05
+[2018.08.05-05.36.39:883][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-05.36.52:621][ 40]Job is a success!
+[2018.08.05-05.36.53:344][ 41]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.430s
+[2018.08.05-05.36.53:345][ 41]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.08.05-05.36.53:345][ 41]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.4Mb
+[2018.08.05-05.36.53:345][ 41]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.05-05.36.53:345][ 41]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2018.08.05-05.36.53:345][ 41]LogVolumetricLightmapImport:          1: 6.7% covering 9.6% of volume
+[2018.08.05-05.36.53:345][ 41]LogVolumetricLightmapImport:          2: 92.2% covering 2.1% of volume
+[2018.08.05-05.36.56:053][ 41]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.08.05-05.36.56:053][ 41]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.08.05-05.36.56:053][ 41]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2018.08.05-05.36.56:053][ 41]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2018.08.05-05.36.56:053][ 41]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2018.08.05-05.36.56:053][ 41]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2018.08.05-05.36.56:053][ 41]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2018.08.05-05.36.56:053][ 41]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2018.08.05-05.36.56:053][ 41]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 256X256)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 64X64)
+[2018.08.05-05.36.56:054][ 41]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 64X64)
+[2018.08.05-05.36.57:844][ 41]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 128X128)
+[2018.08.05-05.36.57:844][ 41]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 128X128)
+[2018.08.05-05.36.57:844][ 41]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 128X128)
+[2018.08.05-05.36.57:844][ 41]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 128X128)
+[2018.08.05-05.36.57:845][ 41]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 128X128)
+[2018.08.05-05.36.57:845][ 41]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 128X128)
+[2018.08.05-05.36.57:845][ 41]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 128X128)
+[2018.08.05-05.36.57:845][ 41]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 128X128)
+[2018.08.05-05.36.57:845][ 41]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 128X128)
+[2018.08.05-05.36.58:077][ 41]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 128X128)
+[2018.08.05-05.36.58:077][ 41]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 128X128)
+[2018.08.05-05.36.58:077][ 41]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 128X128)
+[2018.08.05-05.36.58:077][ 41]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 128X128)
+[2018.08.05-05.36.58:078][ 41]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 128X128)
+[2018.08.05-05.36.58:078][ 41]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 32X32)
+[2018.08.05-05.36.58:078][ 41]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 128X128)
+[2018.08.05-05.36.58:078][ 41]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 128X128)
+[2018.08.05-05.36.58:166][ 41]Lightmass on LAPTOP-SNI5BBA7: 1:10 min total, 330 ms importing, 667 ms setup, 7.76 sec photons, 1:02 min processing, 0 ms extra exporting [17/17 mappings]. Threads: 4:08 min total, 31.7 sec processing.
+[2018.08.05-05.36.58:173][ 41]LogStaticLightingSystem: Illumination: 1:19 min (2.56 sec encoding lightmaps, 2.02 sec encoding shadowmaps)
+[2018.08.05-05.36.58:173][ 41]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 34 textures
+[2018.08.05-05.36.58:173][ 41]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 17 textures
+[2018.08.05-05.36.59:497][ 41]DumpUnbuiltLightIteractions
+[2018.08.05-05.36.59:498][ 41]Lights with unbuilt interactions: 0
+[2018.08.05-05.36.59:498][ 41]
+[2018.08.05-05.36.59:498][ 41]Primitives with unbuilt interactions: 0
+[2018.08.05-05.36.59:771][ 42]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.05-05.36.59:771][ 42]MapCheck: New page: Survival_Map - Aug 5, 2018, 4:36:59 PM
+[2018.08.05-05.36.59:838][ 42]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67.31ms to complete.
+[2018.08.05-05.37.01:923][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-05.37.02:053][109]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-05.37.02:058][109]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-05.37.03:417][152]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-05.37.23:602][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-05.37.37:753][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-05.38.06:378][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-05.38.22:931][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-05.40.48:336][847]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-05.40.49:273][903]MapCheck: New page: Map Check
+[2018.08.05-05.40.49:279][903]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-05.40.49:283][903]LightingResults: New page: Lighting Build - Aug 5, 2018, 4:40:49 PM
+[2018.08.05-05.40.49:304][903]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.05-05.40.49:355][903]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.05-05.40.49:355][903]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.05-05.40.49:364][903]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.05-05.40.49:364][903]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13440
+[2018.08.05-05.40.53:888][903]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.08.05-05.40.53:889][903]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.05-05.40.53:889][903]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.05-05.40.53:889][903]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.05-05.40.53:889][903]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.05-05.40.53:889][903]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.05-05.40.54:274][903]LogEditorBuildUtils: Build time 0:04
+[2018.08.05-05.41.15:130][963]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.08.05-05.41.15:287][963]LogSavePackage: Save=201.15ms
+[2018.08.05-05.41.15:288][963]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_Auto91AE5BAA04D552DA3FB2AF8A30797E48E.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Survival_Map_Auto9.umap'
+[2018.08.05-05.41.15:290][963]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Survival_Map_Auto9.umap
+[2018.08.05-05.41.15:323][963]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Survival_Map' took 0.966
+[2018.08.05-05.41.15:323][963]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.966
+[2018.08.05-05.41.15:347][963]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Survival_Map_BuiltData] ([1] browsable assets)...
+[2018.08.05-05.41.15:347][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/Survival_Map_BuiltData]
+[2018.08.05-05.41.15:472][963]LogSavePackage: Save=109.12ms
+[2018.08.05-05.41.15:472][963]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltData_Auto9AE81822244D250A97B583D9A90F65EB2.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Survival_Map_BuiltData_Auto9.uasset'
+[2018.08.05-05.41.15:473][963]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Survival_Map_BuiltData_Auto9.uasset
+[2018.08.05-05.41.15:473][963]LogFileHelpers: Auto-saving content packages took 0.149
+[2018.08.05-05.41.42:452][ 86]Job is a success!
+[2018.08.05-05.41.43:390][ 87]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.458s
+[2018.08.05-05.41.43:391][ 87]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.08.05-05.41.43:391][ 87]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.4Mb
+[2018.08.05-05.41.43:391][ 87]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.05-05.41.43:391][ 87]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2018.08.05-05.41.43:391][ 87]LogVolumetricLightmapImport:          1: 6.7% covering 9.6% of volume
+[2018.08.05-05.41.43:391][ 87]LogVolumetricLightmapImport:          2: 92.2% covering 2.1% of volume
+[2018.08.05-05.41.45:324][ 87]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.08.05-05.41.45:325][ 87]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.08.05-05.41.45:325][ 87]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2018.08.05-05.41.45:325][ 87]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2018.08.05-05.41.45:325][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2018.08.05-05.41.45:325][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2018.08.05-05.41.45:325][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2018.08.05-05.41.45:325][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2018.08.05-05.41.45:325][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2018.08.05-05.41.45:325][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2018.08.05-05.41.45:325][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2018.08.05-05.41.45:325][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 64X64)
+[2018.08.05-05.41.45:326][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 64X64)
+[2018.08.05-05.41.46:431][ 87]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 128X128)
+[2018.08.05-05.41.46:432][ 87]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 128X128)
+[2018.08.05-05.41.46:432][ 87]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 128X128)
+[2018.08.05-05.41.46:432][ 87]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 128X128)
+[2018.08.05-05.41.46:432][ 87]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 128X128)
+[2018.08.05-05.41.46:744][ 87]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 128X128)
+[2018.08.05-05.41.46:744][ 87]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 128X128)
+[2018.08.05-05.41.46:744][ 87]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 128X128)
+[2018.08.05-05.41.46:744][ 87]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 128X128)
+[2018.08.05-05.41.46:744][ 87]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 128X128)
+[2018.08.05-05.41.46:744][ 87]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 128X128)
+[2018.08.05-05.41.46:744][ 87]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 128X128)
+[2018.08.05-05.41.46:744][ 87]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 128X128)
+[2018.08.05-05.41.46:744][ 87]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 128X128)
+[2018.08.05-05.41.46:744][ 87]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 128X128)
+[2018.08.05-05.41.46:834][ 87]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 128X128)
+[2018.08.05-05.41.46:834][ 87]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 32X32)
+[2018.08.05-05.41.46:892][ 87]LogStaticLightingSystem: Illumination: 57.2 sec (1.88 sec encoding lightmaps, 1.50 sec encoding shadowmaps)
+[2018.08.05-05.41.46:892][ 87]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 34 textures
+[2018.08.05-05.41.46:892][ 87]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 17 textures
+[2018.08.05-05.41.47:922][ 87]DumpUnbuiltLightIteractions
+[2018.08.05-05.41.47:922][ 87]Lights with unbuilt interactions: 0
+[2018.08.05-05.41.47:922][ 87]
+[2018.08.05-05.41.47:922][ 87]Primitives with unbuilt interactions: 0
+[2018.08.05-05.41.48:147][ 88]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.05-05.41.48:147][ 88]MapCheck: New page: Survival_Map - Aug 5, 2018, 4:41:48 PM
+[2018.08.05-05.41.48:645][ 88]MapCheck: Warning: Landscape_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2018.08.05-05.41.48:797][ 88]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 649.073ms to complete.
+[2018.08.05-05.41.53:253][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-05.41.53:365][209]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-05.41.53:369][209]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-05.42.05:482][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-05.45.39:545][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-05.45.40:805][962]MapCheck: New page: Map Check
+[2018.08.05-05.45.40:811][962]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-05.45.40:815][962]LightingResults: New page: Lighting Build - Aug 5, 2018, 4:45:40 PM
+[2018.08.05-05.45.40:973][962]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.05-05.45.40:981][962]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.05-05.45.40:981][962]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.05-05.45.40:986][962]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.05-05.45.40:986][962]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13440
+[2018.08.05-05.45.45:501][962]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.08.05-05.45.45:503][962]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.05-05.45.45:503][962]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.05-05.45.45:503][962]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.05-05.45.45:503][962]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.05-05.45.45:503][962]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.05-05.45.45:941][962]LogEditorBuildUtils: Build time 0:05
+[2018.08.05-05.47.14:937][330]Job is a success!
+[2018.08.05-05.47.15:067][331]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-05.47.15:420][331]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.212s
+[2018.08.05-05.47.15:420][331]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.08.05-05.47.15:420][331]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.4Mb (trimmed 1.0Mb due to 0.010000 MinBrickError)
+[2018.08.05-05.47.15:420][331]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.05-05.47.15:421][331]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2018.08.05-05.47.15:421][331]LogVolumetricLightmapImport:          1: 8.9% covering 10.0% of volume
+[2018.08.05-05.47.15:421][331]LogVolumetricLightmapImport:          2: 89.7% covering 1.6% of volume
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 256X256)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 64X64)
+[2018.08.05-05.47.17:285][331]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 64X64)
+[2018.08.05-05.47.18:085][331]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 128X128)
+[2018.08.05-05.47.18:085][331]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (G8, 128X128)
+[2018.08.05-05.47.18:085][331]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (G8, 128X128)
+[2018.08.05-05.47.18:085][331]LogTexture: Display: Building textures: ShadowMapTexture2D_57 (G8, 128X128)
+[2018.08.05-05.47.18:085][331]LogTexture: Display: Building textures: ShadowMapTexture2D_58 (G8, 128X128)
+[2018.08.05-05.47.18:085][331]LogTexture: Display: Building textures: ShadowMapTexture2D_59 (G8, 128X128)
+[2018.08.05-05.47.18:085][331]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 128X128)
+[2018.08.05-05.47.18:085][331]LogTexture: Display: Building textures: ShadowMapTexture2D_60 (G8, 128X128)
+[2018.08.05-05.47.18:277][331]LogTexture: Display: Building textures: ShadowMapTexture2D_62 (G8, 128X128)
+[2018.08.05-05.47.18:277][331]LogTexture: Display: Building textures: ShadowMapTexture2D_61 (G8, 128X128)
+[2018.08.05-05.47.18:277][331]LogTexture: Display: Building textures: ShadowMapTexture2D_64 (G8, 128X128)
+[2018.08.05-05.47.18:277][331]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (G8, 128X128)
+[2018.08.05-05.47.18:277][331]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (G8, 128X128)
+[2018.08.05-05.47.18:277][331]LogTexture: Display: Building textures: ShadowMapTexture2D_63 (G8, 128X128)
+[2018.08.05-05.47.18:277][331]LogTexture: Display: Building textures: ShadowMapTexture2D_68 (G8, 128X128)
+[2018.08.05-05.47.18:277][331]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (G8, 128X128)
+[2018.08.05-05.47.18:277][331]LogTexture: Display: Building textures: ShadowMapTexture2D_69 (G8, 32X32)
+[2018.08.05-05.47.18:311][331]Lightmass on LAPTOP-SNI5BBA7: 1:31 min total, 346 ms importing, 379 ms setup, 6.31 sec photons, 1:24 min processing, 0 ms extra exporting [17/17 mappings]. Threads: 5:37 min total, 34.5 sec processing.
+[2018.08.05-05.47.18:348][331]LogStaticLightingSystem: Illumination: 1:37 min (1.79 sec encoding lightmaps, 988 ms encoding shadowmaps)
+[2018.08.05-05.47.18:349][331]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 34 textures
+[2018.08.05-05.47.18:349][331]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 17 textures
+[2018.08.05-05.47.19:572][331]DumpUnbuiltLightIteractions
+[2018.08.05-05.47.19:572][331]Lights with unbuilt interactions: 0
+[2018.08.05-05.47.19:572][331]
+[2018.08.05-05.47.19:572][331]Primitives with unbuilt interactions: 0
+[2018.08.05-05.47.19:899][332]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.05-05.47.19:899][332]MapCheck: New page: Survival_Map - Aug 5, 2018, 4:47:19 PM
+[2018.08.05-05.47.19:964][332]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.16ms to complete.
+[2018.08.05-05.47.21:594][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-05.47.21:692][386]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-05.47.21:696][386]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-05.48.17:412][914]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-05.48.21:067][126]MapCheck: New page: Map Check
+[2018.08.05-05.48.21:082][126]LightingResults: New page: Lighting Build - Aug 5, 2018, 4:48:21 PM
+[2018.08.05-05.48.21:103][126]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.05-05.48.21:106][126]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.05-05.48.21:106][126]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.05-05.48.21:109][126]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.05-05.48.21:109][126]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13440
+[2018.08.05-05.48.25:619][126]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.08.05-05.48.25:620][126]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.05-05.48.25:620][126]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.05-05.48.25:620][126]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.05-05.48.25:620][126]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.05-05.48.25:620][126]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.05-05.48.26:033][126]LogEditorBuildUtils: Build time 0:04
+[2018.08.05-05.49.29:942][372]Job is a success!
+[2018.08.05-05.49.30:276][373]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.152s
+[2018.08.05-05.49.30:276][373]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.08.05-05.49.30:276][373]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.4Mb (trimmed 0.8Mb due to 0.010000 MinBrickError)
+[2018.08.05-05.49.30:276][373]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.05-05.49.30:276][373]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2018.08.05-05.49.30:276][373]LogVolumetricLightmapImport:          1: 8.0% covering 9.6% of volume
+[2018.08.05-05.49.30:276][373]LogVolumetricLightmapImport:          2: 90.7% covering 1.7% of volume
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2018.08.05-05.49.31:919][373]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2018.08.05-05.49.31:920][373]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2018.08.05-05.49.31:920][373]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2018.08.05-05.49.31:920][373]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2018.08.05-05.49.31:920][373]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 64X64)
+[2018.08.05-05.49.31:920][373]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 64X64)
+[2018.08.05-05.49.32:929][373]LogTexture: Display: Building textures: ShadowMapTexture2D_70 (G8, 128X128)
+[2018.08.05-05.49.32:929][373]LogTexture: Display: Building textures: ShadowMapTexture2D_72 (G8, 128X128)
+[2018.08.05-05.49.32:929][373]LogTexture: Display: Building textures: ShadowMapTexture2D_71 (G8, 128X128)
+[2018.08.05-05.49.32:929][373]LogTexture: Display: Building textures: ShadowMapTexture2D_74 (G8, 128X128)
+[2018.08.05-05.49.32:929][373]LogTexture: Display: Building textures: ShadowMapTexture2D_73 (G8, 128X128)
+[2018.08.05-05.49.32:929][373]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (G8, 128X128)
+[2018.08.05-05.49.32:929][373]LogTexture: Display: Building textures: ShadowMapTexture2D_76 (G8, 128X128)
+[2018.08.05-05.49.32:929][373]LogTexture: Display: Building textures: ShadowMapTexture2D_77 (G8, 128X128)
+[2018.08.05-05.49.32:929][373]LogTexture: Display: Building textures: ShadowMapTexture2D_79 (G8, 128X128)
+[2018.08.05-05.49.32:929][373]LogTexture: Display: Building textures: ShadowMapTexture2D_80 (G8, 128X128)
+[2018.08.05-05.49.32:929][373]LogTexture: Display: Building textures: ShadowMapTexture2D_78 (G8, 128X128)
+[2018.08.05-05.49.32:929][373]LogTexture: Display: Building textures: ShadowMapTexture2D_82 (G8, 128X128)
+[2018.08.05-05.49.32:929][373]LogTexture: Display: Building textures: ShadowMapTexture2D_81 (G8, 128X128)
+[2018.08.05-05.49.32:930][373]LogTexture: Display: Building textures: ShadowMapTexture2D_83 (G8, 128X128)
+[2018.08.05-05.49.32:930][373]LogTexture: Display: Building textures: ShadowMapTexture2D_84 (G8, 128X128)
+[2018.08.05-05.49.32:930][373]LogTexture: Display: Building textures: ShadowMapTexture2D_86 (G8, 32X32)
+[2018.08.05-05.49.32:930][373]LogTexture: Display: Building textures: ShadowMapTexture2D_85 (G8, 128X128)
+[2018.08.05-05.49.33:018][373]Lightmass on LAPTOP-SNI5BBA7: 1:05 min total, 410 ms importing, 448 ms setup, 6.26 sec photons, 58.7 sec processing, 0 ms extra exporting [17/17 mappings]. Threads: 3:54 min total, 29.5 sec processing.
+[2018.08.05-05.49.33:061][373]LogStaticLightingSystem: Illumination: 1:11 min (1.58 sec encoding lightmaps, 1.00 sec encoding shadowmaps)
+[2018.08.05-05.49.33:061][373]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 34 textures
+[2018.08.05-05.49.33:061][373]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 17 textures
+[2018.08.05-05.49.33:665][373]DumpUnbuiltLightIteractions
+[2018.08.05-05.49.33:665][373]Lights with unbuilt interactions: 0
+[2018.08.05-05.49.33:665][373]
+[2018.08.05-05.49.33:665][373]Primitives with unbuilt interactions: 0
+[2018.08.05-05.49.33:888][374]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.05-05.49.33:888][374]MapCheck: New page: Survival_Map - Aug 5, 2018, 4:49:33 PM
+[2018.08.05-05.49.33:950][374]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.098ms to complete.
+[2018.08.05-05.49.35:336][414]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-05.49.35:347][414]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-05.49.39:473][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-05.50.39:436][197]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-05.50.40:339][251]MapCheck: New page: Map Check
+[2018.08.05-05.50.40:437][251]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-05.50.40:450][251]LightingResults: New page: Lighting Build - Aug 5, 2018, 4:50:40 PM
+[2018.08.05-05.50.40:538][251]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.05-05.50.40:543][251]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.05-05.50.40:543][251]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.05-05.50.40:548][251]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.05-05.50.40:548][251]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13440
+[2018.08.05-05.50.45:069][251]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.08.05-05.50.45:071][251]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.05-05.50.45:071][251]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.05-05.50.45:071][251]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.05-05.50.45:071][251]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.05-05.50.45:071][251]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.05-05.50.45:363][251]LogEditorBuildUtils: Build time 0:04
+[2018.08.05-05.51.31:851][393]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.08.05-05.51.32:153][393]LogSavePackage: Save=359.35ms
+[2018.08.05-05.51.32:153][393]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_Auto09982E2EE4D905E6BEDABE7809DAF7AFF.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Survival_Map_Auto0.umap'
+[2018.08.05-05.51.32:154][393]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Survival_Map_Auto0.umap
+[2018.08.05-05.51.32:182][393]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Survival_Map' took 0.926
+[2018.08.05-05.51.32:182][393]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.926
+[2018.08.05-05.51.32:184][393]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Survival_Map_BuiltData] ([1] browsable assets)...
+[2018.08.05-05.51.32:185][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/Survival_Map_BuiltData]
+[2018.08.05-05.51.32:317][393]LogSavePackage: Save=115.11ms
+[2018.08.05-05.51.32:317][393]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltData_Auto0A9BB22F141CA0D1D59A82CBB9625B2C1.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Survival_Map_BuiltData_Auto0.uasset'
+[2018.08.05-05.51.32:318][393]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Survival_Map_BuiltData_Auto0.uasset
+[2018.08.05-05.51.32:319][393]LogFileHelpers: Auto-saving content packages took 0.135
+[2018.08.05-05.52.03:653][551]Job is a success!
+[2018.08.05-05.52.04:437][552]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.250s
+[2018.08.05-05.52.04:438][552]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.08.05-05.52.04:438][552]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.4Mb (trimmed 0.8Mb due to 0.010000 MinBrickError)
+[2018.08.05-05.52.04:438][552]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.05-05.52.04:438][552]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2018.08.05-05.52.04:438][552]LogVolumetricLightmapImport:          1: 7.9% covering 9.6% of volume
+[2018.08.05-05.52.04:438][552]LogVolumetricLightmapImport:          2: 90.8% covering 1.7% of volume
+[2018.08.05-05.52.05:999][552]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 256X256)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 64X64)
+[2018.08.05-05.52.06:000][552]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 64X64)
+[2018.08.05-05.52.06:916][552]LogTexture: Display: Building textures: ShadowMapTexture2D_87 (G8, 128X128)
+[2018.08.05-05.52.06:916][552]LogTexture: Display: Building textures: ShadowMapTexture2D_88 (G8, 128X128)
+[2018.08.05-05.52.06:916][552]LogTexture: Display: Building textures: ShadowMapTexture2D_90 (G8, 128X128)
+[2018.08.05-05.52.06:916][552]LogTexture: Display: Building textures: ShadowMapTexture2D_91 (G8, 128X128)
+[2018.08.05-05.52.06:916][552]LogTexture: Display: Building textures: ShadowMapTexture2D_89 (G8, 128X128)
+[2018.08.05-05.52.06:916][552]LogTexture: Display: Building textures: ShadowMapTexture2D_93 (G8, 128X128)
+[2018.08.05-05.52.06:916][552]LogTexture: Display: Building textures: ShadowMapTexture2D_92 (G8, 128X128)
+[2018.08.05-05.52.06:916][552]LogTexture: Display: Building textures: ShadowMapTexture2D_95 (G8, 128X128)
+[2018.08.05-05.52.06:916][552]LogTexture: Display: Building textures: ShadowMapTexture2D_96 (G8, 128X128)
+[2018.08.05-05.52.06:917][552]LogTexture: Display: Building textures: ShadowMapTexture2D_97 (G8, 128X128)
+[2018.08.05-05.52.06:917][552]LogTexture: Display: Building textures: ShadowMapTexture2D_98 (G8, 128X128)
+[2018.08.05-05.52.06:917][552]LogTexture: Display: Building textures: ShadowMapTexture2D_99 (G8, 128X128)
+[2018.08.05-05.52.06:917][552]LogTexture: Display: Building textures: ShadowMapTexture2D_100 (G8, 128X128)
+[2018.08.05-05.52.06:917][552]LogTexture: Display: Building textures: ShadowMapTexture2D_101 (G8, 128X128)
+[2018.08.05-05.52.06:917][552]LogTexture: Display: Building textures: ShadowMapTexture2D_94 (G8, 128X128)
+[2018.08.05-05.52.06:917][552]LogTexture: Display: Building textures: ShadowMapTexture2D_103 (G8, 32X32)
+[2018.08.05-05.52.06:917][552]LogTexture: Display: Building textures: ShadowMapTexture2D_102 (G8, 128X128)
+[2018.08.05-05.52.07:023][552]Lightmass on LAPTOP-SNI5BBA7: 1:15 min total, 509 ms importing, 834 ms setup, 6.72 sec photons, 1:07 min processing, 0 ms extra exporting [17/17 mappings]. Threads: 4:30 min total, 30.4 sec processing.
+[2018.08.05-05.52.07:031][552]LogStaticLightingSystem: Illumination: 1:26 min (1.51 sec encoding lightmaps, 900 ms encoding shadowmaps)
+[2018.08.05-05.52.07:031][552]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 34 textures
+[2018.08.05-05.52.07:031][552]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 17 textures
+[2018.08.05-05.52.08:125][552]DumpUnbuiltLightIteractions
+[2018.08.05-05.52.08:125][552]Lights with unbuilt interactions: 0
+[2018.08.05-05.52.08:125][552]
+[2018.08.05-05.52.08:125][552]Primitives with unbuilt interactions: 0
+[2018.08.05-05.52.08:380][553]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.05-05.52.08:380][553]MapCheck: New page: Survival_Map - Aug 5, 2018, 4:52:08 PM
+[2018.08.05-05.52.08:620][553]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 239.524ms to complete.
+[2018.08.05-05.52.15:954][575]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-05.52.15:966][575]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-05.52.46:036][371]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-05.52.47:669][462]MapCheck: New page: Map Check
+[2018.08.05-05.52.47:722][462]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-05.52.47:733][462]LightingResults: New page: Lighting Build - Aug 5, 2018, 4:52:47 PM
+[2018.08.05-05.52.47:797][462]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.05-05.52.47:801][462]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.05-05.52.47:801][462]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.05-05.52.47:817][462]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.05-05.52.47:817][462]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13440
+[2018.08.05-05.52.52:332][462]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.08.05-05.52.52:334][462]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.05-05.52.52:334][462]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.05-05.52.52:334][462]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.05-05.52.52:334][462]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.05-05.52.52:334][462]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.05-05.52.52:727][462]LogEditorBuildUtils: Build time 0:05
+[2018.08.05-05.52.54:433][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-05.52.54:610][516]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2018.08.05-05.52.54:800][516]LogSavePackage: Save=195.59ms
+[2018.08.05-05.52.54:800][516]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map9136BA52464096EE6EAAEFB7F05759D6.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2018.08.05-05.52.54:811][516]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap
+[2018.08.05-05.52.55:218][516]LogSavePackage: Save=353.12ms
+[2018.08.05-05.52.55:218][516]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltData8C5E99444CAB0C888ABF1EBA5C79E651.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2018.08.05-05.52.55:223][516]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset
+[2018.08.05-05.52.56:881][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-05.54.08:666][629]Job is a success!
+[2018.08.05-05.54.09:399][630]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.285s
+[2018.08.05-05.54.09:399][630]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.08.05-05.54.09:399][630]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.4Mb (trimmed 0.7Mb due to 0.010000 MinBrickError)
+[2018.08.05-05.54.09:399][630]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.05-05.54.09:399][630]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2018.08.05-05.54.09:399][630]LogVolumetricLightmapImport:          1: 7.8% covering 9.6% of volume
+[2018.08.05-05.54.09:400][630]LogVolumetricLightmapImport:          2: 90.9% covering 1.7% of volume
+[2018.08.05-05.54.11:073][630]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.08.05-05.54.11:073][630]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.08.05-05.54.11:073][630]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2018.08.05-05.54.11:073][630]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2018.08.05-05.54.11:073][630]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2018.08.05-05.54.11:073][630]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2018.08.05-05.54.11:073][630]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2018.08.05-05.54.11:073][630]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2018.08.05-05.54.11:073][630]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2018.08.05-05.54.11:073][630]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 64X64)
+[2018.08.05-05.54.11:074][630]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 64X64)
+[2018.08.05-05.54.11:925][630]LogTexture: Display: Building textures: ShadowMapTexture2D_104 (G8, 128X128)
+[2018.08.05-05.54.11:925][630]LogTexture: Display: Building textures: ShadowMapTexture2D_105 (G8, 128X128)
+[2018.08.05-05.54.11:925][630]LogTexture: Display: Building textures: ShadowMapTexture2D_106 (G8, 128X128)
+[2018.08.05-05.54.11:925][630]LogTexture: Display: Building textures: ShadowMapTexture2D_107 (G8, 128X128)
+[2018.08.05-05.54.11:925][630]LogTexture: Display: Building textures: ShadowMapTexture2D_109 (G8, 128X128)
+[2018.08.05-05.54.11:925][630]LogTexture: Display: Building textures: ShadowMapTexture2D_110 (G8, 128X128)
+[2018.08.05-05.54.11:925][630]LogTexture: Display: Building textures: ShadowMapTexture2D_112 (G8, 128X128)
+[2018.08.05-05.54.11:925][630]LogTexture: Display: Building textures: ShadowMapTexture2D_108 (G8, 128X128)
+[2018.08.05-05.54.11:925][630]LogTexture: Display: Building textures: ShadowMapTexture2D_113 (G8, 128X128)
+[2018.08.05-05.54.11:925][630]LogTexture: Display: Building textures: ShadowMapTexture2D_114 (G8, 128X128)
+[2018.08.05-05.54.11:925][630]LogTexture: Display: Building textures: ShadowMapTexture2D_115 (G8, 128X128)
+[2018.08.05-05.54.11:925][630]LogTexture: Display: Building textures: ShadowMapTexture2D_111 (G8, 128X128)
+[2018.08.05-05.54.11:925][630]LogTexture: Display: Building textures: ShadowMapTexture2D_117 (G8, 128X128)
+[2018.08.05-05.54.11:925][630]LogTexture: Display: Building textures: ShadowMapTexture2D_118 (G8, 128X128)
+[2018.08.05-05.54.11:925][630]LogTexture: Display: Building textures: ShadowMapTexture2D_120 (G8, 32X32)
+[2018.08.05-05.54.11:925][630]LogTexture: Display: Building textures: ShadowMapTexture2D_119 (G8, 128X128)
+[2018.08.05-05.54.11:925][630]LogTexture: Display: Building textures: ShadowMapTexture2D_116 (G8, 128X128)
+[2018.08.05-05.54.11:958][630]Lightmass on LAPTOP-SNI5BBA7: 1:18 min total, 740 ms importing, 534 ms setup, 10.0 sec photons, 1:07 min processing, 0 ms extra exporting [17/17 mappings]. Threads: 4:28 min total, 40.6 sec processing.
+[2018.08.05-05.54.11:994][630]LogStaticLightingSystem: Illumination: 1:23 min (1.47 sec encoding lightmaps, 851 ms encoding shadowmaps)
+[2018.08.05-05.54.11:994][630]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 34 textures
+[2018.08.05-05.54.11:994][630]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 17 textures
+[2018.08.05-05.54.12:390][630]DumpUnbuiltLightIteractions
+[2018.08.05-05.54.12:390][630]Lights with unbuilt interactions: 0
+[2018.08.05-05.54.12:390][630]
+[2018.08.05-05.54.12:390][630]Primitives with unbuilt interactions: 0
+[2018.08.05-05.54.12:590][631]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.05-05.54.12:591][631]MapCheck: New page: Survival_Map - Aug 5, 2018, 4:54:12 PM
+[2018.08.05-05.54.12:649][631]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.892ms to complete.
+[2018.08.05-05.54.21:820][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-05.54.21:936][730]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-05.54.21:941][730]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-05.54.24:313][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-05.54.24:589][809]LogSavePackage: Save=134.44ms
+[2018.08.05-05.54.24:589][809]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_MapE956BADC4029C4D75B6EDDA02E77F5AC.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2018.08.05-05.54.24:590][809]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap
+[2018.08.05-05.54.24:892][809]LogSavePackage: Save=269.16ms
+[2018.08.05-05.54.24:892][809]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltDataC70537CE41837148B5157584469045A2.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2018.08.05-05.54.24:895][809]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset
+[2018.08.05-05.54.26:565][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-05.54.35:306][199]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.08.05-05.54.35:418][199]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.08.05-05.54.35:418][199]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.08.05-05.54.35:418][199]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.08.05-05.54.38:685][253]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.08.05-05.54.40:485][290]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.08.05-05.54.41:044][292]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.08.05-05.54.43:924][293]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.08.05-05.54.44:321][295]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.08.05-05.54.44:634][296]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.08.05-05.54.46:774][302]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.05-05.54.46:774][302]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.05-05.54.47:807][305]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.05-05.56.42:714][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-05.57.30:175][ 10]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 128X128)
+[2018.08.05-05.57.30:273][ 10]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.08.05-05.57.30:388][ 10]LogShaderCompilers: Display: Shaders left to compile 186
+[2018.08.05-05.57.30:388][ 10]LogShaderCompilers: Display: Shaders left to compile 176
+[2018.08.05-05.57.30:388][ 10]LogShaderCompilers: Display: Shaders left to compile 166
+[2018.08.05-05.57.30:422][ 10]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.08.05-05.57.30:653][ 10]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 128X128)
+[2018.08.05-05.57.30:744][ 10]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 128X128)
+[2018.08.05-05.57.30:844][ 10]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 128X128)
+[2018.08.05-05.57.41:676][364]LogShaderCompilers: Display: Shaders left to compile 268
+[2018.08.05-05.57.42:327][380]LogShaderCompilers: Display: Shaders left to compile 258
+[2018.08.05-05.57.46:693][497]LogShaderCompilers: Display: Shaders left to compile 248
+[2018.08.05-05.57.49:379][584]LogShaderCompilers: Display: Shaders left to compile 238
+[2018.08.05-05.57.49:393][584]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 128X128)
+[2018.08.05-05.57.49:550][584]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 128X128)
+[2018.08.05-05.57.49:608][584]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 128X128)
+[2018.08.05-05.57.49:696][584]LogShaderCompilers: Display: Shaders left to compile 228
+[2018.08.05-05.57.49:697][584]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 128X128)
+[2018.08.05-05.58.00:392][816]LogShaderCompilers: Display: Shaders left to compile 218
+[2018.08.05-05.58.05:351][830]LogShaderCompilers: Display: Shaders left to compile 208
+[2018.08.05-05.58.05:351][830]LogShaderCompilers: Display: Shaders left to compile 198
+[2018.08.05-05.58.07:424][836]LogShaderCompilers: Display: Shaders left to compile 188
+[2018.08.05-05.58.10:185][843]LogShaderCompilers: Display: Shaders left to compile 178
+[2018.08.05-05.58.10:185][843]LogShaderCompilers: Display: Shaders left to compile 168
+[2018.08.05-05.58.11:914][849]LogShaderCompilers: Display: Shaders left to compile 158
+[2018.08.05-05.58.14:303][856]LogShaderCompilers: Display: Shaders left to compile 148
+[2018.08.05-05.58.14:638][857]LogShaderCompilers: Display: Shaders left to compile 138
+[2018.08.05-05.58.16:018][861]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.08.05-05.58.19:768][872]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.08.05-05.58.20:472][874]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.08.05-05.58.21:826][878]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.08.05-05.58.24:262][885]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.08.05-05.58.24:614][885]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.08.05-05.58.25:648][889]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.08.05-05.58.28:700][898]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.08.05-05.58.30:755][904]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.08.05-05.58.32:122][908]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.08.05-05.58.32:791][910]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.08.05-05.58.34:152][914]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.05-05.58.35:503][918]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.05-05.59.39:679][284]MapCheck: New page: Map Check
+[2018.08.05-05.59.39:777][284]LightingResults: New page: Lighting Build - Aug 5, 2018, 4:59:39 PM
+[2018.08.05-05.59.39:839][284]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.05-05.59.39:843][284]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.05-05.59.39:843][284]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.05-05.59.39:846][284]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.05-05.59.39:846][284]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13440
+[2018.08.05-05.59.44:365][284]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.08.05-05.59.44:367][284]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.05-05.59.44:367][284]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.05-05.59.44:367][284]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.05-05.59.44:368][284]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.05-05.59.44:368][284]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.05-05.59.44:698][284]LogEditorBuildUtils: Build time 0:04
+[2018.08.05-06.02.01:216][ 72]Job is a success!
+[2018.08.05-06.02.01:837][ 73]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.192s
+[2018.08.05-06.02.01:837][ 73]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.08.05-06.02.01:837][ 73]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.4Mb (trimmed 0.9Mb due to 0.010000 MinBrickError)
+[2018.08.05-06.02.01:837][ 73]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.05-06.02.01:837][ 73]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2018.08.05-06.02.01:837][ 73]LogVolumetricLightmapImport:          1: 8.3% covering 9.6% of volume
+[2018.08.05-06.02.01:837][ 73]LogVolumetricLightmapImport:          2: 90.4% covering 1.6% of volume
+[2018.08.05-06.02.03:658][ 73]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.08.05-06.02.03:658][ 73]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.08.05-06.02.03:658][ 73]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2018.08.05-06.02.03:658][ 73]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2018.08.05-06.02.03:658][ 73]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2018.08.05-06.02.03:658][ 73]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2018.08.05-06.02.03:658][ 73]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2018.08.05-06.02.03:658][ 73]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2018.08.05-06.02.03:658][ 73]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 256X256)
+[2018.08.05-06.02.03:658][ 73]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 256X256)
+[2018.08.05-06.02.03:658][ 73]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2018.08.05-06.02.03:658][ 73]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2018.08.05-06.02.03:658][ 73]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 256X256)
+[2018.08.05-06.02.03:658][ 73]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 256X256)
+[2018.08.05-06.02.03:658][ 73]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 256X256)
+[2018.08.05-06.02.03:658][ 73]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 256X256)
+[2018.08.05-06.02.03:659][ 73]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 256X256)
+[2018.08.05-06.02.03:659][ 73]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 256X256)
+[2018.08.05-06.02.03:659][ 73]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 256X256)
+[2018.08.05-06.02.03:659][ 73]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 256X256)
+[2018.08.05-06.02.03:659][ 73]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 256X256)
+[2018.08.05-06.02.03:659][ 73]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 256X256)
+[2018.08.05-06.02.03:659][ 73]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 256X256)
+[2018.08.05-06.02.03:659][ 73]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 256X256)
+[2018.08.05-06.02.03:659][ 73]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 256X256)
+[2018.08.05-06.02.03:659][ 73]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 256X256)
+[2018.08.05-06.02.03:659][ 73]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 256X256)
+[2018.08.05-06.02.03:659][ 73]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 256X256)
+[2018.08.05-06.02.03:659][ 73]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 256X256)
+[2018.08.05-06.02.03:659][ 73]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 256X256)
+[2018.08.05-06.02.03:659][ 73]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 256X256)
+[2018.08.05-06.02.03:659][ 73]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 256X256)
+[2018.08.05-06.02.03:659][ 73]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 64X64)
+[2018.08.05-06.02.03:659][ 73]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 64X64)
+[2018.08.05-06.02.04:090][ 73]LogTexture: Display: Building textures: ShadowMapTexture2D_122 (G8, 128X128)
+[2018.08.05-06.02.04:091][ 73]LogTexture: Display: Building textures: ShadowMapTexture2D_123 (G8, 128X128)
+[2018.08.05-06.02.04:091][ 73]LogTexture: Display: Building textures: ShadowMapTexture2D_121 (G8, 128X128)
+[2018.08.05-06.02.04:091][ 73]LogTexture: Display: Building textures: ShadowMapTexture2D_125 (G8, 128X128)
+[2018.08.05-06.02.04:091][ 73]LogTexture: Display: Building textures: ShadowMapTexture2D_126 (G8, 128X128)
+[2018.08.05-06.02.04:091][ 73]LogTexture: Display: Building textures: ShadowMapTexture2D_127 (G8, 128X128)
+[2018.08.05-06.02.04:091][ 73]LogTexture: Display: Building textures: ShadowMapTexture2D_128 (G8, 128X128)
+[2018.08.05-06.02.04:091][ 73]LogTexture: Display: Building textures: ShadowMapTexture2D_129 (G8, 128X128)
+[2018.08.05-06.02.04:091][ 73]LogTexture: Display: Building textures: ShadowMapTexture2D_130 (G8, 128X128)
+[2018.08.05-06.02.04:091][ 73]LogTexture: Display: Building textures: ShadowMapTexture2D_124 (G8, 128X128)
+[2018.08.05-06.02.04:091][ 73]LogTexture: Display: Building textures: ShadowMapTexture2D_132 (G8, 128X128)
+[2018.08.05-06.02.04:091][ 73]LogTexture: Display: Building textures: ShadowMapTexture2D_133 (G8, 128X128)
+[2018.08.05-06.02.04:091][ 73]LogTexture: Display: Building textures: ShadowMapTexture2D_134 (G8, 128X128)
+[2018.08.05-06.02.04:091][ 73]LogTexture: Display: Building textures: ShadowMapTexture2D_131 (G8, 128X128)
+[2018.08.05-06.02.04:091][ 73]LogTexture: Display: Building textures: ShadowMapTexture2D_135 (G8, 128X128)
+[2018.08.05-06.02.04:091][ 73]LogTexture: Display: Building textures: ShadowMapTexture2D_137 (G8, 32X32)
+[2018.08.05-06.02.04:091][ 73]LogTexture: Display: Building textures: ShadowMapTexture2D_136 (G8, 128X128)
+[2018.08.05-06.02.04:114][ 73]Lightmass on LAPTOP-SNI5BBA7: 2:15 min total, 778 ms importing, 676 ms setup, 7.77 sec photons, 2:06 min processing, 0 ms extra exporting [17/17 mappings]. Threads: 8:24 min total, 27.9 sec processing.
+[2018.08.05-06.02.04:170][ 73]LogStaticLightingSystem: Illumination: 2:24 min (1.71 sec encoding lightmaps, 430 ms encoding shadowmaps)
+[2018.08.05-06.02.04:170][ 73]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 34 textures
+[2018.08.05-06.02.04:170][ 73]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 17 textures
+[2018.08.05-06.02.09:466][ 73]DumpUnbuiltLightIteractions
+[2018.08.05-06.02.09:466][ 73]Lights with unbuilt interactions: 0
+[2018.08.05-06.02.09:466][ 73]
+[2018.08.05-06.02.09:466][ 73]Primitives with unbuilt interactions: 0
+[2018.08.05-06.02.10:066][ 74]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.05-06.02.10:067][ 74]MapCheck: New page: Survival_Map - Aug 5, 2018, 5:02:10 PM
+[2018.08.05-06.02.10:130][ 74]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.48ms to complete.
+[2018.08.05-06.02.12:184][118]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-06.02.12:188][118]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-06.02.14:476][176]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 128X128)
+[2018.08.05-06.02.14:477][176]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 128X128)
+[2018.08.05-06.02.14:479][176]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 128X128)
+[2018.08.05-06.02.14:480][176]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 128X128)
+[2018.08.05-06.02.14:481][176]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 128X128)
+[2018.08.05-06.02.14:483][176]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 128X128)
+[2018.08.05-06.02.14:484][176]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 128X128)
+[2018.08.05-06.02.14:486][176]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 128X128)
+[2018.08.05-06.02.14:643][176]LogSavePackage: Save=174.83ms
+[2018.08.05-06.02.14:644][176]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_MapF88A19EE425D62678D1DB8B68933FF5F.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2018.08.05-06.02.14:651][176]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap
+[2018.08.05-06.02.14:967][176]LogSavePackage: Save=268.73ms
+[2018.08.05-06.02.14:967][176]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltData91B24D2C4930FCE578E7328F79C1E5B1.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2018.08.05-06.02.14:970][176]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset
+[2018.08.05-06.03.12:100][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-06.03.50:801][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-06.04.03:852][768]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 128X128)
+[2018.08.05-06.04.03:854][768]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 128X128)
+[2018.08.05-06.04.03:953][768]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 128X128)
+[2018.08.05-06.04.03:957][768]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 128X128)
+[2018.08.05-06.04.03:984][768]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 128X128)
+[2018.08.05-06.04.04:019][768]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 128X128)
+[2018.08.05-06.04.04:025][768]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 128X128)
+[2018.08.05-06.04.04:028][768]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 128X128)
+[2018.08.05-06.04.04:203][768]LogSavePackage: Save=356.41ms
+[2018.08.05-06.04.04:203][768]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map863FAD784767E91E8CCCEE8A0E5A76C4.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2018.08.05-06.04.04:206][768]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap
+[2018.08.05-06.04.04:508][768]LogSavePackage: Save=267.65ms
+[2018.08.05-06.04.04:508][768]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltDataE16526E34EA490E175DD06893C5178FF.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2018.08.05-06.04.04:510][768]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset
+[2018.08.05-06.04.29:797][297]LogSavePackage: Save=144.71ms
+[2018.08.05-06.04.29:798][297]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_MapAACB7FAD4C262B675BD2FEA17BFC634A.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2018.08.05-06.04.29:800][297]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap
+[2018.08.05-06.04.30:106][297]LogSavePackage: Save=272.39ms
+[2018.08.05-06.04.30:106][297]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltData108383A34C7CADCB1F6FE7BCD5E4D0F5.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2018.08.05-06.04.30:107][297]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset
+[2018.08.05-06.05.06:535][976]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-06.05.21:853][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-06.05.22:152][434]LogSavePackage: Save=144.90ms
+[2018.08.05-06.05.22:153][434]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map4D5F66D4450843E39E4ADAAA9B42FF76.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2018.08.05-06.05.22:154][434]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap
+[2018.08.05-06.05.22:469][434]LogSavePackage: Save=280.14ms
+[2018.08.05-06.05.22:469][434]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltDataBD15D7A64A550BC4714EC0884ADAB384.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2018.08.05-06.05.22:471][434]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset
+[2018.08.05-06.05.40:828][914]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 128X128)
+[2018.08.05-06.05.40:957][914]LogMaterial: Missing cached shader map for material M_Landscape_01, compiling. 
+[2018.08.05-06.05.41:002][914]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.08.05-06.05.41:002][914]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.08.05-06.05.41:002][914]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.08.05-06.05.41:058][914]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 128X128)
+[2018.08.05-06.05.41:115][914]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 128X128)
+[2018.08.05-06.05.41:180][914]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 128X128)
+[2018.08.05-06.05.54:798][197]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.08.05-06.05.55:024][202]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.08.05-06.05.56:509][231]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.08.05-06.06.02:741][279]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.08.05-06.06.03:103][280]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.08.05-06.06.03:103][280]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.08.05-06.06.05:491][287]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.05-06.06.05:988][288]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.05-06.06.06:547][290]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.05-06.06.12:121][305]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-06.06.18:306][518]MapCheck: New page: Map Check
+[2018.08.05-06.06.18:355][518]LightingResults: New page: Lighting Build - Aug 5, 2018, 5:06:18 PM
+[2018.08.05-06.06.18:412][518]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.05-06.06.18:416][518]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.05-06.06.18:416][518]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.05-06.06.18:419][518]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.05-06.06.18:419][518]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13440
+[2018.08.05-06.06.22:929][518]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.08.05-06.06.22:930][518]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.05-06.06.22:930][518]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.05-06.06.22:930][518]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.05-06.06.22:930][518]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.05-06.06.22:930][518]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.05-06.06.23:359][518]LogEditorBuildUtils: Build time 0:05
+[2018.08.05-06.06.23:365][518]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2018.08.05-06.06.23:422][518]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.05-06.06.23:422][518]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2018.08.05-06.06.23:466][519]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.05-06.07.46:401][427]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-06.07.56:016][795]Job is a success!
+[2018.08.05-06.07.56:178][796]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.092s
+[2018.08.05-06.07.56:178][796]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.08.05-06.07.56:178][796]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.4Mb (trimmed 0.9Mb due to 0.010000 MinBrickError)
+[2018.08.05-06.07.56:178][796]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.05-06.07.56:178][796]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2018.08.05-06.07.56:178][796]LogVolumetricLightmapImport:          1: 8.3% covering 9.6% of volume
+[2018.08.05-06.07.56:178][796]LogVolumetricLightmapImport:          2: 90.4% covering 1.6% of volume
+[2018.08.05-06.07.57:482][796]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 64X64)
+[2018.08.05-06.07.57:483][796]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 64X64)
+[2018.08.05-06.07.58:034][796]LogTexture: Display: Building textures: ShadowMapTexture2D_138 (G8, 128X128)
+[2018.08.05-06.07.58:034][796]LogTexture: Display: Building textures: ShadowMapTexture2D_139 (G8, 128X128)
+[2018.08.05-06.07.58:034][796]LogTexture: Display: Building textures: ShadowMapTexture2D_140 (G8, 128X128)
+[2018.08.05-06.07.58:034][796]LogTexture: Display: Building textures: ShadowMapTexture2D_141 (G8, 128X128)
+[2018.08.05-06.07.58:034][796]LogTexture: Display: Building textures: ShadowMapTexture2D_142 (G8, 128X128)
+[2018.08.05-06.07.58:034][796]LogTexture: Display: Building textures: ShadowMapTexture2D_143 (G8, 128X128)
+[2018.08.05-06.07.58:034][796]LogTexture: Display: Building textures: ShadowMapTexture2D_145 (G8, 128X128)
+[2018.08.05-06.07.58:034][796]LogTexture: Display: Building textures: ShadowMapTexture2D_146 (G8, 128X128)
+[2018.08.05-06.07.58:034][796]LogTexture: Display: Building textures: ShadowMapTexture2D_147 (G8, 128X128)
+[2018.08.05-06.07.58:034][796]LogTexture: Display: Building textures: ShadowMapTexture2D_148 (G8, 128X128)
+[2018.08.05-06.07.58:034][796]LogTexture: Display: Building textures: ShadowMapTexture2D_149 (G8, 128X128)
+[2018.08.05-06.07.58:034][796]LogTexture: Display: Building textures: ShadowMapTexture2D_144 (G8, 128X128)
+[2018.08.05-06.07.58:034][796]LogTexture: Display: Building textures: ShadowMapTexture2D_151 (G8, 128X128)
+[2018.08.05-06.07.58:034][796]LogTexture: Display: Building textures: ShadowMapTexture2D_152 (G8, 128X128)
+[2018.08.05-06.07.58:034][796]LogTexture: Display: Building textures: ShadowMapTexture2D_154 (G8, 32X32)
+[2018.08.05-06.07.58:034][796]LogTexture: Display: Building textures: ShadowMapTexture2D_153 (G8, 128X128)
+[2018.08.05-06.07.58:034][796]LogTexture: Display: Building textures: ShadowMapTexture2D_150 (G8, 128X128)
+[2018.08.05-06.07.58:109][796]LogStaticLightingSystem: Illumination: 1:39 min (1.23 sec encoding lightmaps, 546 ms encoding shadowmaps)
+[2018.08.05-06.07.58:109][796]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 34 textures
+[2018.08.05-06.07.58:109][796]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 17 textures
+[2018.08.05-06.07.59:001][796]Lightmass on LAPTOP-SNI5BBA7: 1:30 min total, 654 ms importing, 621 ms setup, 17.0 sec photons, 1:11 min processing, 0 ms extra exporting [17/17 mappings]. Threads: 4:46 min total, 1:02 min processing.
+[2018.08.05-06.07.59:002][796]DumpUnbuiltLightIteractions
+[2018.08.05-06.07.59:002][796]Lights with unbuilt interactions: 0
+[2018.08.05-06.07.59:002][796]
+[2018.08.05-06.07.59:002][796]Primitives with unbuilt interactions: 0
+[2018.08.05-06.07.59:240][797]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.05-06.07.59:240][797]MapCheck: New page: Survival_Map - Aug 5, 2018, 5:07:59 PM
+[2018.08.05-06.07.59:302][797]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.312ms to complete.
+[2018.08.05-06.08.01:823][887]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-06.08.01:829][887]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-06.08.04:163][942]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 128X128)
+[2018.08.05-06.08.04:164][942]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 128X128)
+[2018.08.05-06.08.04:201][942]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 128X128)
+[2018.08.05-06.08.04:203][942]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 128X128)
+[2018.08.05-06.08.04:372][942]LogSavePackage: Save=216.47ms
+[2018.08.05-06.08.04:372][942]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_MapE64AEAFF449C7CDF83A03DAA6286E3F9.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2018.08.05-06.08.04:379][942]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap
+[2018.08.05-06.08.04:826][942]LogSavePackage: Save=361.94ms
+[2018.08.05-06.08.04:826][942]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltDataEB8783E243E346FCDD36088D079E3002.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2018.08.05-06.08.04:830][942]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset
+[2018.08.05-06.08.35:693][901]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 128X128)
+[2018.08.05-06.08.35:802][902]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 128X128)
+[2018.08.05-06.08.35:842][902]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 128X128)
+[2018.08.05-06.08.51:676][186]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 128X128)
+[2018.08.05-06.09.03:994][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-06.09.04:187][397]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 128X128)
+[2018.08.05-06.09.04:188][397]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 128X128)
+[2018.08.05-06.09.04:253][397]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 128X128)
+[2018.08.05-06.09.04:254][397]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 128X128)
+[2018.08.05-06.09.04:274][397]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 128X128)
+[2018.08.05-06.09.04:275][397]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 128X128)
+[2018.08.05-06.09.04:278][397]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 128X128)
+[2018.08.05-06.09.04:287][397]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 128X128)
+[2018.08.05-06.09.04:454][397]LogSavePackage: Save=274.48ms
+[2018.08.05-06.09.04:454][397]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_MapA760098A401A8FAC73214F908C733082.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2018.08.05-06.09.04:457][397]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap
+[2018.08.05-06.09.04:856][397]LogSavePackage: Save=359.66ms
+[2018.08.05-06.09.04:857][397]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltDataC14FD8D74B21E9EC479CAC9B69DEF028.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2018.08.05-06.09.04:863][397]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset
+[2018.08.05-06.09.36:034][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-06.10.08:303][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-06.10.08:464][ 97]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 128X128)
+[2018.08.05-06.10.08:465][ 97]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 128X128)
+[2018.08.05-06.10.08:466][ 97]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 128X128)
+[2018.08.05-06.10.08:467][ 97]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 128X128)
+[2018.08.05-06.10.08:469][ 97]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 128X128)
+[2018.08.05-06.10.08:470][ 97]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 128X128)
+[2018.08.05-06.10.08:649][ 97]LogSavePackage: Save=190.26ms
+[2018.08.05-06.10.08:649][ 97]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map6B1771EE409F9D03242DF38685D55E20.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2018.08.05-06.10.08:653][ 97]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap
+[2018.08.05-06.10.08:973][ 97]LogSavePackage: Save=277.35ms
+[2018.08.05-06.10.08:973][ 97]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltData37EDA37F49659E6D80F0FDBBEC3DF855.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2018.08.05-06.10.08:974][ 97]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset
+[2018.08.05-06.11.42:272][319]LogSavePackage: Save=50.09ms
+[2018.08.05-06.11.42:272][319]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/LandscapePlainsGrassFDFC026C4859C448A7A810AA9EFC974A.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/LandscapePlainsGrass.uasset'
+[2018.08.05-06.11.42:277][319]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/LandscapeAssets/LandscapePlainsGrass.uasset
+[2018.08.05-06.12.49:648][770]LogSavePackage: Save=170.90ms
+[2018.08.05-06.12.49:648][770]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_MapAC79D7074225ED962CA91394A446D6D9.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2018.08.05-06.12.49:651][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap
+[2018.08.05-06.12.49:956][770]LogSavePackage: Save=270.70ms
+[2018.08.05-06.12.49:956][770]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltData7F17F5E84E7CEC8FEED5739BF46017CC.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2018.08.05-06.12.49:957][770]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset
+[2018.08.05-06.12.52:643][787]LogSavePackage: Save=172.41ms
+[2018.08.05-06.12.52:643][787]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_MapA1F68D214CD8438E4816059D46AC5DCF.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2018.08.05-06.12.52:644][787]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap
+[2018.08.05-06.12.52:945][787]LogSavePackage: Save=269.65ms
+[2018.08.05-06.12.52:945][787]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltData7DB6CE4644682F990BF637A729581B0E.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2018.08.05-06.12.52:947][787]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset
+[2018.08.05-06.13.30:093][913]LogSavePackage: Save=171.53ms
+[2018.08.05-06.13.30:093][913]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_MapC55315B7464DEA9C995FB1B31E6B9584.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2018.08.05-06.13.30:095][913]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap
+[2018.08.05-06.13.30:414][913]LogSavePackage: Save=275.01ms
+[2018.08.05-06.13.30:414][913]LogSavePackage: Moving '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltDataAF4F00C0455041FE8D05B1A633CC753D.tmp' to '../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2018.08.05-06.13.30:416][913]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shweta/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset
