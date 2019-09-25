@@ -1,0 +1,1194 @@
+﻿Log file open, 09/25/19 09:51:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Survival
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.920569
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 5 2400G with Radeon Vega Graphics    , GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.25-04.21.06:311][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.25-04.21.06:311][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.25-04.21.06:312][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Engine.ini]
+[2019.09.25-04.21.06:312][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.25-04.21.06:312][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Engine.ini]
+[2019.09.25-04.21.06:312][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Engine.ini]
+[2019.09.25-04.21.06:312][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.25-04.21.06:312][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.25-04.21.06:312][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Engine.ini]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.25-04.21.06:313][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Engine.ini]
+[2019.09.25-04.21.06:313][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Engine.ini]
+[2019.09.25-04.21.06:323][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.25-04.21.06:323][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.25-04.21.06:324][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.25-04.21.06:326][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.25-04.21.06:326][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.25-04.21.06:332][  0]LogHAL: Display: Platform has ~ 16 GB [17125855232 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.25-04.21.06:332][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.25-04.21.06:332][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.25-04.21.06:332][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.25-04.21.06:333][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.09.25-04.21.06:333][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.25-04.21.06:333][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.25-04.21.06:333][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.25-04.21.06:333][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.25-04.21.06:333][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.25-04.21.06:333][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.25-04.21.06:333][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.25-04.21.06:333][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.25-04.21.06:333][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.25-04.21.06:333][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.25-04.21.06:333][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.25-04.21.06:333][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.25-04.21.06:333][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.25-04.21.06:333][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.09.25-04.21.06:333][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.25-04.21.06:333][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.25-04.21.06:333][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.25-04.21.06:334][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.25-04.21.06:334][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.25-04.21.06:334][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Engine.ini]
+[2019.09.25-04.21.06:335][  0]LogInit: Computer: DESKTOP-C697CL8
+[2019.09.25-04.21.06:335][  0]LogInit: User: ADMIN
+[2019.09.25-04.21.06:335][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.25-04.21.06:335][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.25-04.21.06:335][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.09.25-04.21.06:335][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.25-04.21.06:335][  0]LogMemory: Process Physical Memory: 100.71 MB used, 100.71 MB peak
+[2019.09.25-04.21.06:335][  0]LogMemory: Process Virtual Memory: 100.41 MB used, 100.41 MB peak
+[2019.09.25-04.21.06:335][  0]LogMemory: Physical Memory: 3730.30 MB used,  12602.19 MB free, 16332.49 MB total
+[2019.09.25-04.21.06:335][  0]LogMemory: Virtual Memory: 4668.30 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.09.25-04.21.06:344][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.09.25-04.21.06:533][  0]LogInit: Using OS detected language (en-US).
+[2019.09.25-04.21.06:533][  0]LogInit: Using OS detected locale (en-US).
+[2019.09.25-04.21.06:539][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.25-04.21.07:008][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.25-04.21.07:083][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.25-04.21.07:083][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.25-04.21.07:550][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.25-04.21.07:550][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.25-04.21.07:637][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.09.25-04.21.07:637][  0]LogD3D11RHI:       4018/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.09.25-04.21.07:639][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.25-04.21.07:639][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.25-04.21.07:639][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.25-04.21.07:649][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.25-04.21.07:650][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.25-04.21.07:650][  0]LogWindows: EnumDisplayDevices:
+[2019.09.25-04.21.07:650][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2019.09.25-04.21.07:650][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
+[2019.09.25-04.21.07:650][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.09.25-04.21.07:651][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.09.25-04.21.07:651][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.25-04.21.07:651][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.09.25-04.21.07:651][  0]LogD3D11RHI:   Driver Version: 399.24 (internal:24.21.13.9924, unified:399.24)
+[2019.09.25-04.21.07:651][  0]LogD3D11RHI:      Driver Date: 9-5-2018
+[2019.09.25-04.21.07:651][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2019.09.25-04.21.07:710][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.25-04.21.07:743][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.09.25-04.21.08:947][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.25-04.21.08:959][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.25-04.21.08:971][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.25-04.21.08:982][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.25-04.21.08:995][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.25-04.21.09:008][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.25-04.21.09:020][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.25-04.21.09:033][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.25-04.21.09:040][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.25-04.21.09:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.25-04.21.09:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.25-04.21.09:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.25-04.21.09:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.25-04.21.09:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.25-04.21.09:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.25-04.21.09:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.25-04.21.09:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.25-04.21.09:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.25-04.21.09:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.25-04.21.09:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.25-04.21.09:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.25-04.21.09:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.25-04.21.09:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.25-04.21.09:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.25-04.21.09:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.25-04.21.09:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.25-04.21.09:085][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.25-04.21.09:090][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.25-04.21.09:122][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.25-04.21.09:122][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.25-04.21.09:142][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.25-04.21.09:142][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.25-04.21.09:153][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.25-04.21.09:163][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.25-04.21.09:174][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.25-04.21.09:186][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.25-04.21.09:216][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.25-04.21.09:216][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.25-04.21.09:216][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.25-04.21.09:238][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.25-04.21.09:384][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Intermediate/Shaders/WorkingDirectory/9016/).
+[2019.09.25-04.21.09:384][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ADMIN/AppData/Local/Temp/UnrealShaderWorkingDir/A074EF7D4E9DAE35C1B14098917B0528/'.
+[2019.09.25-04.21.09:389][  0]LogXGEController: Cleaning working directory: C:/Users/ADMIN/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.25-04.21.09:389][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.25-04.21.09:390][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.25-04.21.09:390][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.25-04.21.10:432][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.25-04.21.10:642][  0]LogDerivedDataCache: Loaded boot cache 0.21s 73MB C:/Users/ADMIN/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.25-04.21.10:642][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ADMIN/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.09.25-04.21.10:642][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.25-04.21.10:642][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.25-04.21.10:642][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.25-04.21.10:642][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.25-04.21.10:665][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.25-04.21.10:665][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.25-04.21.10:665][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.25-04.21.10:671][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ADMIN/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.25-04.21.10:671][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.25-04.21.10:671][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.25-04.21.10:701][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.25-04.21.10:712][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.25-04.21.10:720][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.25-04.21.10:941][  0]LogAssetRegistry: FAssetRegistry took 0.0077 seconds to start up
+[2019.09.25-04.21.11:547][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.25-04.21.11:910][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.25-04.21.11:910][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.25-04.21.11:910][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.25-04.21.11:910][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.25-04.21.11:911][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.25-04.21.11:955][  0]LogNetVersion: Survival 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1609872609)
+[2019.09.25-04.21.12:831][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.054053 seconds
+[2019.09.25-04.21.12:841][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.09.25-04.21.12:841][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.09.25-04.21.12:841][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.25-04.21.15:454][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.25-04.21.15:464][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.25-04.21.15:629][  0]SourceControl: Source control is disabled
+[2019.09.25-04.21.15:630][  0]SourceControl: Source control is disabled
+[2019.09.25-04.21.15:646][  0]SourceControl: Source control is disabled
+[2019.09.25-04.21.15:653][  0]SourceControl: Source control is disabled
+[2019.09.25-04.21.15:971][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.25-04.21.16:277][  0]LogOcInput: OculusInput pre-init called
+[2019.09.25-04.21.16:295][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.09.25-04.21.16:295][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.09.25-04.21.16:463][  0]LogEngine: Initializing Engine...
+[2019.09.25-04.21.16:466][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.25-04.21.16:471][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2019.09.25-04.21.16:781][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.25-04.21.16:847][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.25-04.21.16:899][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.25-04.21.16:931][  0]LogInit: FAudioDevice initialized.
+[2019.09.25-04.21.16:931][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.25-04.21.17:025][  0]LogDerivedDataCache: Saved boot cache 0.09s 73MB C:/Users/ADMIN/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.25-04.21.17:028][  0]LogInit: Texture streaming: Enabled
+[2019.09.25-04.21.17:063][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.25-04.21.17:134][  0]LogInit: Transaction tracking system initialized
+[2019.09.25-04.21.17:246][  0]BlueprintLog: New page: Editor Load
+[2019.09.25-04.21.17:502][  0]LocalizationService: Localization service is disabled
+[2019.09.25-04.21.18:092][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/' took 0.01s
+[2019.09.25-04.21.18:092][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.25-04.21.18:092][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.25-04.21.18:676][  0]SourceControl: Source control is disabled
+[2019.09.25-04.21.18:677][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.25-04.21.18:680][  0]LightingResults: New page: Lighting Build
+[2019.09.25-04.21.18:690][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.09.25-04.21.18:694][  0]MapCheck: New page: Map Check
+[2019.09.25-04.21.18:694][  0]LightingResults: New page: Lighting Build
+[2019.09.25-04.21.18:757][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.09.25-04.21.19:112][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.09.25-04.21.19:151][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.25-04.21.19:183][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.09.25-04.21.19:183][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.25-04.21.19:184][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.615ms to complete.
+[2019.09.25-04.21.19:184][  0]LogFileHelpers: Loading map 'Template_Default' took 0.507
+[2019.09.25-04.21.19:365][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.25-04.21.19:374][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.25-04.21.19:382][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.25-04.21.19:389][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.25-04.21.19:411][  0]LogCollectionManager: Loaded 0 collections in 0.003345 seconds
+[2019.09.25-04.21.19:445][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Collections/' took 0.00s
+[2019.09.25-04.21.19:445][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Developers/ADMIN/Collections/' took 0.00s
+[2019.09.25-04.21.19:445][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Collections/' took 0.00s
+[2019.09.25-04.21.19:445][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2019.09.25-04.21.19:458][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2863 classes and 680 folders.
+[2019.09.25-04.21.19:476][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.25-04.21.19:707][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.25-04.21.19:726][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.09.25-04.21.19:814][  0]LogSlate: Took 0.001758 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.25-04.21.19:819][  0]LogSlate: Took 0.002136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.25-04.21.19:830][  0]LogSlate: Took 0.001209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.25-04.21.19:924][  0]LogRenderer: Reallocating scene render targets to support 752x332 Format 10 NumSamples 1 (Frame:1).
+[2019.09.25-04.21.20:058][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.25-04.21.20:058][  0]LogLoad: (Engine Initialization) Total time: 19.69 seconds
+[2019.09.25-04.21.20:058][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.25-04.21.20:126][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.25-04.21.20:317][  3]LogAssetRegistry: Asset discovery search completed in 9.3772 seconds
+[2019.09.25-04.21.20:321][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2019.09.25-04.21.20:321][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000094 seconds (updated 0 objects)
+[2019.09.25-04.21.24:331][ 15]LogSlate: Took 0.001832 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.25-04.23.00:440][650]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.25-04.23.12:451][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.25-04.23.24:381][513]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.25-04.23.25:335][513]LogTexture: Display: Building textures: T_Tile_Floor_Broken_D_NRM (BC5, 1024X1024)
+[2019.09.25-04.23.25:335][513]LogTexture: Display: Building textures: T_Tile_Floor_Broken_D (AutoDXT, 1024X1024)
+[2019.09.25-04.23.25:335][513]LogTexture: Display: Building textures: T_Cobweb03_D (AutoDXT, 1024X1024)
+[2019.09.25-04.23.25:335][513]LogTexture: Display: Building textures: HDRI_Epic_Courtyard_Daylight (RGBA16F, 1024X512)
+[2019.09.25-04.23.25:335][513]LogStaticMesh: Building static mesh SM_Exo_Bridge_Tile_BROKEN_B...
+[2019.09.25-04.23.25:342][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_BROKEN_B.SM_Exo_Bridge_Tile_BROKEN_B
+[2019.09.25-04.23.27:762][513]LogTexture: Display: Building textures: T_Plains_Ruins_DemonDoor_N (BC5, 2048X2048)
+[2019.09.25-04.23.27:762][513]LogTexture: Display: Building textures: T_Plains_Ruins_DemonDoor_D (AutoDXT, 2048X2048)
+[2019.09.25-04.23.27:762][513]LogTexture: Display: Building textures: T_Plains_Ruins_FloorStones_N (BC5, 1024X1024)
+[2019.09.25-04.23.27:762][513]LogTexture: Display: Building textures: T_Plains_Ruins_FloorStones_D (AutoDXT, 1024X1024)
+[2019.09.25-04.23.27:762][513]LogTexture: Display: Building textures: T_Villa_Pillar_1_D (AutoDXT, 2048X2048)
+[2019.09.25-04.23.27:762][513]LogTexture: Display: Building textures: T_Villa_Pillar_1_D_NRM (BC5, 2048X2048)
+[2019.09.25-04.23.27:762][513]LogTexture: Display: Building textures: T_MeterGrid_01_M (BGRA8, 2048X2048)
+[2019.09.25-04.23.27:762][513]LogMaterial: Display: Missing cached shader map for material M_Tile_Floor_Broken_Tex_A, compiling. 
+[2019.09.25-04.23.27:929][513]LogTexture: Display: Building textures: T_Flooded_ConcRail1_D_NRM (BC5, 1024X1024)
+[2019.09.25-04.23.27:929][513]LogTexture: Display: Building textures: T_Flooded_ConcRail1_D (AutoDXT, 1024X1024)
+[2019.09.25-04.23.27:929][513]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2019.09.25-04.23.27:929][513]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2019.09.25-04.23.27:929][513]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.09.25-04.23.27:929][513]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.09.25-04.23.27:929][513]LogStaticMesh: Building static mesh SM_Exo_Bridge_Tile_Broken_A...
+[2019.09.25-04.23.27:932][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_Broken_A.SM_Exo_Bridge_Tile_Broken_A
+[2019.09.25-04.23.27:941][513]LogStaticMesh: Building static mesh SM_Exo_CobWeb02...
+[2019.09.25-04.23.27:943][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_CobWeb02.SM_Exo_CobWeb02
+[2019.09.25-04.23.27:948][513]LogMaterial: Display: Missing cached shader map for material M_Exo_CobWeb01_NoMove, compiling. 
+[2019.09.25-04.23.28:050][513]LogStaticMesh: Building static mesh Sm_Exo_CobWeb01...
+[2019.09.25-04.23.28:051][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/Sm_Exo_CobWeb01.Sm_Exo_CobWeb01
+[2019.09.25-04.23.33:936][513]LogTexture: Display: Building textures: T_Villa_Plaster_1_D_NRM (BC5, 2048X2048)
+[2019.09.25-04.23.33:936][513]LogTexture: Display: Building textures: T_Villa_Plaster_1_D (AutoDXT, 2048X2048)
+[2019.09.25-04.23.33:936][513]LogTexture: Display: Building textures: T_Decos_Facade01_D_NRM (BC5, 1024X1024)
+[2019.09.25-04.23.33:936][513]LogTexture: Display: Building textures: T_Decos_Facade01_D (AutoDXT, 1024X1024)
+[2019.09.25-04.23.33:936][513]LogTexture: Display: Building textures: T_Decos_BSP_Stucco03_D (AutoDXT, 1024X1024)
+[2019.09.25-04.23.33:936][513]LogTexture: Display: Building textures: T_Decos_BSP_Stucco02_N (BC5, 1024X1024)
+[2019.09.25-04.23.33:936][513]LogTexture: Display: Building textures: T_Decos_BSP_Stucco02_D (AutoDXT, 1024X1024)
+[2019.09.25-04.23.33:936][513]LogMaterial: Display: Missing cached shader map for material M_CycRoom_01, compiling. 
+[2019.09.25-04.23.34:003][513]LogStaticMesh: Building static mesh SM_CycRoom_01...
+[2019.09.25-04.23.34:132][513]LogStaticMesh: Built static mesh [0.13s] /Game/InfinityBladeGrassLands/Maps/LevelContent/Architecture/SM_CycRoom_01.SM_CycRoom_01
+[2019.09.25-04.23.34:157][513]LogMaterial: Display: Missing cached shader map for material M_1Meter_01, compiling. 
+[2019.09.25-04.23.34:201][513]LogStaticMesh: Building static mesh SM_1Meter_01...
+[2019.09.25-04.23.34:266][513]LogStaticMesh: Built static mesh [0.06s] /Game/InfinityBladeGrassLands/Maps/LevelContent/Architecture/SM_1Meter_01.SM_1Meter_01
+[2019.09.25-04.23.34:324][513]LogStaticMesh: Building static mesh SM_Plains_Castle_DemonDoor_Half...
+[2019.09.25-04.23.34:338][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Castle_DemonDoor_Half.SM_Plains_Castle_DemonDoor_Half
+[2019.09.25-04.23.34:359][513]LogMaterial: Display: Missing cached shader map for material M_Plains_Castle_Demon, compiling. 
+[2019.09.25-04.23.34:398][513]LogStaticMesh: Building static mesh SM_Plains_Castle_DemonDoor_01...
+[2019.09.25-04.23.34:424][513]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Castle_DemonDoor_01.SM_Plains_Castle_DemonDoor_01
+[2019.09.25-04.23.34:496][513]LogStaticMesh: Building static mesh SM_Plains_Angel_Statue_01...
+[2019.09.25-04.23.34:527][513]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Angel_Statue_01.SM_Plains_Angel_Statue_01
+[2019.09.25-04.23.34:536][513]LogStaticMesh: Building static mesh SM_Plains_StoneBlock_01...
+[2019.09.25-04.23.34:542][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_StoneBlock_01.SM_Plains_StoneBlock_01
+[2019.09.25-04.23.34:561][513]LogStaticMesh: Building static mesh SM_Plains_ShortColumn_Half_01...
+[2019.09.25-04.23.34:564][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_ShortColumn_Half_01.SM_Plains_ShortColumn_Half_01
+[2019.09.25-04.23.34:638][513]LogStaticMesh: Building static mesh SM_Plains_Ruins_Cage_Broken_01...
+[2019.09.25-04.23.34:705][513]LogStaticMesh: Built static mesh [0.07s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruins_Cage_Broken_01.SM_Plains_Ruins_Cage_Broken_01
+[2019.09.25-04.23.34:738][513]LogMaterial: Display: Missing cached shader map for material M_PLains_FloorStone, compiling. 
+[2019.09.25-04.23.34:798][513]LogStaticMesh: Building static mesh SM_Plains_Floor_01...
+[2019.09.25-04.23.34:800][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Floor_01.SM_Plains_Floor_01
+[2019.09.25-04.23.34:850][513]LogStaticMesh: Building static mesh SM_Plains_Colunnade_Mid_01...
+[2019.09.25-04.23.34:902][513]LogStaticMesh: Built static mesh [0.05s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Colunnade_Mid_01.SM_Plains_Colunnade_Mid_01
+[2019.09.25-04.23.34:976][513]LogStaticMesh: Building static mesh SM_Plains_CastleWall_Support_03...
+[2019.09.25-04.23.35:045][513]LogStaticMesh: Built static mesh [0.07s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Support_03.SM_Plains_CastleWall_Support_03
+[2019.09.25-04.23.35:055][513]LogStaticMesh: Building static mesh SM_Plains_CastleWall_Support_02...
+[2019.09.25-04.23.35:079][513]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Support_02.SM_Plains_CastleWall_Support_02
+[2019.09.25-04.23.35:153][513]LogStaticMesh: Building static mesh SM_Plains_CastleTower_Ruin_02_Supports...
+[2019.09.25-04.23.35:335][513]LogStaticMesh: Built static mesh [0.18s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleTower_Ruin_02_Supports.SM_Plains_CastleTower_Ruin_02_Supports
+[2019.09.25-04.23.35:400][513]LogStaticMesh: Building static mesh SM_Plains_CastleArch_Ruin_02_Broken...
+[2019.09.25-04.23.35:402][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Ruin_02_Broken.SM_Plains_CastleArch_Ruin_02_Broken
+[2019.09.25-04.23.35:424][513]LogStaticMesh: Building static mesh SM_Plains_CastleArch_Iron_Torch_01...
+[2019.09.25-04.23.35:545][513]LogStaticMesh: Built static mesh [0.12s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Iron_Torch_01.SM_Plains_CastleArch_Iron_Torch_01
+[2019.09.25-04.23.35:577][513]LogStaticMesh: Building static mesh SM_Plains_CastleArch_Iron_Gate_02...
+[2019.09.25-04.23.35:606][513]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Iron_Gate_02.SM_Plains_CastleArch_Iron_Gate_02
+[2019.09.25-04.23.35:663][513]LogStaticMesh: Building static mesh SM_Plains_CastleArch_Iron_01...
+[2019.09.25-04.23.35:681][513]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Iron_01.SM_Plains_CastleArch_Iron_01
+[2019.09.25-04.23.35:771][513]LogStaticMesh: Building static mesh SM_Plains_Castle_Fountain_02...
+[2019.09.25-04.23.35:779][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Fountain_02.SM_Plains_Castle_Fountain_02
+[2019.09.25-04.23.35:857][513]LogStaticMesh: Building static mesh SM_Plains_Castle_Cage_01...
+[2019.09.25-04.23.36:325][513]LogStaticMesh: Built static mesh [0.47s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Cage_01.SM_Plains_Castle_Cage_01
+[2019.09.25-04.23.36:389][513]LogStaticMesh: Building static mesh SM_Plains_ArchArch...
+[2019.09.25-04.23.36:392][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_ArchArch.SM_Plains_ArchArch
+[2019.09.25-04.23.36:447][513]LogStaticMesh: Building static mesh SM_Plains_LargeRock_CliffEdgeSm...
+[2019.09.25-04.23.36:452][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_CliffEdgeSm.SM_Plains_LargeRock_CliffEdgeSm
+[2019.09.25-04.23.36:481][513]LogStaticMesh: Building static mesh SM_Plains_LargeRock_CliffEdge...
+[2019.09.25-04.23.36:487][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_CliffEdge.SM_Plains_LargeRock_CliffEdge
+[2019.09.25-04.23.36:522][513]LogStaticMesh: Building static mesh SM_Plains_GroundBrick01...
+[2019.09.25-04.23.36:526][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_GroundBrick01.SM_Plains_GroundBrick01
+[2019.09.25-04.23.36:551][513]LogStaticMesh: Building static mesh SM_Plains_Vine01...
+[2019.09.25-04.23.36:564][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Vine01.SM_Plains_Vine01
+[2019.09.25-04.23.36:630][513]LogStaticMesh: Building static mesh SM_Plains_Flowers04...
+[2019.09.25-04.23.36:631][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Flowers04.SM_Plains_Flowers04
+[2019.09.25-04.23.36:639][513]LogStaticMesh: Building static mesh SM_Plains_Flowers02...
+[2019.09.25-04.23.36:640][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Flowers02.SM_Plains_Flowers02
+[2019.09.25-04.23.36:654][513]LogStaticMesh: Building static mesh SM_Exo_Bridge_Tile_Floor_D...
+[2019.09.25-04.23.36:654][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_Floor_D.SM_Exo_Bridge_Tile_Floor_D
+[2019.09.25-04.23.36:659][513]LogStaticMesh: Building static mesh SM_Exo_Bridge_Tile_Floor_Broken...
+[2019.09.25-04.23.36:660][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_Floor_Broken.SM_Exo_Bridge_Tile_Floor_Broken
+[2019.09.25-04.23.36:662][513]LogStaticMesh: Building static mesh SM_Exo_Bridge_Tile_Floor_A...
+[2019.09.25-04.23.36:663][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_Floor_A.SM_Exo_Bridge_Tile_Floor_A
+[2019.09.25-04.23.36:666][513]LogStaticMesh: Building static mesh SM_Exo_Bridge_Tile_Floor...
+[2019.09.25-04.23.36:668][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_Floor.SM_Exo_Bridge_Tile_Floor
+[2019.09.25-04.23.36:671][513]LogStaticMesh: Building static mesh SM_Exo_Bridge_Tile_BROKEN_D...
+[2019.09.25-04.23.36:688][513]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_BROKEN_D.SM_Exo_Bridge_Tile_BROKEN_D
+[2019.09.25-04.23.36:691][513]LogStaticMesh: Building static mesh SM_Exo_Bridge_Tile_BROKEN_C...
+[2019.09.25-04.23.36:693][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_BROKEN_C.SM_Exo_Bridge_Tile_BROKEN_C
+[2019.09.25-04.23.36:702][513]LogStaticMesh: Building static mesh SM_Exo_Archway_7...
+[2019.09.25-04.23.36:706][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Archway_7.SM_Exo_Archway_7
+[2019.09.25-04.23.36:713][513]LogStaticMesh: Building static mesh SM_Exo_Archway_8...
+[2019.09.25-04.23.36:717][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Archway_8.SM_Exo_Archway_8
+[2019.09.25-04.23.36:740][513]LogMaterial: Display: Missing cached shader map for material M_Villa_Pillar_1, compiling. 
+[2019.09.25-04.23.36:773][513]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 191
+[2019.09.25-04.23.36:773][513]LogStaticMesh: Building static mesh SM_Exo__Arch_1...
+[2019.09.25-04.23.36:787][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo__Arch_1.SM_Exo__Arch_1
+[2019.09.25-04.23.36:951][513]LogStaticMesh: Building static mesh SM_Exo_Archway_6...
+[2019.09.25-04.23.36:975][513]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Archway_6.SM_Exo_Archway_6
+[2019.09.25-04.23.37:007][513]LogStaticMesh: Building static mesh SM_Exo_Archway_1...
+[2019.09.25-04.23.37:056][513]LogStaticMesh: Built static mesh [0.05s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Archway_1.SM_Exo_Archway_1
+[2019.09.25-04.23.37:195][513]LogStaticMesh: Building static mesh SM_Plains_Scrap_BridgeRail02...
+[2019.09.25-04.23.37:199][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_BridgeRail02.SM_Plains_Scrap_BridgeRail02
+[2019.09.25-04.23.37:216][513]LogStaticMesh: Building static mesh SM_Plains_Scrap_BridgeRail01...
+[2019.09.25-04.23.37:223][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_BridgeRail01.SM_Plains_Scrap_BridgeRail01
+[2019.09.25-04.23.37:245][513]LogStaticMesh: Building static mesh SM_Plains_Scrap_Bridge_2...
+[2019.09.25-04.23.37:259][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_Bridge_2.SM_Plains_Scrap_Bridge_2
+[2019.09.25-04.23.37:289][513]LogStaticMesh: Building static mesh SM_Plains_Scrap_Bridge04...
+[2019.09.25-04.23.37:305][513]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_Bridge04.SM_Plains_Scrap_Bridge04
+[2019.09.25-04.23.37:343][513]LogStaticMesh: Building static mesh SM_Plains_Scrap_Bridge03...
+[2019.09.25-04.23.37:353][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_Bridge03.SM_Plains_Scrap_Bridge03
+[2019.09.25-04.23.37:370][513]LogStaticMesh: Building static mesh SM_Plains_Floors_TrimFlat01...
+[2019.09.25-04.23.37:371][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimFlat01.SM_Plains_Floors_TrimFlat01
+[2019.09.25-04.23.37:383][513]LogStaticMesh: Building static mesh SM_Plains_Floors_TrimDesign05...
+[2019.09.25-04.23.37:385][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesign05.SM_Plains_Floors_TrimDesign05
+[2019.09.25-04.23.37:391][513]LogStaticMesh: Building static mesh SM_Plains_Floors_TrimDesign04...
+[2019.09.25-04.23.37:392][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesign04.SM_Plains_Floors_TrimDesign04
+[2019.09.25-04.23.37:400][513]LogStaticMesh: Building static mesh SM_Plains_Floors_TrimDesign02a...
+[2019.09.25-04.23.37:401][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesign02a.SM_Plains_Floors_TrimDesign02a
+[2019.09.25-04.23.37:403][513]LogStaticMesh: Building static mesh SM_Plains_Floors_TrimDesign02...
+[2019.09.25-04.23.37:403][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesign02.SM_Plains_Floors_TrimDesign02
+[2019.09.25-04.23.37:429][513]LogStaticMesh: Building static mesh SM_Plains_Floors_TrimDesign01...
+[2019.09.25-04.23.37:430][513]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesign01.SM_Plains_Floors_TrimDesign01
+[2019.09.25-04.23.37:473][513]LogStaticMesh: Building static mesh SM_Plains_Floors_Trim03...
+[2019.09.25-04.23.37:474][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Trim03.SM_Plains_Floors_Trim03
+[2019.09.25-04.23.37:481][513]LogStaticMesh: Building static mesh SM_Plains_Floors_Trim02_Rev...
+[2019.09.25-04.23.37:482][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Trim02_Rev.SM_Plains_Floors_Trim02_Rev
+[2019.09.25-04.23.37:485][513]LogStaticMesh: Building static mesh SM_Plains_Floors_Trim02...
+[2019.09.25-04.23.37:486][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Trim02.SM_Plains_Floors_Trim02
+[2019.09.25-04.23.37:491][513]LogStaticMesh: Building static mesh SM_Plains_Floors_Trim01...
+[2019.09.25-04.23.37:492][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Trim01.SM_Plains_Floors_Trim01
+[2019.09.25-04.23.37:528][513]LogStaticMesh: Building static mesh SM_Plains_Floors_Flat03...
+[2019.09.25-04.23.37:529][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Flat03.SM_Plains_Floors_Flat03
+[2019.09.25-04.23.37:549][513]LogStaticMesh: Building static mesh SM_Plains_Floors_Block06...
+[2019.09.25-04.23.37:550][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block06.SM_Plains_Floors_Block06
+[2019.09.25-04.23.37:562][513]LogStaticMesh: Building static mesh SM_Plains_Floors_Block05...
+[2019.09.25-04.23.37:566][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block05.SM_Plains_Floors_Block05
+[2019.09.25-04.23.37:634][513]LogStaticMesh: Building static mesh SM_Env_Plains_Scrap_Bridge_2...
+[2019.09.25-04.23.37:647][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Env_Plains_Scrap_Bridge_2.SM_Env_Plains_Scrap_Bridge_2
+[2019.09.25-04.23.37:699][513]LogStaticMesh: Building static mesh SM_Exo_Stone01_Framed...
+[2019.09.25-04.23.37:702][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Stone01_Framed.SM_Exo_Stone01_Framed
+[2019.09.25-04.23.37:719][513]LogStaticMesh: Building static mesh SM_Exo_Stone01_ChainOnly...
+[2019.09.25-04.23.37:732][513]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 203
+[2019.09.25-04.23.37:732][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Stone01_ChainOnly.SM_Exo_Stone01_ChainOnly
+[2019.09.25-04.23.37:750][513]LogStaticMesh: Building static mesh SM_Exo_Stone01_Chained...
+[2019.09.25-04.23.37:764][513]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Stone01_Chained.SM_Exo_Stone01_Chained
+[2019.09.25-04.23.37:767][513]LogStaticMesh: Building static mesh SM_Exo_Stone01...
+[2019.09.25-04.23.37:768][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Stone01.SM_Exo_Stone01
+[2019.09.25-04.23.37:772][513]LogStaticMesh: Building static mesh SM_Exo_WoodPlanks02...
+[2019.09.25-04.23.37:775][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_WoodPlanks02.SM_Exo_WoodPlanks02
+[2019.09.25-04.23.37:780][513]LogStaticMesh: Building static mesh SM_Exo_WoodPlanks01...
+[2019.09.25-04.23.37:784][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_WoodPlanks01.SM_Exo_WoodPlanks01
+[2019.09.25-04.23.37:792][513]LogStaticMesh: Building static mesh SM_Exo_Stone01_Group...
+[2019.09.25-04.23.37:796][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Stone01_Group.SM_Exo_Stone01_Group
+[2019.09.25-04.23.37:802][513]LogStaticMesh: Building static mesh SM_Exo_floor_wood_plank_D...
+[2019.09.25-04.23.37:804][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_floor_wood_plank_D.SM_Exo_floor_wood_plank_D
+[2019.09.25-04.23.37:807][513]LogStaticMesh: Building static mesh SM_Exo_floor_wood_plank_A...
+[2019.09.25-04.23.37:808][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_floor_wood_plank_A.SM_Exo_floor_wood_plank_A
+[2019.09.25-04.23.37:818][513]LogStaticMesh: Building static mesh SM_Exo_floor_wood_floorboard...
+[2019.09.25-04.23.37:860][513]LogStaticMesh: Built static mesh [0.04s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_floor_wood_floorboard.SM_Exo_floor_wood_floorboard
+[2019.09.25-04.23.37:877][513]LogStaticMesh: Building static mesh SM_Exo_Flood_ConcStairs_CRV3...
+[2019.09.25-04.23.37:907][513]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_CRV3.SM_Exo_Flood_ConcStairs_CRV3
+[2019.09.25-04.23.37:923][513]LogStaticMesh: Building static mesh SM_Exo_Flood_ConcStairs_CRV2...
+[2019.09.25-04.23.37:945][513]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_CRV2.SM_Exo_Flood_ConcStairs_CRV2
+[2019.09.25-04.23.37:955][513]LogStaticMesh: Building static mesh SM_Exo_Flood_ConcStairs_STR2...
+[2019.09.25-04.23.37:973][513]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_STR2.SM_Exo_Flood_ConcStairs_STR2
+[2019.09.25-04.23.37:990][513]LogStaticMesh: Building static mesh SM_Exo_Flood_ConcStairs_STR1...
+[2019.09.25-04.23.38:009][513]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_STR1.SM_Exo_Flood_ConcStairs_STR1
+[2019.09.25-04.23.38:020][513]LogStaticMesh: Building static mesh SM_Exo_Flood_ConcStairs_NoSides...
+[2019.09.25-04.23.38:025][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_NoSides.SM_Exo_Flood_ConcStairs_NoSides
+[2019.09.25-04.23.38:038][513]LogStaticMesh: Building static mesh SM_Exo_Flood_ConcStairs_CRV1...
+[2019.09.25-04.23.38:068][513]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_CRV1.SM_Exo_Flood_ConcStairs_CRV1
+[2019.09.25-04.23.38:078][513]LogStaticMesh: Building static mesh SM_Exo_Flood_ConcStairs_192...
+[2019.09.25-04.23.38:082][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_192.SM_Exo_Flood_ConcStairs_192
+[2019.09.25-04.23.38:090][513]LogMaterial: Display: Missing cached shader map for material m_Flooded_ConcRail1, compiling. 
+[2019.09.25-04.23.38:115][513]LogStaticMesh: Building static mesh SM_Exo_Flood_ConcStairs_128...
+[2019.09.25-04.23.38:117][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_128.SM_Exo_Flood_ConcStairs_128
+[2019.09.25-04.23.38:136][513]LogStaticMesh: Building static mesh SM_Exo_Doorframe_03...
+[2019.09.25-04.23.38:146][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Doorframe_03.SM_Exo_Doorframe_03
+[2019.09.25-04.23.38:152][513]LogStaticMesh: Building static mesh SM_Exo_Doorframe_02...
+[2019.09.25-04.23.38:154][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Doorframe_02.SM_Exo_Doorframe_02
+[2019.09.25-04.23.38:162][513]LogStaticMesh: Building static mesh SM_Exo_destroyed_floormissing_A...
+[2019.09.25-04.23.38:167][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_destroyed_floormissing_A.SM_Exo_destroyed_floormissing_A
+[2019.09.25-04.23.38:178][513]LogStaticMesh: Building static mesh SM_Exo_destroyed_floormissing...
+[2019.09.25-04.23.38:183][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_destroyed_floormissing.SM_Exo_destroyed_floormissing
+[2019.09.25-04.23.38:204][513]LogStaticMesh: Building static mesh SM_Exo_destroyed_floor_wood...
+[2019.09.25-04.23.38:210][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_destroyed_floor_wood.SM_Exo_destroyed_floor_wood
+[2019.09.25-04.23.38:219][513]LogStaticMesh: Building static mesh SM_Exo_Decos_Set01_Facade03...
+[2019.09.25-04.23.38:223][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Set01_Facade03.SM_Exo_Decos_Set01_Facade03
+[2019.09.25-04.23.38:229][513]LogMaterial: Display: Missing cached shader map for material M_Villa_Plaster_1, compiling. 
+[2019.09.25-04.23.38:257][513]LogMaterial: Display: Missing cached shader map for material M_Decos_Facade01, compiling. 
+[2019.09.25-04.23.38:308][513]LogStaticMesh: Building static mesh SM_Exo_Decos_Set01_Facade02...
+[2019.09.25-04.23.38:329][513]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Set01_Facade02.SM_Exo_Decos_Set01_Facade02
+[2019.09.25-04.23.38:338][513]LogMaterial: Display: Missing cached shader map for material M_Decos_BSP_Stucco03, compiling. 
+[2019.09.25-04.23.38:374][513]LogMaterial: Display: Missing cached shader map for material M_Decos_BSP_Stucco02, compiling. 
+[2019.09.25-04.23.38:411][513]LogStaticMesh: Building static mesh SM_Exo_Decos_Set01_Cover01...
+[2019.09.25-04.23.38:415][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Set01_Cover01.SM_Exo_Decos_Set01_Cover01
+[2019.09.25-04.23.38:420][513]LogStaticMesh: Building static mesh SM_Exo_Decos_Door_Frame_Column...
+[2019.09.25-04.23.38:422][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door_Frame_Column.SM_Exo_Decos_Door_Frame_Column
+[2019.09.25-04.23.38:428][513]LogStaticMesh: Building static mesh SM_Exo_Decos_Door_Frame04...
+[2019.09.25-04.23.38:431][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door_Frame04.SM_Exo_Decos_Door_Frame04
+[2019.09.25-04.23.38:436][513]LogStaticMesh: Building static mesh SM_Exo_Decos_Door_Frame03...
+[2019.09.25-04.23.38:440][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door_Frame03.SM_Exo_Decos_Door_Frame03
+[2019.09.25-04.23.38:474][513]LogStaticMesh: Building static mesh SM_Exo_Decos_Door_Frame01...
+[2019.09.25-04.23.38:481][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door_Frame01.SM_Exo_Decos_Door_Frame01
+[2019.09.25-04.23.38:497][513]LogStaticMesh: Building static mesh SM_Exo_Decos_Door03...
+[2019.09.25-04.23.38:525][513]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door03.SM_Exo_Decos_Door03
+[2019.09.25-04.23.38:538][513]LogMaterial: Display: Missing cached shader map for material M_CycWall_01, compiling. 
+[2019.09.25-04.23.38:595][513]LogStaticMesh: Building static mesh SM_Exo_CobWeb03...
+[2019.09.25-04.23.38:599][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_CobWeb03.SM_Exo_CobWeb03
+[2019.09.25-04.23.38:603][513]LogStaticMesh: Building static mesh SM_Exo_CobWeb04...
+[2019.09.25-04.23.38:604][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_CobWeb04.SM_Exo_CobWeb04
+[2019.09.25-04.23.38:606][513]LogStaticMesh: Building static mesh SM_Exo_CobWeb05...
+[2019.09.25-04.23.38:607][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_CobWeb05.SM_Exo_CobWeb05
+[2019.09.25-04.23.38:613][513]LogStaticMesh: Building static mesh SM_Exo_Cover_1...
+[2019.09.25-04.23.38:616][513]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Cover_1.SM_Exo_Cover_1
+[2019.09.25-04.23.38:628][513]LogStaticMesh: Building static mesh SM_Exo_Cover_Curve_1...
+[2019.09.25-04.23.38:635][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Cover_Curve_1.SM_Exo_Cover_Curve_1
+[2019.09.25-04.23.38:649][513]LogStaticMesh: Building static mesh SM_Exo_Deco_2...
+[2019.09.25-04.23.38:659][513]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Deco_2.SM_Exo_Deco_2
+[2019.09.25-04.23.38:670][513]LogStaticMesh: Building static mesh SM_Exo_Decos_Door01...
+[2019.09.25-04.23.38:689][513]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 361
+[2019.09.25-04.23.38:690][513]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door01.SM_Exo_Decos_Door01
+[2019.09.25-04.23.38:717][513]LogAIModule: Creating AISystem for world Overview
+[2019.09.25-04.23.38:718][513]LogActorComponent: RegisterComponentWithWorld: (/Game/InfinityBladeGrassLands/Maps/Overview.Overview:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.09.25-04.23.38:748][513]LogAssetEditorManager: Opening Asset editor for World /Game/InfinityBladeGrassLands/Maps/Overview.Overview
+[2019.09.25-04.23.38:785][513]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.09.25-04.23.38:800][513]Cmd: MAP LOAD FILE="../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/InfinityBladeGrassLands/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.25-04.23.38:800][513]LightingResults: New page: Lighting Build
+[2019.09.25-04.23.38:801][513]LoadErrors: New page: Loading map: Overview.umap
+[2019.09.25-04.23.38:805][513]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.09.25-04.23.38:806][513]MapCheck: New page: Map Check
+[2019.09.25-04.23.38:806][513]LightingResults: New page: Lighting Build
+[2019.09.25-04.23.38:871][513]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 351
+[2019.09.25-04.23.38:876][513]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.09.25-04.23.38:922][513]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.25-04.23.38:957][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.09.25-04.23.38:991][513]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.25-04.23.38:991][513]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.271ms to complete.
+[2019.09.25-04.23.38:991][513]LogFileHelpers: Loading map 'Overview' took 0.205
+[2019.09.25-04.23.39:233][518]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 341
+[2019.09.25-04.23.45:559][951]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 331
+[2019.09.25-04.23.47:469][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 321
+[2019.09.25-04.23.47:765][145]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 311
+[2019.09.25-04.23.48:196][183]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 301
+[2019.09.25-04.23.49:205][273]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 291
+[2019.09.25-04.23.52:121][451]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 281
+[2019.09.25-04.23.54:072][520]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 271
+[2019.09.25-04.23.54:316][529]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 261
+[2019.09.25-04.23.54:964][552]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 251
+[2019.09.25-04.23.58:469][724]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 241
+[2019.09.25-04.23.58:997][768]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 231
+[2019.09.25-04.23.59:803][828]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 221
+[2019.09.25-04.24.01:261][930]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 211
+[2019.09.25-04.24.01:927][978]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 201
+[2019.09.25-04.24.03:629][ 96]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 191
+[2019.09.25-04.24.03:862][112]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 181
+[2019.09.25-04.24.06:665][324]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 171
+[2019.09.25-04.24.07:733][407]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 161
+[2019.09.25-04.24.07:796][413]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 151
+[2019.09.25-04.24.09:883][578]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 141
+[2019.09.25-04.24.10:181][603]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 131
+[2019.09.25-04.24.11:729][728]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 121
+[2019.09.25-04.24.13:521][869]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 111
+[2019.09.25-04.24.15:329][991]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 101
+[2019.09.25-04.24.15:719][ 18]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 91
+[2019.09.25-04.24.17:263][127]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 81
+[2019.09.25-04.24.19:635][292]LogSlate: Window 'Open Level' being destroyed
+[2019.09.25-04.24.20:939][384]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 71
+[2019.09.25-04.24.21:401][420]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 61
+[2019.09.25-04.24.21:848][456]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 51
+[2019.09.25-04.24.25:304][726]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2019.09.25-04.24.26:505][821]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2019.09.25-04.24.27:388][890]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2019.09.25-04.24.29:221][986]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2019.09.25-04.24.29:326][992]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2019.09.25-04.24.31:378][103]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2019.09.25-04.24.31:424][105]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.09.25-04.24.32:069][140]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.09.25-04.24.32:336][155]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.09.25-04.24.32:444][161]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.09.25-04.25.06:234][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.09.25-04.25.06:280][433]LogSlate: Window 'Survival - Unreal Editor' being destroyed
+[2019.09.25-04.25.06:281][433]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.25-04.25.06:383][434]Cmd: QUIT_EDITOR
+[2019.09.25-04.25.06:422][434]LogExit: Preparing to exit.
+[2019.09.25-04.25.06:565][434]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.09.25-04.25.06:579][434]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.09.25-04.25.06:587][434]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.09.25-04.25.06:587][434]LogExit: Editor shut down
+[2019.09.25-04.25.06:587][434]LogExit: Transaction tracking system shut down
+[2019.09.25-04.25.06:879][434]LogExit: Object subsystem successfully closed.
+[2019.09.25-04.25.06:910][434]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.09.25-04.25.06:965][434]LogModuleManager: Shutting down and abandoning module MeshBuilder (672)
+[2019.09.25-04.25.06:965][434]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (670)
+[2019.09.25-04.25.06:965][434]LogModuleManager: Shutting down and abandoning module SceneOutliner (668)
+[2019.09.25-04.25.06:965][434]LogModuleManager: Shutting down and abandoning module AddContentDialog (666)
+[2019.09.25-04.25.06:965][434]LogModuleManager: Shutting down and abandoning module WidgetCarousel (665)
+[2019.09.25-04.25.06:965][434]LogModuleManager: Shutting down and abandoning module EditorWidgets (662)
+[2019.09.25-04.25.06:965][434]LogModuleManager: Shutting down and abandoning module CollectionManager (660)
+[2019.09.25-04.25.06:965][434]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (658)
+[2019.09.25-04.25.06:965][434]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.09.25-04.25.06:965][434]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.09.25-04.25.06:966][434]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.09.25-04.25.06:966][434]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.09.25-04.25.06:968][434]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.09.25-04.25.06:968][434]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.09.25-04.25.06:968][434]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.09.25-04.25.06:968][434]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.09.25-04.25.06:968][434]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.09.25-04.25.06:968][434]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.09.25-04.25.06:968][434]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.09.25-04.25.06:969][434]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.09.25-04.25.06:969][434]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.09.25-04.25.06:969][434]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.09.25-04.25.06:969][434]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.09.25-04.25.06:969][434]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.09.25-04.25.06:969][434]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.09.25-04.25.06:971][434]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.09.25-04.25.06:971][434]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.09.25-04.25.06:972][434]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.09.25-04.25.06:972][434]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.09.25-04.25.06:972][434]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.09.25-04.25.06:972][434]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.09.25-04.25.06:972][434]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.09.25-04.25.06:972][434]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.09.25-04.25.06:972][434]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.09.25-04.25.06:972][434]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.09.25-04.25.06:973][434]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.09.25-04.25.06:973][434]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.09.25-04.25.06:973][434]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.09.25-04.25.06:973][434]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.09.25-04.25.06:973][434]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.09.25-04.25.06:973][434]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.09.25-04.25.06:973][434]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.09.25-04.25.06:973][434]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.09.25-04.25.06:973][434]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.09.25-04.25.06:973][434]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.09.25-04.25.06:973][434]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.09.25-04.25.06:973][434]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.09.25-04.25.06:973][434]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.09.25-04.25.06:973][434]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.09.25-04.25.06:973][434]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.09.25-04.25.06:973][434]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.09.25-04.25.06:973][434]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.09.25-04.25.06:973][434]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.09.25-04.25.06:973][434]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.09.25-04.25.06:974][434]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.09.25-04.25.06:976][434]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.09.25-04.25.06:976][434]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.09.25-04.25.06:976][434]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.09.25-04.25.06:977][434]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.09.25-04.25.06:977][434]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.09.25-04.25.06:977][434]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.09.25-04.25.06:977][434]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.09.25-04.25.06:977][434]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.09.25-04.25.08:775][434]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.09.25-04.25.08:775][434]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.09.25-04.25.08:775][434]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.09.25-04.25.08:775][434]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.09.25-04.25.08:775][434]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.09.25-04.25.08:775][434]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.09.25-04.25.08:775][434]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.09.25-04.25.08:776][434]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.09.25-04.25.08:776][434]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.09.25-04.25.08:776][434]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.09.25-04.25.08:776][434]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.09.25-04.25.08:776][434]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.09.25-04.25.08:776][434]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.09.25-04.25.08:776][434]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.09.25-04.25.08:776][434]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.09.25-04.25.08:776][434]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.09.25-04.25.08:776][434]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.09.25-04.25.08:776][434]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.09.25-04.25.08:776][434]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.09.25-04.25.08:777][434]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.09.25-04.25.08:777][434]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.09.25-04.25.08:778][434]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.09.25-04.25.08:778][434]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.09.25-04.25.08:831][434]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.09.25-04.25.08:831][434]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.09.25-04.25.08:833][434]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.09.25-04.25.08:834][434]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.09.25-04.25.08:834][434]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.09.25-04.25.08:834][434]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.09.25-04.25.08:835][434]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.09.25-04.25.08:838][434]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.09.25-04.25.08:839][434]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.09.25-04.25.08:839][434]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.09.25-04.25.08:839][434]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.09.25-04.25.08:839][434]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.09.25-04.25.08:841][434]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.09.25-04.25.08:843][434]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.09.25-04.25.08:843][434]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.09.25-04.25.08:843][434]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.09.25-04.25.08:843][434]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.09.25-04.25.08:844][434]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.09.25-04.25.08:844][434]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.09.25-04.25.08:845][434]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.09.25-04.25.08:845][434]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.09.25-04.25.08:845][434]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.09.25-04.25.08:845][434]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.09.25-04.25.08:845][434]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.09.25-04.25.08:845][434]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.09.25-04.25.08:845][434]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.09.25-04.25.08:845][434]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.09.25-04.25.08:845][434]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.09.25-04.25.08:845][434]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.09.25-04.25.08:845][434]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.09.25-04.25.08:845][434]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.09.25-04.25.08:845][434]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.09.25-04.25.08:845][434]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.09.25-04.25.08:845][434]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.09.25-04.25.08:845][434]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.09.25-04.25.08:845][434]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.09.25-04.25.08:845][434]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.09.25-04.25.08:849][434]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.09.25-04.25.09:018][434]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.09.25-04.25.09:019][434]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.09.25-04.25.09:019][434]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.09.25-04.25.09:019][434]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.09.25-04.25.09:019][434]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.09.25-04.25.09:019][434]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.09.25-04.25.09:019][434]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.09.25-04.25.09:019][434]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.09.25-04.25.09:019][434]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.09.25-04.25.09:019][434]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.09.25-04.25.09:020][434]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.09.25-04.25.09:021][434]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.09.25-04.25.09:021][434]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.09.25-04.25.09:021][434]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.09.25-04.25.09:021][434]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.09.25-04.25.09:021][434]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.09.25-04.25.09:021][434]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.09.25-04.25.09:021][434]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.09.25-04.25.09:021][434]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.09.25-04.25.09:022][434]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.09.25-04.25.09:022][434]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.09.25-04.25.09:022][434]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.09.25-04.25.09:023][434]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.09.25-04.25.09:023][434]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.09.25-04.25.09:023][434]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.09.25-04.25.09:023][434]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.09.25-04.25.09:023][434]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.09.25-04.25.09:023][434]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.09.25-04.25.09:023][434]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.09.25-04.25.09:024][434]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.09.25-04.25.09:024][434]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.09.25-04.25.09:024][434]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.09.25-04.25.09:024][434]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.09.25-04.25.09:024][434]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.09.25-04.25.09:024][434]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.09.25-04.25.09:024][434]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.09.25-04.25.09:024][434]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.09.25-04.25.09:024][434]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.09.25-04.25.09:024][434]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.09.25-04.25.09:025][434]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.09.25-04.25.09:025][434]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.09.25-04.25.09:025][434]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.09.25-04.25.09:025][434]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.09.25-04.25.09:025][434]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.09.25-04.25.09:025][434]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.09.25-04.25.09:127][434]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.09.25-04.25.09:227][434]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.09.25-04.25.09:227][434]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.09.25-04.25.09:227][434]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.09.25-04.25.09:227][434]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.09.25-04.25.09:227][434]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.09.25-04.25.09:227][434]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.09.25-04.25.09:227][434]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.09.25-04.25.09:227][434]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.09.25-04.25.09:227][434]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.09.25-04.25.09:228][434]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.09.25-04.25.09:228][434]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.09.25-04.25.09:228][434]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.09.25-04.25.09:228][434]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.09.25-04.25.09:228][434]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.09.25-04.25.09:229][434]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.09.25-04.25.09:229][434]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.09.25-04.25.09:229][434]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.09.25-04.25.09:229][434]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.09.25-04.25.09:230][434]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.09.25-04.25.09:231][434]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.09.25-04.25.09:231][434]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.09.25-04.25.09:231][434]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.09.25-04.25.09:231][434]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.09.25-04.25.09:231][434]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.09.25-04.25.09:234][434]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.09.25-04.25.09:234][434]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.09.25-04.25.09:234][434]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.09.25-04.25.09:234][434]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.09.25-04.25.09:234][434]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.09.25-04.25.09:236][434]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.09.25-04.25.09:236][434]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.09.25-04.25.09:236][434]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.09.25-04.25.09:236][434]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.09.25-04.25.09:236][434]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.09.25-04.25.09:237][434]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.09.25-04.25.09:237][434]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.09.25-04.25.09:239][434]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.09.25-04.25.09:239][434]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.09.25-04.25.09:239][434]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.09.25-04.25.09:239][434]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.09.25-04.25.09:239][434]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.09.25-04.25.09:239][434]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.09.25-04.25.09:241][434]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.09.25-04.25.09:241][434]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.09.25-04.25.09:243][434]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.09.25-04.25.09:243][434]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.09.25-04.25.09:243][434]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.09.25-04.25.09:244][434]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.09.25-04.25.09:244][434]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.09.25-04.25.09:244][434]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.09.25-04.25.09:244][434]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.09.25-04.25.09:244][434]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.09.25-04.25.09:244][434]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.09.25-04.25.09:244][434]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.09.25-04.25.09:244][434]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.09.25-04.25.09:244][434]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.09.25-04.25.09:244][434]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.09.25-04.25.09:244][434]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.09.25-04.25.09:244][434]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.09.25-04.25.09:245][434]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.09.25-04.25.09:246][434]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.09.25-04.25.09:246][434]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.09.25-04.25.09:247][434]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.09.25-04.25.09:247][434]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.09.25-04.25.09:347][434]LogDerivedDataCache: Shutdown
+[2019.09.25-04.25.09:347][434]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.09.25-04.25.09:347][434]LogXGEController: Cleaning working directory: C:/Users/ADMIN/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.25-04.25.09:347][434]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.09.25-04.25.09:347][434]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.09.25-04.25.09:347][434]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.09.25-04.25.09:347][434]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.09.25-04.25.09:348][434]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.09.25-04.25.09:348][434]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.09.25-04.25.09:349][434]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.09.25-04.25.09:349][434]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.09.25-04.25.09:349][434]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.09.25-04.25.09:349][434]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.09.25-04.25.09:349][434]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.09.25-04.25.09:349][434]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.09.25-04.25.09:349][434]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.09.25-04.25.09:349][434]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.09.25-04.25.09:349][434]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.09.25-04.25.09:349][434]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.09.25-04.25.09:349][434]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.09.25-04.25.09:350][434]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.09.25-04.25.09:350][434]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.09.25-04.25.09:350][434]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.09.25-04.25.09:350][434]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.09.25-04.25.09:350][434]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.09.25-04.25.09:351][434]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.09.25-04.25.09:351][434]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.09.25-04.25.09:351][434]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.09.25-04.25.09:351][434]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.09.25-04.25.09:358][434]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.09.25-04.25.09:358][434]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.09.25-04.25.09:358][434]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.09.25-04.25.09:358][434]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.09.25-04.25.09:359][434]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.09.25-04.25.09:359][434]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.09.25-04.25.09:359][434]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.09.25-04.25.09:359][434]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.09.25-04.25.09:359][434]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.09.25-04.25.09:359][434]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.09.25-04.25.09:359][434]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.09.25-04.25.09:359][434]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.09.25-04.25.09:359][434]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.09.25-04.25.09:359][434]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.09.25-04.25.09:359][434]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.09.25-04.25.09:359][434]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.09.25-04.25.09:359][434]LogHMD: Freeing OpenVRDLLHandle.
+[2019.09.25-04.25.09:359][434]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.09.25-04.25.09:359][434]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.09.25-04.25.09:359][434]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.09.25-04.25.09:359][434]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.09.25-04.25.09:359][434]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.09.25-04.25.09:361][434]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.09.25-04.25.09:362][434]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.09.25-04.25.09:366][434]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.09.25-04.25.09:366][434]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.09.25-04.25.09:366][434]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B53ED2FF1-4BFF-D2E9-63BF-EAAE9E5E594A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.09.25-04.25.09:399][434]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.09.25-04.25.09:400][434]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.09.25-04.25.09:403][434]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.09.25-04.25.09:403][434]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.09.25-04.25.09:403][434]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.09.25-04.25.09:404][434]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.09.25-04.25.09:404][434]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.09.25-04.25.09:404][434]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.09.25-04.25.09:404][434]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.09.25-04.25.09:405][434]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.09.25-04.25.09:406][434]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.09.25-04.25.09:406][434]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.09.25-04.25.09:406][434]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.09.25-04.25.09:406][434]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.09.25-04.25.09:406][434]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.09.25-04.25.09:408][434]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.09.25-04.25.09:409][434]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.09.25-04.25.09:409][434]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.09.25-04.25.09:409][434]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.09.25-04.25.09:409][434]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.09.25-04.25.09:409][434]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.09.25-04.25.09:409][434]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.09.25-04.25.09:409][434]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.09.25-04.25.09:409][434]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.09.25-04.25.09:409][434]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.09.25-04.25.09:409][434]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.09.25-04.25.09:409][434]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.09.25-04.25.09:411][434]LogD3D11RHI: Shutdown
+[2019.09.25-04.25.09:411][434]LogD3D11RHI: CleanupD3DDevice
+[2019.09.25-04.25.09:412][434]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.25-04.25.09:412][434]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.25-04.25.09:412][434]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.09.25-04.25.09:533][434]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.09.25-04.25.09:542][434]LogExit: Exiting.
+[2019.09.25-04.25.09:554][434]Log file closed, 09/25/19 09:55:09
