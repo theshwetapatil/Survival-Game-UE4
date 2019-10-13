@@ -1,0 +1,1443 @@
+﻿Log file open, 10/13/19 13:42:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Survival
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.882998
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 5 2400G with Radeon Vega Graphics    , GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.13-08.12.47:162][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.13-08.12.47:162][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Engine.ini]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Engine.ini]
+[2019.10.13-08.12.47:163][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Engine.ini]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Engine.ini]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.13-08.12.47:163][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Engine.ini]
+[2019.10.13-08.12.47:163][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Engine.ini]
+[2019.10.13-08.12.47:173][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.13-08.12.47:173][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.13-08.12.47:174][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-08.12.47:174][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.13-08.12.47:175][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.13-08.12.47:176][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.13-08.12.47:177][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.13-08.12.47:183][  0]LogHAL: Display: Platform has ~ 16 GB [17125855232 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.13-08.12.47:183][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.13-08.12.47:183][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.13-08.12.47:183][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.13-08.12.47:184][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.13-08.12.47:184][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.13-08.12.47:184][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-08.12.47:184][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.13-08.12.47:184][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.13-08.12.47:184][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.13-08.12.47:184][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.13-08.12.47:184][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.13-08.12.47:184][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.13-08.12.47:184][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.13-08.12.47:184][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.13-08.12.47:184][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.13-08.12.47:184][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.13-08.12.47:184][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.13-08.12.47:184][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.13-08.12.47:184][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.13-08.12.47:184][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-08.12.47:184][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.13-08.12.47:184][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.13-08.12.47:184][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.13-08.12.47:185][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.13-08.12.47:185][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.13-08.12.47:185][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Config/Windows/Engine.ini]
+[2019.10.13-08.12.47:186][  0]LogInit: Computer: DESKTOP-C697CL8
+[2019.10.13-08.12.47:186][  0]LogInit: User: ADMIN
+[2019.10.13-08.12.47:186][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.13-08.12.47:186][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.13-08.12.47:186][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.13-08.12.47:186][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.13-08.12.47:186][  0]LogMemory: Process Physical Memory: 101.66 MB used, 101.66 MB peak
+[2019.10.13-08.12.47:186][  0]LogMemory: Process Virtual Memory: 98.79 MB used, 98.79 MB peak
+[2019.10.13-08.12.47:186][  0]LogMemory: Physical Memory: 3983.91 MB used,  12348.58 MB free, 16332.49 MB total
+[2019.10.13-08.12.47:186][  0]LogMemory: Virtual Memory: 4666.73 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.10.13-08.12.47:194][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.13-08.12.47:377][  0]LogInit: Using OS detected language (en-US).
+[2019.10.13-08.12.47:377][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.13-08.12.47:381][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.13-08.12.47:837][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.13-08.12.47:907][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.13-08.12.47:907][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.13-08.12.48:330][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.13-08.12.48:330][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.13-08.12.48:405][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.10.13-08.12.48:405][  0]LogD3D11RHI:       4018/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.10.13-08.12.48:408][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.13-08.12.48:408][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.13-08.12.48:408][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.13-08.12.48:418][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.13-08.12.48:418][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.13-08.12.48:418][  0]LogWindows: EnumDisplayDevices:
+[2019.10.13-08.12.48:418][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2019.10.13-08.12.48:418][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
+[2019.10.13-08.12.48:418][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.10.13-08.12.48:419][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.10.13-08.12.48:419][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.13-08.12.48:419][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.10.13-08.12.48:419][  0]LogD3D11RHI:   Driver Version: 399.24 (internal:24.21.13.9924, unified:399.24)
+[2019.10.13-08.12.48:419][  0]LogD3D11RHI:      Driver Date: 9-5-2018
+[2019.10.13-08.12.48:419][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2019.10.13-08.12.48:478][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.13-08.12.48:514][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.10.13-08.12.49:119][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.13-08.12.49:132][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.13-08.12.49:144][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.13-08.12.49:157][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.13-08.12.49:170][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.13-08.12.49:184][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.13-08.12.49:196][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.13-08.12.49:212][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.13-08.12.49:220][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.13-08.12.49:264][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.13-08.12.49:264][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.13-08.12.49:264][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.13-08.12.49:264][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.13-08.12.49:264][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.13-08.12.49:264][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.13-08.12.49:264][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.13-08.12.49:264][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.13-08.12.49:264][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.13-08.12.49:264][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.13-08.12.49:264][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.13-08.12.49:264][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.13-08.12.49:264][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.13-08.12.49:264][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.13-08.12.49:264][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.13-08.12.49:264][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.13-08.12.49:264][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.13-08.12.49:264][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.13-08.12.49:269][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.13-08.12.49:299][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.13-08.12.49:299][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.13-08.12.49:317][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.13-08.12.49:317][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.13-08.12.49:330][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.13-08.12.49:341][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.13-08.12.49:352][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.13-08.12.49:365][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.13-08.12.49:397][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.13-08.12.49:397][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.13-08.12.49:397][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.13-08.12.49:422][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.13-08.12.49:569][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Intermediate/Shaders/WorkingDirectory/10740/).
+[2019.10.13-08.12.49:570][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ADMIN/AppData/Local/Temp/UnrealShaderWorkingDir/023B2C074C9F203001FD3BA8AF374B92/'.
+[2019.10.13-08.12.49:574][  0]LogXGEController: Cleaning working directory: C:/Users/ADMIN/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.13-08.12.49:575][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.13-08.12.49:575][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.13-08.12.49:575][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.13-08.12.50:562][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.13-08.12.50:759][  0]LogDerivedDataCache: Loaded boot cache 0.20s 73MB C:/Users/ADMIN/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.13-08.12.50:759][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ADMIN/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.13-08.12.50:760][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.13-08.12.50:760][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.13-08.12.50:760][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.13-08.12.50:760][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.13-08.12.50:777][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.13-08.12.50:777][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.13-08.12.50:777][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.13-08.12.50:779][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ADMIN/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.13-08.12.50:779][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.13-08.12.50:779][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.13-08.12.50:803][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.13-08.12.50:814][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.13-08.12.50:820][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.13-08.12.50:983][  0]LogAssetRegistry: FAssetRegistry took 0.0067 seconds to start up
+[2019.10.13-08.12.51:558][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.13-08.12.51:871][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.13-08.12.51:872][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.13-08.12.51:872][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.13-08.12.51:872][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.13-08.12.51:872][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.13-08.12.51:916][  0]LogNetVersion: Survival 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1609872609)
+[2019.10.13-08.12.52:721][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.048885 seconds
+[2019.10.13-08.12.52:730][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.13-08.12.52:730][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.13-08.12.52:730][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.13-08.12.55:209][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.13-08.12.55:219][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.13-08.12.55:382][  0]SourceControl: Source control is disabled
+[2019.10.13-08.12.55:383][  0]SourceControl: Source control is disabled
+[2019.10.13-08.12.55:400][  0]SourceControl: Source control is disabled
+[2019.10.13-08.12.55:406][  0]SourceControl: Source control is disabled
+[2019.10.13-08.12.55:720][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.13-08.12.55:995][  0]LogOcInput: OculusInput pre-init called
+[2019.10.13-08.12.56:014][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.13-08.12.56:014][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.13-08.12.56:189][  0]LogEngine: Initializing Engine...
+[2019.10.13-08.12.56:192][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.13-08.12.56:197][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2019.10.13-08.12.56:491][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.13-08.12.56:557][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.13-08.12.56:598][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.13-08.12.56:670][  0]LogInit: FAudioDevice initialized.
+[2019.10.13-08.12.56:670][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.13-08.12.56:757][  0]LogDerivedDataCache: Saved boot cache 0.09s 73MB C:/Users/ADMIN/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.13-08.12.56:760][  0]LogInit: Texture streaming: Enabled
+[2019.10.13-08.12.56:795][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.13-08.12.56:878][  0]LogInit: Transaction tracking system initialized
+[2019.10.13-08.12.56:989][  0]BlueprintLog: New page: Editor Load
+[2019.10.13-08.12.57:247][  0]LocalizationService: Localization service is disabled
+[2019.10.13-08.12.57:873][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/' took 0.01s
+[2019.10.13-08.12.57:873][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.13-08.12.57:873][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.13-08.12.58:746][  0]SourceControl: Source control is disabled
+[2019.10.13-08.12.58:747][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.13-08.12.58:750][  0]LightingResults: New page: Lighting Build
+[2019.10.13-08.12.58:760][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-08.12.58:763][  0]MapCheck: New page: Map Check
+[2019.10.13-08.12.58:763][  0]LightingResults: New page: Lighting Build
+[2019.10.13-08.12.58:801][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.10.13-08.12.58:948][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.10.13-08.12.59:001][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.13-08.12.59:034][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.10.13-08.12.59:034][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.13-08.12.59:035][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.611ms to complete.
+[2019.10.13-08.12.59:035][  0]LogFileHelpers: Loading map 'Template_Default' took 0.289
+[2019.10.13-08.12.59:221][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-08.12.59:230][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-08.12.59:237][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-08.12.59:245][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-08.12.59:267][  0]LogCollectionManager: Loaded 0 collections in 0.002961 seconds
+[2019.10.13-08.12.59:299][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Collections/' took 0.00s
+[2019.10.13-08.12.59:299][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Developers/ADMIN/Collections/' took 0.00s
+[2019.10.13-08.12.59:299][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Collections/' took 0.00s
+[2019.10.13-08.12.59:299][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.10.13-08.12.59:312][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2863 classes and 680 folders.
+[2019.10.13-08.12.59:329][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.13-08.12.59:514][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.13-08.12.59:534][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.13-08.13.00:892][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.13-08.13.00:921][  0]LogSlate: Took 0.001488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.13-08.13.00:925][  0]LogSlate: Took 0.001849 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.13-08.13.00:938][  0]LogSlate: Took 0.001208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.13-08.13.01:011][  0]LogRenderer: Reallocating scene render targets to support 852x176 Format 10 NumSamples 1 (Frame:1).
+[2019.10.13-08.13.01:137][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.13-08.13.01:138][  0]LogLoad: (Engine Initialization) Total time: 19.03 seconds
+[2019.10.13-08.13.01:138][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.13-08.13.01:243][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.13-08.13.01:460][  4]LogAssetRegistry: Asset discovery search completed in 10.4781 seconds
+[2019.10.13-08.13.01:464][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.10.13-08.13.01:464][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2019.10.13-08.13.02:794][  8]LogSlate: Took 0.001515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.13-08.13.13:724][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-08.13.16:445][422]LogAIModule: Creating AISystem for world Survival_Map
+[2019.10.13-08.13.16:494][422]LogAssetEditorManager: Opening Asset editor for World /Game/Survival_Map.Survival_Map
+[2019.10.13-08.13.16:523][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.10.13-08.13.16:525][422]Cmd: MAP LOAD FILE="../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.13-08.13.16:525][422]LightingResults: New page: Lighting Build
+[2019.10.13-08.13.16:526][422]LoadErrors: New page: Loading map: Survival_Map.umap
+[2019.10.13-08.13.16:527][422]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-08.13.16:528][422]MapCheck: New page: Map Check
+[2019.10.13-08.13.16:528][422]LightingResults: New page: Lighting Build
+[2019.10.13-08.13.16:556][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.10.13-08.13.16:628][422]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.13-08.13.16:674][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.10.13-08.13.16:705][422]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.13-08.13.16:708][422]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.24ms to complete.
+[2019.10.13-08.13.16:708][422]LogFileHelpers: Loading map 'Survival_Map' took 0.184
+[2019.10.13-08.13.48:872][  7]LogRenderer: Reallocating scene render targets to support 852x180 Format 10 NumSamples 1 (Frame:1538).
+[2019.10.13-08.13.48:906][  8]LogRenderer: Reallocating scene render targets to support 852x188 Format 10 NumSamples 1 (Frame:1540).
+[2019.10.13-08.13.48:945][  9]LogRenderer: Reallocating scene render targets to support 852x208 Format 10 NumSamples 1 (Frame:1542).
+[2019.10.13-08.13.48:988][ 10]LogRenderer: Reallocating scene render targets to support 852x240 Format 10 NumSamples 1 (Frame:1544).
+[2019.10.13-08.13.49:026][ 11]LogRenderer: Reallocating scene render targets to support 852x276 Format 10 NumSamples 1 (Frame:1546).
+[2019.10.13-08.13.49:067][ 12]LogRenderer: Reallocating scene render targets to support 852x308 Format 10 NumSamples 1 (Frame:1548).
+[2019.10.13-08.13.49:108][ 13]LogRenderer: Reallocating scene render targets to support 852x332 Format 10 NumSamples 1 (Frame:1550).
+[2019.10.13-08.13.49:143][ 14]LogRenderer: Reallocating scene render targets to support 852x340 Format 10 NumSamples 1 (Frame:1552).
+[2019.10.13-08.13.49:233][ 22]LogRenderer: Reallocating scene render targets to support 852x344 Format 10 NumSamples 1 (Frame:1554).
+[2019.10.13-08.13.49:281][ 24]LogRenderer: Reallocating scene render targets to support 852x348 Format 10 NumSamples 1 (Frame:1556).
+[2019.10.13-08.13.49:318][ 25]LogRenderer: Reallocating scene render targets to support 852x352 Format 10 NumSamples 1 (Frame:1558).
+[2019.10.13-08.13.49:389][ 27]LogRenderer: Reallocating scene render targets to support 852x356 Format 10 NumSamples 1 (Frame:1562).
+[2019.10.13-08.13.49:455][ 29]LogRenderer: Reallocating scene render targets to support 852x360 Format 10 NumSamples 1 (Frame:1566).
+[2019.10.13-08.13.49:494][ 30]LogRenderer: Reallocating scene render targets to support 852x364 Format 10 NumSamples 1 (Frame:1568).
+[2019.10.13-08.13.49:555][ 31]LogRenderer: Reallocating scene render targets to support 852x368 Format 10 NumSamples 1 (Frame:1570).
+[2019.10.13-08.13.49:596][ 32]LogRenderer: Reallocating scene render targets to support 852x372 Format 10 NumSamples 1 (Frame:1572).
+[2019.10.13-08.13.49:683][ 34]LogRenderer: Reallocating scene render targets to support 852x380 Format 10 NumSamples 1 (Frame:1576).
+[2019.10.13-08.13.49:721][ 35]LogRenderer: Reallocating scene render targets to support 852x384 Format 10 NumSamples 1 (Frame:1578).
+[2019.10.13-08.13.49:770][ 36]LogRenderer: Reallocating scene render targets to support 852x392 Format 10 NumSamples 1 (Frame:1580).
+[2019.10.13-08.13.49:867][ 38]LogRenderer: Reallocating scene render targets to support 852x396 Format 10 NumSamples 1 (Frame:1584).
+[2019.10.13-08.13.49:949][ 41]LogRenderer: Reallocating scene render targets to support 852x400 Format 10 NumSamples 1 (Frame:1588).
+[2019.10.13-08.15.06:189][704]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.13-08.15.54:980][864]LogRenderer: Reallocating scene render targets to support 852x404 Format 10 NumSamples 1 (Frame:4151).
+[2019.10.13-08.15.55:084][869]LogRenderer: Reallocating scene render targets to support 852x408 Format 10 NumSamples 1 (Frame:4155).
+[2019.10.13-08.16.14:958][ 26]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.13-08.16.29:272][ 24]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/KGHealthPickUp.KGHealthPickUp
+[2019.10.13-08.16.29:704][ 24]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 121 classes and 0 folders.
+[2019.10.13-08.16.37:908][ 74]LogRenderer: Reallocating scene render targets to support 852x460 Format 10 NumSamples 1 (Frame:11).
+[2019.10.13-08.16.38:309][122]LogSlate: Window 'KGHealthPickUp' being destroyed
+[2019.10.13-08.17.06:961][388]LogSlate: Took 0.001501 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.13-08.18.38:622][737]LogSlate: Took 0.001407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.13-08.18.51:944][368]LogProperty: Warning: Serialized Class /Script/Engine.Skeleton for a property of Class /Script/Engine.SkeletalMesh. Reference will be nullptred.
+    Property = SoftObjectProperty /Script/Engine.PhysicsAsset:PreviewSkeletalMesh
+    Item = Skeleton /Game/Assets/Knight/Skeleton_KnightGirl.Skeleton_KnightGirl
+[2019.10.13-08.18.52:048][368]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/KGCharacterBase.KGCharacterBase
+[2019.10.13-08.23.23:671][329]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2019.10.13-08.23.23:671][329]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Survival_Map' took 0.044
+[2019.10.13-08.23.23:673][329]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/KGHealthPickUp] ([1] browsable assets)...
+[2019.10.13-08.23.23:673][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/KGHealthPickUp]
+[2019.10.13-08.23.23:696][329]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/KGHealthPickUp_Auto16B9CB33D408DBC6C5F60C3AF1F51D0FB.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Blueprints/KGHealthPickUp_Auto1.uasset'
+[2019.10.13-08.23.23:698][329]LogFileHelpers: Auto-saving content packages took 0.025
+[2019.10.13-08.24.31:225][716]LogEditorTransaction: Undo Move Node
+[2019.10.13-08.24.31:667][766]LogEditorTransaction: Undo Create Pin Link
+[2019.10.13-08.24.32:201][828]LogEditorTransaction: Undo Move Node
+[2019.10.13-08.25.01:351][264]LogHttp: Warning: 000001FEC7BD39C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B728D413D-4F7C-36F1-D294-B490422E40F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.13-08.25.01:352][264]LogHttp: Warning: 000001FEC7BD39C0: request failed, libcurl error: 0 (No error)
+[2019.10.13-08.25.01:352][264]LogHttp: Warning: 000001FEC7BD39C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1fe3c4b3f70 [can pipeline])
+[2019.10.13-08.25.01:352][264]LogHttp: Warning: 000001FEC7BD39C0: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2019.10.13-08.25.01:352][264]LogHttp: Warning: 000001FEC7BD39C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.212.249.236) port 443 (#4))
+[2019.10.13-08.25.01:352][264]LogHttp: Warning: 000001FEC7BD39C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.13-08.25.01:352][264]LogHttp: Warning: 000001FEC7BD39C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.13-08.25.01:352][264]LogHttp: Warning: 000001FEC7BD39C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.13-08.25.01:352][264]LogHttp: Warning: 000001FEC7BD39C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.13-08.25.01:352][264]LogHttp: Warning: 000001FEC7BD39C0: libcurl info message cache 7 (Closing connection 4)
+[2019.10.13-08.25.01:352][264]LogHttp: Warning: 000001FEC7BD39C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.13-08.25.01:352][264]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B728D413D-4F7C-36F1-D294-B490422E40F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.13-08.25.17:208][ 86]LogEditorTransaction: Redo Move Node
+[2019.10.13-08.29.48:323][508]BlueprintLog: New page: Compile KGHealthPickUp
+[2019.10.13-08.29.48:582][508]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.10.13-08.31.13:855][844]LogEditorTransaction: Undo Delete current selection
+[2019.10.13-08.32.55:440][927]BlueprintLog: New page: Compile KGHealthPickUp
+[2019.10.13-08.32.55:691][927]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.10.13-08.32.56:137][974]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/KGHealthPickUp25A4E5D34D99B90B84690A859AC91C18.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Blueprints/KGHealthPickUp.uasset'
+[2019.10.13-08.33.49:592][690]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Assets/Effects/P_Health.P_Health
+[2019.10.13-08.33.49:618][690]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2019.10.13-08.34.02:881][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-08.34.17:217][709]LogParticles: Warning: MaxCount =  766 for Emitter ParticleSpriteEmitter_1 (/Game/Assets/Effects/P_Health.P_Health)
+[2019.10.13-08.34.23:350][445]LogParticles: Warning: MaxCount =  766 for Emitter ParticleSpriteEmitter_1 (/Game/Assets/Effects/P_Health.P_Health)
+[2019.10.13-08.34.45:830][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-08.34.55:314][473]LogParticles: Warning: MaxCount =  766 for Emitter ParticleSpriteEmitter_1 (/Game/Assets/Effects/P_Health.P_Health)
+[2019.10.13-08.35.32:924][665]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.10.13-08.35.32:924][665]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Survival_Map' took 0.064
+[2019.10.13-08.35.32:926][665]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Effects/P_Health] ([1] browsable assets)...
+[2019.10.13-08.35.32:930][665]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Assets/Effects/P_Health.P_Health]
+[2019.10.13-08.35.32:931][665]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Effects/P_Health]
+[2019.10.13-08.35.32:943][665]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/P_Health_Auto2B4B0FE4346BEEE20E99423AC60420F65.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Assets/Effects/P_Health_Auto2.uasset'
+[2019.10.13-08.35.32:944][665]LogFileHelpers: Auto-saving content packages took 0.019
+[2019.10.13-08.36.08:370][ 33]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/P_Health678481324EEE5CC4EC7D359D97ED1681.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Assets/Effects/P_Health.uasset'
+[2019.10.13-08.37.34:316][412]BlueprintLog: New page: Compile KGHealthPickUp
+[2019.10.13-08.37.34:635][412]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2019.10.13-08.37.35:380][492]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/KGHealthPickUp7758F7DB498D3F1C79918A8870F4EAE1.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Blueprints/KGHealthPickUp.uasset'
+[2019.10.13-08.38.01:350][600]LogHttp: Warning: 000001FE9C9C0900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B728D413D-4F7C-36F1-D294-B490422E40F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.13-08.38.01:350][600]LogHttp: Warning: 000001FE9C9C0900: request failed, libcurl error: 0 (No error)
+[2019.10.13-08.38.01:350][600]LogHttp: Warning: 000001FE9C9C0900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1fe3c4b3f70 [can pipeline])
+[2019.10.13-08.38.01:350][600]LogHttp: Warning: 000001FE9C9C0900: libcurl info message cache 1 (Re-using existing connection! (#12) with host datarouter.ol.epicgames.com)
+[2019.10.13-08.38.01:350][600]LogHttp: Warning: 000001FE9C9C0900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.193.236.143) port 443 (#12))
+[2019.10.13-08.38.01:350][600]LogHttp: Warning: 000001FE9C9C0900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.13-08.38.01:350][600]LogHttp: Warning: 000001FE9C9C0900: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.13-08.38.01:350][600]LogHttp: Warning: 000001FE9C9C0900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.13-08.38.01:350][600]LogHttp: Warning: 000001FE9C9C0900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.13-08.38.01:350][600]LogHttp: Warning: 000001FE9C9C0900: libcurl info message cache 7 (Closing connection 12)
+[2019.10.13-08.38.01:350][600]LogHttp: Warning: 000001FE9C9C0900: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.13-08.38.01:350][600]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B728D413D-4F7C-36F1-D294-B490422E40F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.13-08.38.22:671][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-08.38.23:515][215]LogRenderer: Reallocating scene render targets to support 852x468 Format 10 NumSamples 1 (Frame:8215).
+[2019.10.13-08.38.23:556][216]LogRenderer: Reallocating scene render targets to support 852x488 Format 10 NumSamples 1 (Frame:8217).
+[2019.10.13-08.38.23:595][217]LogRenderer: Reallocating scene render targets to support 852x492 Format 10 NumSamples 1 (Frame:8219).
+[2019.10.13-08.38.23:653][221]LogRenderer: Reallocating scene render targets to support 852x496 Format 10 NumSamples 1 (Frame:8221).
+[2019.10.13-08.38.23:693][223]LogRenderer: Reallocating scene render targets to support 852x500 Format 10 NumSamples 1 (Frame:8223).
+[2019.10.13-08.38.46:543][481]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-08.39.28:881][492]Cmd: TRANSACTION UNDO
+[2019.10.13-08.39.28:881][492]LogEditorTransaction: Undo Move Actors
+[2019.10.13-08.39.36:987][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-08.39.37:167][447]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2019.10.13-08.39.37:760][447]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map46ECBB2D4BC5B0AD38A087B4439F9857.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2019.10.13-08.39.38:595][447]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltDataB68541DD44E26FF04C3FA4955CE0993C.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2019.10.13-08.39.39:167][510]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-08.40.07:057][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-08.41.30:666][615]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/KGCharacterAI.KGCharacterAI
+[2019.10.13-08.41.38:668][512]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-08.42.09:171][953]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/KGAIControllerBase.KGAIControllerBase
+[2019.10.13-08.44.01:390][549]LogHttp: Warning: 000001FF0660D440: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B728D413D-4F7C-36F1-D294-B490422E40F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.13-08.44.01:390][549]LogHttp: Warning: 000001FF0660D440: request failed, libcurl error: 0 (No error)
+[2019.10.13-08.44.01:390][549]LogHttp: Warning: 000001FF0660D440: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1fe3c4b3f70 [can pipeline])
+[2019.10.13-08.44.01:390][549]LogHttp: Warning: 000001FF0660D440: libcurl info message cache 1 (Re-using existing connection! (#14) with host datarouter.ol.epicgames.com)
+[2019.10.13-08.44.01:390][549]LogHttp: Warning: 000001FF0660D440: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.200.58.248) port 443 (#14))
+[2019.10.13-08.44.01:390][549]LogHttp: Warning: 000001FF0660D440: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.13-08.44.01:390][549]LogHttp: Warning: 000001FF0660D440: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.13-08.44.01:390][549]LogHttp: Warning: 000001FF0660D440: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.13-08.44.01:390][549]LogHttp: Warning: 000001FF0660D440: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.13-08.44.01:390][549]LogHttp: Warning: 000001FF0660D440: libcurl info message cache 7 (Closing connection 14)
+[2019.10.13-08.44.01:390][549]LogHttp: Warning: 000001FF0660D440: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.13-08.44.01:398][550]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B728D413D-4F7C-36F1-D294-B490422E40F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.13-08.49.37:400][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.10.13-08.49.37:401][ 44]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Survival_Map' took 0.050
+[2019.10.13-08.49.37:402][ 44]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/KGAIControllerBase] ([1] browsable assets)...
+[2019.10.13-08.49.37:402][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/KGAIControllerBase]
+[2019.10.13-08.49.37:458][ 44]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/KGAIControllerBase_Auto3E3A1C07446ACC44D56F9289351B2DE8A.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Blueprints/KGAIControllerBase_Auto3.uasset'
+[2019.10.13-08.49.37:459][ 44]LogFileHelpers: Auto-saving content packages took 0.057
+[2019.10.13-08.52.01:604][ 44]LogHttp: Warning: 000001FF0AC52700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B728D413D-4F7C-36F1-D294-B490422E40F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.13-08.52.01:604][ 44]LogHttp: Warning: 000001FF0AC52700: request failed, libcurl error: 0 (No error)
+[2019.10.13-08.52.01:604][ 44]LogHttp: Warning: 000001FF0AC52700: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1fe3c4b3f70 [can pipeline])
+[2019.10.13-08.52.01:604][ 44]LogHttp: Warning: 000001FF0AC52700: libcurl info message cache 1 (Re-using existing connection! (#18) with host datarouter.ol.epicgames.com)
+[2019.10.13-08.52.01:604][ 44]LogHttp: Warning: 000001FF0AC52700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.232.220.76) port 443 (#18))
+[2019.10.13-08.52.01:604][ 44]LogHttp: Warning: 000001FF0AC52700: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.13-08.52.01:604][ 44]LogHttp: Warning: 000001FF0AC52700: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.13-08.52.01:604][ 44]LogHttp: Warning: 000001FF0AC52700: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.13-08.52.01:604][ 44]LogHttp: Warning: 000001FF0AC52700: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.13-08.52.01:604][ 44]LogHttp: Warning: 000001FF0AC52700: libcurl info message cache 7 (Closing connection 18)
+[2019.10.13-08.52.01:604][ 44]LogHttp: Warning: 000001FF0AC52700: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.13-08.52.01:604][ 44]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B728D413D-4F7C-36F1-D294-B490422E40F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.13-08.55.04:215][115]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.13-08.59.47:476][ 81]LogEditorTransaction: Undo Create Pin Link
+[2019.10.13-09.00.04:275][611]LogEditorTransaction: Undo Add Node
+[2019.10.13-09.00.05:766][783]LogEditorTransaction: Redo Add Node
+[2019.10.13-09.00.34:537][362]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2019.10.13-09.00.34:537][362]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Survival_Map' took 0.045
+[2019.10.13-09.00.34:539][362]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/KGAIControllerBase] ([1] browsable assets)...
+[2019.10.13-09.00.34:539][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/KGAIControllerBase]
+[2019.10.13-09.00.34:591][362]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/KGAIControllerBase_Auto4D4DE366D4E7417E28BCBAF9FD264896C.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Blueprints/KGAIControllerBase_Auto4.uasset'
+[2019.10.13-09.00.34:593][362]LogFileHelpers: Auto-saving content packages took 0.055
+[2019.10.13-09.02.29:769][290]BlueprintLog: New page: Compile KGHealthPickUp
+[2019.10.13-09.02.30:106][290]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2019.10.13-09.02.30:617][342]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/KGHealthPickUpA273A5734BFCB47F2145BB835C648A8F.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Blueprints/KGHealthPickUp.uasset'
+[2019.10.13-09.02.33:535][689]BlueprintLog: New page: Compile KGAIControllerBase
+[2019.10.13-09.02.33:860][689]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2019.10.13-09.02.34:426][742]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/KGAIControllerBaseDEE5D46D4B0518A686B26682E288E0AD.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Blueprints/KGAIControllerBase.uasset'
+[2019.10.13-09.06.02:664][ 16]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.13-09.06.10:385][455]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/KGSpawner.KGSpawner
+[2019.10.13-09.07.01:545][775]LogHttp: Warning: 000001FF150C6480: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B728D413D-4F7C-36F1-D294-B490422E40F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.13-09.07.01:545][775]LogHttp: Warning: 000001FF150C6480: request failed, libcurl error: 0 (No error)
+[2019.10.13-09.07.01:545][775]LogHttp: Warning: 000001FF150C6480: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1fe3c4b3f70 [can pipeline])
+[2019.10.13-09.07.01:545][775]LogHttp: Warning: 000001FF150C6480: libcurl info message cache 1 (Re-using existing connection! (#27) with host datarouter.ol.epicgames.com)
+[2019.10.13-09.07.01:545][775]LogHttp: Warning: 000001FF150C6480: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.54.203.96) port 443 (#27))
+[2019.10.13-09.07.01:545][775]LogHttp: Warning: 000001FF150C6480: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.13-09.07.01:545][775]LogHttp: Warning: 000001FF150C6480: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.13-09.07.01:545][775]LogHttp: Warning: 000001FF150C6480: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.13-09.07.01:545][775]LogHttp: Warning: 000001FF150C6480: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.13-09.07.01:546][775]LogHttp: Warning: 000001FF150C6480: libcurl info message cache 7 (Closing connection 27)
+[2019.10.13-09.07.01:546][775]LogHttp: Warning: 000001FF150C6480: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.13-09.07.01:878][776]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B728D413D-4F7C-36F1-D294-B490422E40F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.13-09.08.31:226][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2019.10.13-09.08.31:825][  0]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map6EE2F0D74BED02F32B7267B87022116B.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2019.10.13-09.08.32:495][  0]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltData2EF3272A4869E084061EA98986550E18.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2019.10.13-09.09.23:039][741]LogEditorTransaction: Undo Move Node
+[2019.10.13-09.09.23:544][799]LogEditorTransaction: Undo Create Pin Link
+[2019.10.13-09.09.24:186][874]LogEditorTransaction: Undo Add Node
+[2019.10.13-09.12.03:410][756]LogEditorTransaction: Undo Move Nodes
+[2019.10.13-09.12.05:101][956]LogEditorTransaction: Undo Move Nodes
+[2019.10.13-09.14.01:534][119]LogHttp: Warning: 000001FF0A01F4C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B728D413D-4F7C-36F1-D294-B490422E40F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.13-09.14.01:534][119]LogHttp: Warning: 000001FF0A01F4C0: request failed, libcurl error: 0 (No error)
+[2019.10.13-09.14.01:534][119]LogHttp: Warning: 000001FF0A01F4C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1fe3c4b3f70 [can pipeline])
+[2019.10.13-09.14.01:534][119]LogHttp: Warning: 000001FF0A01F4C0: libcurl info message cache 1 (Re-using existing connection! (#30) with host datarouter.ol.epicgames.com)
+[2019.10.13-09.14.01:534][119]LogHttp: Warning: 000001FF0A01F4C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.22.81.26) port 443 (#30))
+[2019.10.13-09.14.01:534][119]LogHttp: Warning: 000001FF0A01F4C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.13-09.14.01:534][119]LogHttp: Warning: 000001FF0A01F4C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.13-09.14.01:534][119]LogHttp: Warning: 000001FF0A01F4C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.13-09.14.01:534][119]LogHttp: Warning: 000001FF0A01F4C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.13-09.14.01:534][119]LogHttp: Warning: 000001FF0A01F4C0: libcurl info message cache 7 (Closing connection 30)
+[2019.10.13-09.14.01:534][119]LogHttp: Warning: 000001FF0A01F4C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.13-09.14.01:874][120]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B728D413D-4F7C-36F1-D294-B490422E40F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.13-09.14.42:263][640]LogEditorTransaction: Undo Move Node
+[2019.10.13-09.14.43:845][826]LogEditorTransaction: Undo Move Node
+[2019.10.13-09.14.46:847][184]LogEditorTransaction: Redo Move Node
+[2019.10.13-09.15.07:654][384]BlueprintLog: New page: Compile KGSpawner
+[2019.10.13-09.15.07:657][384]LogBlueprint: Error: [Compiler KGSpawner] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2019.10.13-09.15.08:005][384]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2019.10.13-09.16.55:336][468]BlueprintLog: New page: Compile KGSpawner
+[2019.10.13-09.16.55:680][468]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2019.10.13-09.16.57:580][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KGSpawner" FILE="../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Blueprints/KGSpawner.uasset" SILENT=true
+[2019.10.13-09.16.57:594][691]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/KGSpawner6BC9DEAC44C59CBE2769B2993AEA8D7A.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Blueprints/KGSpawner.uasset'
+[2019.10.13-09.17.18:241][976]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.13-09.17.35:781][ 47]BlueprintLog: New page: Compile KGSpawner
+[2019.10.13-09.17.36:107][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.10.13-09.17.36:599][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KGSpawner" FILE="../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Blueprints/KGSpawner.uasset" SILENT=true
+[2019.10.13-09.17.36:615][101]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/KGSpawner37919304475E5B1EFD0150AF6BAF6735.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Blueprints/KGSpawner.uasset'
+[2019.10.13-09.18.23:276][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-09.18.36:656][331]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-09.18.40:244][759]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-09.18.47:195][559]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-09.18.50:312][930]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-09.18.59:549][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-09.19.02:079][333]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-09.19.21:220][323]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-09.20.05:494][585]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-09.20.05:569][585]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2019.10.13-09.20.06:169][585]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_Auto5D1EA64954579B13C63675B94FCC3C0EA.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Autosaves/Game/Survival_Map_Auto5.umap'
+[2019.10.13-09.20.06:173][585]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Survival_Map' took 0.653
+[2019.10.13-09.20.06:173][585]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.653
+[2019.10.13-09.22.01:357][396]LogHttp: Warning: 000001FF1692BEC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B728D413D-4F7C-36F1-D294-B490422E40F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.13-09.22.01:357][396]LogHttp: Warning: 000001FF1692BEC0: request failed, libcurl error: 0 (No error)
+[2019.10.13-09.22.01:357][396]LogHttp: Warning: 000001FF1692BEC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1fe3c4b3f70 [can pipeline])
+[2019.10.13-09.22.01:357][396]LogHttp: Warning: 000001FF1692BEC0: libcurl info message cache 1 (Re-using existing connection! (#34) with host datarouter.ol.epicgames.com)
+[2019.10.13-09.22.01:357][396]LogHttp: Warning: 000001FF1692BEC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.214.239.133) port 443 (#34))
+[2019.10.13-09.22.01:357][396]LogHttp: Warning: 000001FF1692BEC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.13-09.22.01:357][396]LogHttp: Warning: 000001FF1692BEC0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.13-09.22.01:357][396]LogHttp: Warning: 000001FF1692BEC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.13-09.22.01:357][396]LogHttp: Warning: 000001FF1692BEC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.13-09.22.01:357][396]LogHttp: Warning: 000001FF1692BEC0: libcurl info message cache 7 (Closing connection 34)
+[2019.10.13-09.22.01:357][396]LogHttp: Warning: 000001FF1692BEC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.13-09.22.01:357][396]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B728D413D-4F7C-36F1-D294-B490422E40F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.13-09.25.13:386][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-09.25.13:592][391]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.10.13-09.25.14:189][391]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map18DDEBF64B859DA9BBF69E991DA0C097.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2019.10.13-09.25.14:819][391]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltDataA10C00234EAE171D211597BA5706EFC5.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2019.10.13-09.25.15:316][442]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-09.27.30:392][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-09.27.38:358][937]Cmd: DELETE
+[2019.10.13-09.27.38:358][937]Cmd: ACTOR DELETE
+[2019.10.13-09.27.38:373][937]LogEditorActor: Deleted Actor: KGHealthPickUp_C
+[2019.10.13-09.27.38:373][937]LogEditorActor: Deleted Actor: KGHealthPickUp_C
+[2019.10.13-09.27.38:374][937]LogEditorActor: Deleted Actor: KGHealthPickUp_C
+[2019.10.13-09.27.38:374][937]LogEditorActor: Deleted Actor: KGHealthPickUp_C
+[2019.10.13-09.27.38:375][937]LogEditorActor: Deleted Actor: KGHealthPickUp_C
+[2019.10.13-09.27.38:423][937]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.10.13-09.27.38:423][937]LogEditorActor: Deleted 5 Actors (0.063 secs)
+[2019.10.13-09.27.42:770][152]Cmd: TRANSACTION UNDO
+[2019.10.13-09.27.42:770][152]LogEditorTransaction: Undo Delete Actors
+[2019.10.13-09.30.01:372][242]LogHttp: Warning: 000001FE55BCFEC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B728D413D-4F7C-36F1-D294-B490422E40F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.13-09.30.01:372][242]LogHttp: Warning: 000001FE55BCFEC0: request failed, libcurl error: 0 (No error)
+[2019.10.13-09.30.01:373][242]LogHttp: Warning: 000001FE55BCFEC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1fe3c4b3f70 [can pipeline])
+[2019.10.13-09.30.01:373][242]LogHttp: Warning: 000001FE55BCFEC0: libcurl info message cache 1 (Re-using existing connection! (#37) with host datarouter.ol.epicgames.com)
+[2019.10.13-09.30.01:373][242]LogHttp: Warning: 000001FE55BCFEC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.5.92.97) port 443 (#37))
+[2019.10.13-09.30.01:373][242]LogHttp: Warning: 000001FE55BCFEC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.13-09.30.01:373][242]LogHttp: Warning: 000001FE55BCFEC0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.13-09.30.01:373][242]LogHttp: Warning: 000001FE55BCFEC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.13-09.30.01:373][242]LogHttp: Warning: 000001FE55BCFEC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.13-09.30.01:373][242]LogHttp: Warning: 000001FE55BCFEC0: libcurl info message cache 7 (Closing connection 37)
+[2019.10.13-09.30.01:373][242]LogHttp: Warning: 000001FE55BCFEC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.13-09.30.01:373][242]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B728D413D-4F7C-36F1-D294-B490422E40F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.13-09.30.26:491][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-09.30.44:384][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-09.30.51:362][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-09.30.57:098][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-09.31.49:425][290]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-09.32.28:754][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-09.32.29:036][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.10.13-09.32.29:651][414]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map25C1FF13418AB8909482BA8FDDDDC461.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2019.10.13-09.32.30:318][414]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltData0255F06E49F5E0A66D9CBF88CA045C15.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2019.10.13-09.32.37:115][697]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.10.13-09.32.37:747][697]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map40960C3E43ECD4B0E3A0DBAEFFDB6416.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2019.10.13-09.32.38:354][697]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltData6D7FDE044652B1758F155CB5D8E869D2.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2019.10.13-09.32.38:961][722]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.10.13-09.32.49:040][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Castle_Bridge_Wall_5)
+[2019.10.13-09.32.50:686][ 14]Cmd: SELECT NONE
+[2019.10.13-09.33.02:438][247]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.13-09.33.03:537][378]MapCheck: New page: Map Check
+[2019.10.13-09.33.03:544][378]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-09.33.03:547][378]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.13-09.33.03:547][378]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.13-09.33.03:568][378]LogWorld: UWorld::CleanupWorld for Survival_Map, bSessionEnded=true, bCleanupResources=false
+[2019.10.13-09.33.03:636][378]LightingResults: New page: Lighting Build - Oct 13, 2019, 8:33:03 PM
+[2019.10.13-09.33.03:724][378]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.13-09.33.03:808][378]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.13-09.33.03:844][378]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.13-09.33.04:919][378]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.13-09.33.04:919][378]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10740
+[2019.10.13-09.33.07:562][378]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.13-09.33.07:562][378]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.13-09.33.07:562][378]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.13-09.33.07:562][378]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.13-09.33.07:562][378]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.13-09.33.07:947][378]LogEditorBuildUtils: Build time 0:04
+[2019.10.13-09.33.08:063][380]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.10.13-09.33.20:321][945]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.20:321][945]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.33.20:638][960]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.20:638][960]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.33.22:581][ 51]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.22:581][ 51]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.33.23:099][ 75]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.23:099][ 75]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.33.23:918][114]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.23:918][114]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.33.27:180][265]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.27:180][265]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.33.27:269][269]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.27:269][269]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.33.29:922][364]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.29:922][364]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.33.30:270][365]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.30:270][365]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.33.30:601][366]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.30:601][366]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.33.30:930][367]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.30:930][367]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.33.32:946][373]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.32:946][373]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.33.37:028][385]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.37:030][385]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.33.37:699][387]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.37:699][387]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.33.37:699][387]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.37:699][387]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.33.39:715][393]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.39:715][393]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.33.40:380][395]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.40:380][395]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.33.41:727][399]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.41:727][399]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.33.48:098][418]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.48:098][418]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.33.48:763][420]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.33.48:763][420]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.34.43:885][584]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.34.43:885][584]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.34.45:899][590]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.34.45:899][590]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.34.46:231][591]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.34.46:231][591]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.34.46:573][592]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.34.46:573][592]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.34.50:589][604]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.34.50:589][604]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.34.53:603][613]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.34.53:603][613]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.34.58:971][629]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.34.58:971][629]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.35.01:330][636]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.35.01:330][636]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.35.01:662][637]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.35.01:662][637]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.35.01:993][638]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.35.01:993][638]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.35.03:006][641]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.35.03:006][641]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.35.03:327][642]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.35.03:327][642]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.35.03:669][643]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.35.03:669][643]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.35.04:672][646]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.35.04:672][646]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.35.04:672][646]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.35.04:672][646]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.35.14:739][676]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.35.14:739][676]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.35.24:477][705]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.35.24:477][705]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.35.24:808][706]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.35.24:808][706]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.35.25:139][707]LightingResults: Warning: SM_Plains_Flowers04 Object has overlapping UVs.
+[2019.10.13-09.35.25:139][707]LightingResults: SM_Plains_Flowers04 Lightmap UV are overlapping by 96.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.13-09.35.35:222][737]Job is a success!
+[2019.10.13-09.35.36:534][738]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.859s
+[2019.10.13-09.35.36:534][738]LogVolumetricLightmapImport:      Indirection Texture 64x64x64 = 1.0Mb
+[2019.10.13-09.35.36:534][738]LogVolumetricLightmapImport:      BrickData 1280x90x5 = 20.3Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.10.13-09.35.36:534][738]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.13-09.35.36:534][738]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2019.10.13-09.35.36:534][738]LogVolumetricLightmapImport:          1: 5.5% covering 6.1% of volume
+[2019.10.13-09.35.36:534][738]LogVolumetricLightmapImport:          2: 93.2% covering 1.6% of volume
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 512X512)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 512X512)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 512X512)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 512X512)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 128X128)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 128X128)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 256X256)
+[2019.10.13-09.35.38:470][738]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 256X256)
+[2019.10.13-09.35.38:627][738]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 128X128)
+[2019.10.13-09.35.38:627][738]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 128X128)
+[2019.10.13-09.35.38:627][738]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 128X128)
+[2019.10.13-09.35.38:627][738]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 128X128)
+[2019.10.13-09.35.38:627][738]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 128X128)
+[2019.10.13-09.35.38:627][738]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 128X128)
+[2019.10.13-09.35.38:627][738]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 256X128)
+[2019.10.13-09.35.38:627][738]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 128X128)
+[2019.10.13-09.35.38:627][738]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 128X128)
+[2019.10.13-09.35.38:627][738]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 128X128)
+[2019.10.13-09.35.38:627][738]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 128X128)
+[2019.10.13-09.35.38:627][738]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 512X128)
+[2019.10.13-09.35.38:627][738]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 512X128)
+[2019.10.13-09.35.38:627][738]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 512X64)
+[2019.10.13-09.35.38:627][738]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 512X64)
+[2019.10.13-09.35.38:627][738]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 512X128)
+[2019.10.13-09.35.38:627][738]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 512X512)
+[2019.10.13-09.35.38:627][738]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 1024X256)
+[2019.10.13-09.35.38:627][738]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 1024X512)
+[2019.10.13-09.35.38:716][738]Lightmass on DESKTOP-C697CL8: 2:29 min total, 563 ms importing, 464 ms setup, 10.4 sec photons, 2:18 min processing, 0 ms extra exporting [411/411 mappings]. Threads: 16:08 min total, 1:37 min processing.
+[2019.10.13-09.35.38:727][738]LogStaticLightingSystem: Survival_Map_BuiltData storing lightmap data for 226 meshes in 30 LightmapResourceClusters (7.5 Meshes per cluster).
+[2019.10.13-09.35.38:810][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.10.13-09.35.38:827][738]LogStaticLightingSystem: Illumination: 2:34 min (1.61 sec encoding lightmaps, 154 ms encoding shadowmaps)
+[2019.10.13-09.35.38:827][738]LogStaticLightingSystem: Lightmap texture memory:  9.3 MB (7.3 MB streaming, 2.0 MB non-streaming), 42 textures
+[2019.10.13-09.35.38:827][738]LogStaticLightingSystem: Shadowmap texture memory: 1.9 MB (1.6 MB streaming, 0.3 MB non-streaming), 19 textures
+[2019.10.13-09.35.39:618][738]DumpUnbuiltLightIteractions
+[2019.10.13-09.35.39:618][738]Lights with unbuilt interactions: 0
+[2019.10.13-09.35.39:618][738]
+[2019.10.13-09.35.39:618][738]Primitives with unbuilt interactions: 0
+[2019.10.13-09.35.39:860][739]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.13-09.35.39:860][739]MapCheck: New page: Survival_Map - Oct 13, 2019, 8:35:39 PM
+[2019.10.13-09.35.39:864][739]MapCheck: Warning: SM_Plains_ArchArch_10 Collision enabled but StaticMesh (SM_Plains_ArchArch) has no simple or complex collision. 
+[2019.10.13-09.35.39:864][739]MapCheck: Warning: SM_Plains_ArchArch2 Collision enabled but StaticMesh (SM_Plains_ArchArch) has no simple or complex collision. 
+[2019.10.13-09.35.39:864][739]MapCheck: Warning: SM_Plains_ArchArch3 Collision enabled but StaticMesh (SM_Plains_ArchArch) has no simple or complex collision. 
+[2019.10.13-09.35.39:864][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag3_2 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:864][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag4 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:864][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag5 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:864][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag6 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:864][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag7 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:864][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag8 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:864][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag9 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:865][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag10 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:865][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag11 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:865][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag12 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:865][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag13 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:865][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag14 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:865][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag15 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:865][739]MapCheck: Warning: SM_Plains_ArchArch4 Collision enabled but StaticMesh (SM_Plains_ArchArch) has no simple or complex collision. 
+[2019.10.13-09.35.39:865][739]MapCheck: Warning: SM_Plains_ArchArch5 Collision enabled but StaticMesh (SM_Plains_ArchArch) has no simple or complex collision. 
+[2019.10.13-09.35.39:865][739]MapCheck: Warning: SM_Plains_ArchArch6 Collision enabled but StaticMesh (SM_Plains_ArchArch) has no simple or complex collision. 
+[2019.10.13-09.35.39:865][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag16 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:865][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag17 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:865][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag18 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:865][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag19 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:865][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag20 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:865][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag21 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:866][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag22 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:866][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag23 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:866][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag24 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:866][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag25 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:866][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag26 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:866][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag27 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:866][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag28 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:866][739]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD4_18 Collision enabled but StaticMesh (SM_Plains_LargeRock_SpireLOD4) has no simple or complex collision. 
+[2019.10.13-09.35.39:866][739]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD5 Collision enabled but StaticMesh (SM_Plains_LargeRock_SpireLOD4) has no simple or complex collision. 
+[2019.10.13-09.35.39:866][739]MapCheck: Warning: SM_Plains_LargeRock_SpireLOD8 Collision enabled but StaticMesh (SM_Plains_LargeRock_SpireLOD4) has no simple or complex collision. 
+[2019.10.13-09.35.39:867][739]MapCheck: Warning: SM_Plains_Colunnade_Mid_01_24 Collision enabled but StaticMesh (SM_Plains_Colunnade_Mid_01) has no simple or complex collision. 
+[2019.10.13-09.35.39:867][739]MapCheck: Warning: SM_Plains_Colunnade_Mid_2 Collision enabled but StaticMesh (SM_Plains_Colunnade_Mid_01) has no simple or complex collision. 
+[2019.10.13-09.35.39:867][739]MapCheck: Warning: SM_Plains_Colunnade_Mid_3 Collision enabled but StaticMesh (SM_Plains_Colunnade_Mid_01) has no simple or complex collision. 
+[2019.10.13-09.35.39:867][739]MapCheck: Warning: SM_Plains_Colunnade_Mid_4 Collision enabled but StaticMesh (SM_Plains_Colunnade_Mid_01) has no simple or complex collision. 
+[2019.10.13-09.35.39:867][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag29_2 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:867][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag30 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:867][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag31 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:867][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag32 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:867][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag33 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:867][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag34 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:867][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag35 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:867][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag36 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:867][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag37 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:868][739]MapCheck: Warning: SK_Env_Ice_Deco2_BlowingFlag38 SkeletalMeshActor '/Game/InfinityBladeGrassLands/Environments/Earth/EX_EnvAssets/Meshes/SK_Env_Ice_Deco2_BlowingFlag3.SK_Env_Ice_Deco2_BlowingFlag3' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.10.13-09.35.39:868][739]MapCheck: Map check complete: 0 Error(s), 49 Warning(s), took 7.78ms to complete.
+[2019.10.13-09.36.03:214][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-09.36.03:331][809]LogSlate: Window 'Message Log' being destroyed
+[2019.10.13-09.36.04:592][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-09.36.04:756][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.10.13-09.36.05:390][862]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_MapFE5A998C49985D581EDA1D858C3A841D.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map.umap'
+[2019.10.13-09.36.06:002][862]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Saved/Survival_Map_BuiltData51DFC0CE45AFA01B437358ADF1A44AE2.tmp' to '../../../../../../Users/ADMIN/Documents/GitHub/theshwetapatil/Survival-Game-UE4/Survival/Content/Survival_Map_BuiltData.uasset'
+[2019.10.13-09.36.07:444][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-09.36.07:982][989]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.10.13-09.36.08:069][989]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-09.36.08:134][989]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.13-09.36.08:135][989]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-09.36.08:178][989]LogCascade: Quitting Cascade. FXSystem=0x000001FEC1B6A8C0
+[2019.10.13-09.36.08:207][989]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-09.36.08:228][989]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.13-09.36.08:228][989]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-09.36.08:274][989]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.13-09.36.08:274][989]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-09.36.08:322][989]LogSlate: Window 'Survival - Unreal Editor' being destroyed
+[2019.10.13-09.36.08:323][989]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.13-09.36.08:532][990]Cmd: QUIT_EDITOR
+[2019.10.13-09.36.08:597][990]LogExit: Preparing to exit.
+[2019.10.13-09.36.08:904][990]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-09.36.08:908][990]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-09.36.08:912][990]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-09.36.08:916][990]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-09.36.08:920][990]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-09.36.08:923][990]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-09.36.08:927][990]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-09.36.08:990][990]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.10.13-09.36.09:000][990]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-09.36.09:002][990]LogExit: Editor shut down
+[2019.10.13-09.36.09:003][990]LogExit: Transaction tracking system shut down
+[2019.10.13-09.36.09:455][990]LogExit: Object subsystem successfully closed.
+[2019.10.13-09.36.09:485][990]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.13-09.36.09:541][990]LogModuleManager: Shutting down and abandoning module DistCurveEditor (678)
+[2019.10.13-09.36.09:541][990]LogModuleManager: Shutting down and abandoning module Cascade (676)
+[2019.10.13-09.36.09:541][990]LogModuleManager: Shutting down and abandoning module BlueprintGraph (674)
+[2019.10.13-09.36.09:541][990]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (672)
+[2019.10.13-09.36.09:541][990]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (670)
+[2019.10.13-09.36.09:541][990]LogModuleManager: Shutting down and abandoning module SceneOutliner (668)
+[2019.10.13-09.36.09:541][990]LogModuleManager: Shutting down and abandoning module AddContentDialog (666)
+[2019.10.13-09.36.09:542][990]LogModuleManager: Shutting down and abandoning module WidgetCarousel (665)
+[2019.10.13-09.36.09:542][990]LogModuleManager: Shutting down and abandoning module EditorWidgets (662)
+[2019.10.13-09.36.09:542][990]LogModuleManager: Shutting down and abandoning module CollectionManager (660)
+[2019.10.13-09.36.09:542][990]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (658)
+[2019.10.13-09.36.09:542][990]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.10.13-09.36.09:542][990]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.10.13-09.36.09:542][990]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.10.13-09.36.09:542][990]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.10.13-09.36.09:544][990]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.10.13-09.36.09:544][990]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.10.13-09.36.09:544][990]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.10.13-09.36.09:544][990]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.10.13-09.36.09:544][990]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.10.13-09.36.09:544][990]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.10.13-09.36.09:544][990]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.10.13-09.36.09:544][990]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.10.13-09.36.09:544][990]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.10.13-09.36.09:544][990]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.10.13-09.36.09:545][990]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.10.13-09.36.09:545][990]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.10.13-09.36.09:545][990]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.10.13-09.36.09:546][990]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.10.13-09.36.09:547][990]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.10.13-09.36.09:547][990]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.10.13-09.36.09:547][990]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.10.13-09.36.09:547][990]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.10.13-09.36.09:547][990]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.10.13-09.36.09:547][990]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.10.13-09.36.09:547][990]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.10.13-09.36.09:547][990]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.10.13-09.36.09:548][990]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.10.13-09.36.09:548][990]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.10.13-09.36.09:548][990]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.10.13-09.36.09:548][990]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.10.13-09.36.09:548][990]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.10.13-09.36.09:548][990]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.10.13-09.36.09:548][990]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.10.13-09.36.09:548][990]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.10.13-09.36.09:548][990]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.10.13-09.36.09:548][990]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.10.13-09.36.09:548][990]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.10.13-09.36.09:548][990]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.10.13-09.36.09:548][990]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.10.13-09.36.09:548][990]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.10.13-09.36.09:549][990]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.10.13-09.36.09:549][990]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.10.13-09.36.09:549][990]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.10.13-09.36.09:549][990]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.10.13-09.36.09:549][990]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.10.13-09.36.09:549][990]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.10.13-09.36.09:549][990]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.10.13-09.36.09:551][990]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.10.13-09.36.09:551][990]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.10.13-09.36.09:551][990]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.10.13-09.36.09:552][990]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.10.13-09.36.09:552][990]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.10.13-09.36.09:552][990]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.10.13-09.36.09:552][990]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.10.13-09.36.09:552][990]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.10.13-09.36.10:264][990]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.10.13-09.36.10:265][990]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.10.13-09.36.10:265][990]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.10.13-09.36.10:265][990]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.10.13-09.36.10:265][990]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.10.13-09.36.10:265][990]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.10.13-09.36.10:265][990]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.10.13-09.36.10:265][990]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.10.13-09.36.10:265][990]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.10.13-09.36.10:265][990]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.10.13-09.36.10:265][990]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.10.13-09.36.10:266][990]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.10.13-09.36.10:266][990]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.10.13-09.36.10:266][990]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.10.13-09.36.10:266][990]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.10.13-09.36.10:266][990]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.10.13-09.36.10:266][990]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.10.13-09.36.10:266][990]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.10.13-09.36.10:266][990]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.10.13-09.36.10:267][990]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.10.13-09.36.10:267][990]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.10.13-09.36.10:267][990]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.10.13-09.36.10:267][990]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.10.13-09.36.10:321][990]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.10.13-09.36.10:321][990]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.10.13-09.36.10:322][990]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.10.13-09.36.10:324][990]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.10.13-09.36.10:324][990]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.10.13-09.36.10:324][990]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.10.13-09.36.10:324][990]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.10.13-09.36.10:325][990]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.10.13-09.36.10:326][990]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.10.13-09.36.10:326][990]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.10.13-09.36.10:326][990]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.10.13-09.36.10:337][990]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.10.13-09.36.10:337][990]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.10.13-09.36.10:337][990]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.10.13-09.36.10:337][990]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.10.13-09.36.10:338][990]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.10.13-09.36.10:338][990]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.10.13-09.36.10:339][990]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.10.13-09.36.10:339][990]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.10.13-09.36.10:340][990]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.10.13-09.36.10:340][990]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.10.13-09.36.10:340][990]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.10.13-09.36.10:340][990]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.10.13-09.36.10:340][990]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.10.13-09.36.10:340][990]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.10.13-09.36.10:340][990]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.10.13-09.36.10:340][990]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.10.13-09.36.10:340][990]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.10.13-09.36.10:340][990]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.10.13-09.36.10:340][990]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.10.13-09.36.10:341][990]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.10.13-09.36.10:341][990]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.10.13-09.36.10:341][990]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.10.13-09.36.10:341][990]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.10.13-09.36.10:341][990]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.10.13-09.36.10:341][990]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.10.13-09.36.10:341][990]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.10.13-09.36.10:344][990]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.10.13-09.36.10:396][990]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.10.13-09.36.10:397][990]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.10.13-09.36.10:397][990]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.10.13-09.36.10:397][990]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.10.13-09.36.10:397][990]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.10.13-09.36.10:397][990]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.10.13-09.36.10:397][990]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.10.13-09.36.10:397][990]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.10.13-09.36.10:397][990]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.10.13-09.36.10:397][990]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.10.13-09.36.10:397][990]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.10.13-09.36.10:397][990]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.10.13-09.36.10:397][990]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.10.13-09.36.10:397][990]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.10.13-09.36.10:397][990]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.10.13-09.36.10:397][990]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.10.13-09.36.10:397][990]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.10.13-09.36.10:397][990]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.10.13-09.36.10:397][990]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.10.13-09.36.10:398][990]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.10.13-09.36.10:398][990]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.10.13-09.36.10:398][990]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.10.13-09.36.10:398][990]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.10.13-09.36.10:398][990]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.10.13-09.36.10:398][990]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.10.13-09.36.10:398][990]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.10.13-09.36.10:398][990]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.10.13-09.36.10:398][990]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.10.13-09.36.10:398][990]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.10.13-09.36.10:399][990]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.10.13-09.36.10:399][990]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.10.13-09.36.10:399][990]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.10.13-09.36.10:399][990]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.10.13-09.36.10:399][990]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.10.13-09.36.10:399][990]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.10.13-09.36.10:399][990]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.10.13-09.36.10:399][990]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.10.13-09.36.10:399][990]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.10.13-09.36.10:400][990]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.10.13-09.36.10:400][990]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.10.13-09.36.10:400][990]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.10.13-09.36.10:401][990]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.10.13-09.36.10:401][990]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.10.13-09.36.10:401][990]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.10.13-09.36.10:401][990]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.10.13-09.36.10:401][990]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.10.13-09.36.10:401][990]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.10.13-09.36.10:402][990]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.10.13-09.36.10:403][990]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.10.13-09.36.10:403][990]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.10.13-09.36.10:403][990]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.10.13-09.36.10:403][990]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.10.13-09.36.10:403][990]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.10.13-09.36.10:403][990]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.10.13-09.36.10:403][990]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.10.13-09.36.10:403][990]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.10.13-09.36.10:403][990]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.10.13-09.36.10:403][990]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.10.13-09.36.10:403][990]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.10.13-09.36.10:403][990]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.10.13-09.36.10:403][990]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.10.13-09.36.10:403][990]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.10.13-09.36.10:403][990]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.10.13-09.36.10:403][990]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.10.13-09.36.10:504][990]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.10.13-09.36.10:605][990]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.10.13-09.36.10:605][990]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.10.13-09.36.10:605][990]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.10.13-09.36.10:605][990]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.10.13-09.36.10:605][990]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.10.13-09.36.10:605][990]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.13-09.36.10:605][990]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.10.13-09.36.10:605][990]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.10.13-09.36.10:605][990]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.10.13-09.36.10:605][990]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.10.13-09.36.10:605][990]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.10.13-09.36.10:605][990]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.10.13-09.36.10:605][990]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.10.13-09.36.10:606][990]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.10.13-09.36.10:609][990]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.10.13-09.36.10:609][990]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.10.13-09.36.10:609][990]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.10.13-09.36.10:610][990]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.10.13-09.36.10:610][990]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.10.13-09.36.10:611][990]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.10.13-09.36.10:611][990]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.10.13-09.36.10:611][990]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.10.13-09.36.10:611][990]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.10.13-09.36.10:611][990]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.10.13-09.36.10:614][990]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.10.13-09.36.10:614][990]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.10.13-09.36.10:614][990]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.10.13-09.36.10:614][990]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.10.13-09.36.10:614][990]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.10.13-09.36.10:615][990]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.10.13-09.36.10:615][990]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.10.13-09.36.10:615][990]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.10.13-09.36.10:615][990]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.10.13-09.36.10:615][990]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.10.13-09.36.10:617][990]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.10.13-09.36.10:617][990]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.10.13-09.36.10:618][990]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.10.13-09.36.10:618][990]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.10.13-09.36.10:618][990]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.10.13-09.36.10:618][990]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.10.13-09.36.10:618][990]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.10.13-09.36.10:618][990]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.10.13-09.36.10:620][990]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.10.13-09.36.10:620][990]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.10.13-09.36.10:621][990]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.10.13-09.36.10:621][990]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.10.13-09.36.10:621][990]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.10.13-09.36.10:622][990]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.10.13-09.36.10:622][990]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.10.13-09.36.10:622][990]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.10.13-09.36.10:622][990]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.10.13-09.36.10:622][990]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.10.13-09.36.10:622][990]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.10.13-09.36.10:622][990]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.10.13-09.36.10:622][990]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.10.13-09.36.10:622][990]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.10.13-09.36.10:622][990]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.10.13-09.36.10:622][990]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.10.13-09.36.10:622][990]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.10.13-09.36.10:623][990]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.10.13-09.36.10:625][990]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.10.13-09.36.10:625][990]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.10.13-09.36.10:626][990]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.10.13-09.36.10:626][990]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.10.13-09.36.10:659][990]LogDerivedDataCache: Shutdown
+[2019.10.13-09.36.10:659][990]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.10.13-09.36.10:660][990]LogXGEController: Cleaning working directory: C:/Users/ADMIN/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.13-09.36.10:660][990]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.10.13-09.36.10:660][990]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.10.13-09.36.10:660][990]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.10.13-09.36.10:660][990]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.10.13-09.36.10:661][990]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.10.13-09.36.10:661][990]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.10.13-09.36.10:661][990]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.10.13-09.36.10:661][990]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.10.13-09.36.10:661][990]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.10.13-09.36.10:661][990]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.10.13-09.36.10:661][990]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.10.13-09.36.10:661][990]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.10.13-09.36.10:661][990]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.10.13-09.36.10:661][990]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.10.13-09.36.10:661][990]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.10.13-09.36.10:661][990]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.10.13-09.36.10:661][990]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.10.13-09.36.10:662][990]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.10.13-09.36.10:662][990]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.10.13-09.36.10:662][990]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.10.13-09.36.10:662][990]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.10.13-09.36.10:662][990]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.10.13-09.36.10:663][990]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.10.13-09.36.10:663][990]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.10.13-09.36.10:664][990]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.10.13-09.36.10:664][990]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.10.13-09.36.10:671][990]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.10.13-09.36.10:671][990]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.10.13-09.36.10:671][990]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.10.13-09.36.10:671][990]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.10.13-09.36.10:671][990]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.10.13-09.36.10:671][990]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.10.13-09.36.10:671][990]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.10.13-09.36.10:671][990]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.10.13-09.36.10:671][990]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.10.13-09.36.10:671][990]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.10.13-09.36.10:671][990]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.10.13-09.36.10:671][990]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.10.13-09.36.10:672][990]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.10.13-09.36.10:672][990]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.10.13-09.36.10:672][990]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.10.13-09.36.10:672][990]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.10.13-09.36.10:672][990]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.13-09.36.10:672][990]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.10.13-09.36.10:672][990]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.10.13-09.36.10:672][990]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.10.13-09.36.10:672][990]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.10.13-09.36.10:672][990]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.10.13-09.36.10:673][990]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.10.13-09.36.10:674][990]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.10.13-09.36.10:679][990]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.10.13-09.36.10:679][990]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2019.10.13-09.36.10:679][990]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B728D413D-4F7C-36F1-D294-B490422E40F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.13-09.36.10:679][990]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B728D413D-4F7C-36F1-D294-B490422E40F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=d1942f6a4feba2e5963fc3aa2bfdca63%7C57113a4ef07749e899daf8a54070ea17%7Cf4ca8fe6-52f1-41c0-8e75-0852c354e943&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.13-09.36.10:689][990]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.10.13-09.36.10:690][990]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.10.13-09.36.10:693][990]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.10.13-09.36.10:693][990]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.10.13-09.36.10:694][990]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.10.13-09.36.10:694][990]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.10.13-09.36.10:694][990]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.10.13-09.36.10:694][990]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.10.13-09.36.10:694][990]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.13-09.36.10:695][990]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.13-09.36.10:695][990]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.13-09.36.10:696][990]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.13-09.36.10:696][990]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.13-09.36.10:696][990]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.13-09.36.10:696][990]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.13-09.36.10:698][990]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.13-09.36.10:698][990]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.13-09.36.10:698][990]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.13-09.36.10:698][990]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.13-09.36.10:699][990]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.13-09.36.10:699][990]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.13-09.36.10:699][990]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.13-09.36.10:699][990]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.13-09.36.10:699][990]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.13-09.36.10:699][990]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.13-09.36.10:699][990]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.13-09.36.10:699][990]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.13-09.36.10:699][990]LogD3D11RHI: Shutdown
+[2019.10.13-09.36.10:699][990]LogD3D11RHI: CleanupD3DDevice
+[2019.10.13-09.36.10:701][990]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.13-09.36.10:701][990]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.13-09.36.10:701][990]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.13-09.36.10:896][990]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.13-09.36.10:907][990]LogExit: Exiting.
+[2019.10.13-09.36.10:911][990]Log file closed, 10/13/19 15:06:10
